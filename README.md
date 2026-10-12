@@ -54,32 +54,37 @@ npm run new -- <都道府県slug> <ファイル名slug> [カテゴリslug]
 
 ## 情報の自動取得（GitHub Actions）
 
-`.github/workflows/collect.yml` が毎日 6:47（JST）に `collector/sources.json` の情報源から新着情報を取得し、
-差分があれば PR（ブランチ `collect/auto`）を作成します。Actions タブから手動実行（Run workflow）もできます。
-取得のみで、記事化（`src/content/knowledge/`）は手動で行います。
+`.github/workflows/collect.yml` が `collector/sources.json` の情報源から情報を取得し、
+`data/collected/` を `main` に直接コミットします。コミット後は `deploy.yml` が自動で走り、
+サイトの「収集情報」ページ（`/collected/`）に反映されます。取得のみで、記事化は手動で行います。
 
-- 取得方式: `feed`（RSS/Atom の URL）があればそれを読み、なければページ内の RSS/Atom を自動検出、
-  見つからなければページ内のサイト内リンクを抽出します。Shift_JIS のページにも対応しています。
+- 実行タイミング: 毎日 6:47（JST）／ `collector/` を変更して `main` に入ったとき／ Actions タブから手動（Run workflow）
 - 保存先:
   - `data/collected/<id>.json` … 情報源ごとの取得済み一覧（`firstSeen` = 初めて見つけた日）
   - `data/collected/reports/<日付>.md` … その日の新着一覧
 - ローカル実行: `npm run collect`
 
-### 情報源の追加・調整（`collector/sources.json`）
+### 情報源の種類
+
+| 種類 | 設定 | 取得内容 |
+| --- | --- | --- |
+| 公式サイト等の Web ページ | `url` | ページ内の RSS/Atom を自動検出。なければサイト内リンクを抽出（Shift_JIS 対応） |
+| RSS/Atom | `feed` | フィードの記事（Google ニュースの検索 RSS など） |
+| Wikipedia | `wikipedia`（記事名） | 記事の概要文と最新版。版が更新されると新着として記録 |
+
+### 情報源の設定（`collector/sources.json`）
 
 | 項目 | 必須 | 内容 |
 | --- | --- | --- |
 | `id` | ○ | 保存ファイル名に使う ID |
-| `name` / `prefecture` / `area` | ○ | 表示名・都道府県 slug・市町村名 |
-| `url` | ○ | 取得するページ |
-| `feed` | | RSS/Atom の URL（分かっている場合） |
+| `name` / `prefecture` / `area` | ○ | 表示名・都道府県 slug・市町村名（`area` ごとにページでまとめて表示） |
+| `kind` | ○ | `official`（公式サイト） / `news` / `wikipedia` |
+| `url` | ○ | 取得するページ（`feed` / `wikipedia` の場合は表示用リンク） |
+| `feed` | | RSS/Atom の URL |
+| `wikipedia` | | Wikipedia の記事名（`lang` で言語を変更可。既定: `ja`） |
 | `selector` | | リンク抽出の対象範囲（CSS セレクタ。例: `#news`） |
 | `include` / `exclude` | | 対象にする / 除外する URL の正規表現の配列 |
 | `minTitleLength` | | これより短いリンク文字列は無視（既定: 6） |
 
-初回はトップページのメニュー等も含めて記録されるため、結果を見て `selector` や `include` で絞り込んでください。
-
-### 初回の準備
-
-リポジトリの Settings → Actions → General → Workflow permissions で
-「Allow GitHub Actions to create and approve pull requests」を有効にしてください。
+公式サイトは初回にメニュー等のリンクも記録されます。ページでは日付のあるものを優先して表示し、
+日付のないリンクは折りたたんでいます。必要に応じて `selector` や `include` で絞り込んでください。

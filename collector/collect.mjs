@@ -77,7 +77,10 @@ function parseFeed(xml, baseUrl) {
     const link = clean($el.children('link').text()) || $el.attr('rdf:about');
     const date =
       $el.children('pubDate').text() || $el.children('dc\\:date').text() || $el.children('date').text();
-    items.push({ title: clean($el.children('title').text()), url: link, date: toIsoDate(clean(date)) });
+    const publisher = clean($el.children('source').text()) || undefined; // Google ニュース等の配信元
+    let title = clean($el.children('title').text());
+    if (publisher && title.endsWith(` - ${publisher}`)) title = title.slice(0, -(publisher.length + 3));
+    items.push({ title, url: link, date: toIsoDate(clean(date)), publisher });
   });
   $('entry').each((_, el) => {
     const $el = $(el);
@@ -137,7 +140,39 @@ function extractLinks($, baseUrl, source) {
   return items;
 }
 
+/** Wikipedia の記事概要と最新版を取得する。版が変わるたびに新着として記録される */
+async function collectWikipedia(source) {
+  const lang = source.lang ?? 'ja';
+  const api = new URL(`https://${lang}.wikipedia.org/w/api.php`);
+  api.search = new URLSearchParams({
+    action: 'query',
+    format: 'json',
+    formatversion: '2',
+    prop: 'extracts|info',
+    exintro: '1',
+    explaintext: '1',
+    inprop: 'url',
+    redirects: '1',
+    titles: source.wikipedia,
+  }).toString();
+  const { text } = await fetchText(api.href);
+  const page = JSON.parse(text).query?.pages?.[0];
+  if (!page || page.missing) throw new Error(`Wikipedia に記事がありません: ${source.wikipedia}`);
+  return {
+    method: 'wikipedia',
+    summary: { text: clean(page.extract), url: page.fullurl, license: 'CC BY-SA 4.0' },
+    items: [
+      {
+        title: `Wikipedia「${page.title}」（版 ${page.lastrevid}）`,
+        url: `https://${lang}.wikipedia.org/w/index.php?oldid=${page.lastrevid}`,
+        date: toIsoDate(page.touched),
+      },
+    ],
+  };
+}
+
 async function collect(source) {
+  if (source.wikipedia) return collectWikipedia(source);
   if (source.feed) {
     const { text, finalUrl } = await fetchText(source.feed);
     return { method: 'feed', feedUrl: source.feed, items: parseFeed(text, finalUrl) };
@@ -173,7 +208,7 @@ for (const source of sources) {
   const prev = loadJson(file, { items: [] });
   const known = new Set(prev.items.map((i) => i.url));
   try {
-    const { method, feedUrl, items } = await collect(source);
+    const { method, feedUrl, summary, items } = await collect(source);
     const isFirstRun = prev.items.length === 0;
     const fresh = items
       .filter((i) => !known.has(i.url))
@@ -183,9 +218,17 @@ for (const source of sources) {
       file,
       JSON.stringify(
         {
-          source: { id: source.id, name: source.name, prefecture: source.prefecture, area: source.area, url: source.url },
+          source: {
+            id: source.id,
+            name: source.name,
+            kind: source.kind ?? 'other',
+            prefecture: source.prefecture,
+            area: source.area,
+            url: source.url,
+          },
           method,
           ...(feedUrl && { feedUrl }),
+          ...(summary && { summary }),
           lastFetchedAt: now.toISOString(),
           items: all,
         },
@@ -213,7 +256,8 @@ for (const r of results) {
   }
   if (r.isFirstRun) lines.push('初回取得のため、現在掲載されているものをすべて記録しています。', '');
   if (r.fresh.length === 0) lines.push('新着なし', '');
-  for (const i of r.fresh) lines.push(`- ${i.date ? `${i.date} ` : ''}[${i.title}](${i.url})`);
+  for (const i of r.fresh)
+    lines.push(`- ${i.date ? `${i.date} ` : ''}[${i.title}](${i.url})${i.publisher ? `（${i.publisher}）` : ''}`);
   if (r.fresh.length) lines.push('');
 }
 const report = lines.join('\n');

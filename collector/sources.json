@@ -3,6 +3,7 @@
     {
       "id": "nago-city",
       "name": "名護市 公式サイト",
+      "kind": "official",
       "prefecture": "okinawa",
       "area": "名護市",
       "url": "https://www.city.nago.okinawa.jp/"
@@ -10,9 +11,46 @@
     {
       "id": "kunigami-village",
       "name": "国頭村 公式サイト",
+      "kind": "official",
       "prefecture": "okinawa",
       "area": "国頭村",
       "url": "https://www.vill.kunigami.okinawa.jp/"
+    },
+    {
+      "id": "nago-news",
+      "name": "Google ニュース「名護市」",
+      "kind": "news",
+      "prefecture": "okinawa",
+      "area": "名護市",
+      "url": "https://news.google.com/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
+      "feed": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "id": "kunigami-news",
+      "name": "Google ニュース「国頭村」",
+      "kind": "news",
+      "prefecture": "okinawa",
+      "area": "国頭村",
+      "url": "https://news.google.com/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
+      "feed": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "id": "nago-wikipedia",
+      "name": "Wikipedia「名護市」",
+      "kind": "wikipedia",
+      "prefecture": "okinawa",
+      "area": "名護市",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%B8%82",
+      "wikipedia": "名護市"
+    },
+    {
+      "id": "kunigami-wikipedia",
+      "name": "Wikipedia「国頭村」",
+      "kind": "wikipedia",
+      "prefecture": "okinawa",
+      "area": "国頭村",
+      "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%A0%AD%E6%9D%91",
+      "wikipedia": "国頭村"
     }
   ]
 }
