@@ -29,6 +29,7 @@ const pageTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
           <a href={url('/regions/')}>地域</a>
           <a href={url('/categories/')}>カテゴリ</a>
           <a href={url('/tags/')}>タグ</a>
+          <a href={url('/collected/')}>収集情報</a>
         </nav>
       </div>
     </header>
@@ -60,7 +61,7 @@ const pageTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
     color: var(--text);
     text-decoration: none;
   }
-  nav { display: flex; gap: 16px; }
+  nav { display: flex; flex-wrap: wrap; gap: 4px 16px; }
   nav a { color: var(--muted); text-decoration: none; }
   nav a:hover { color: var(--accent); }
   main { padding-top: 24px; padding-bottom: 48px; }
