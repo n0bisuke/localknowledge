@@ -1,11 +1,12 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { collectedSources, groupByArea, sortByDate, type CollectedSource } from '../../lib/collected';
+import CollectedArea from '../../components/CollectedArea.astro';
+import { collectedSources, groupByArea } from '../../lib/collected';
 import { prefectureBySlug } from '../../data/prefectures';
+import { municipalityByName } from '../../data/municipalities';
+import { url } from '../../lib/knowledge';
 
-const NEWS_LIMIT = 20;
 const areas = groupByArea();
-const of = (sources: CollectedSource[], kind: string) => sources.filter((s) => s.source.kind === kind);
 const lastFetched = collectedSources
   .map((s) => s.lastFetchedAt)
   .sort()
@@ -34,80 +35,19 @@ const fmt = (iso: string) =>
   }
 
   {
-    areas.map(([area, sources]) => (
-      <section class="area" id={area}>
-        <h2>
-          {area}
-          <small class="muted"> {prefectureBySlug(sources[0].source.prefecture)?.name}</small>
-        </h2>
-
-        {of(sources, 'wikipedia').map((s) =>
-          s.summary ? (
-            <div class="summary">
-              <p>{s.summary.text}</p>
-              <small class="muted">
-                出典: <a href={s.summary.url} rel="noopener" target="_blank">{s.source.name}</a>（{s.summary.license}）
-              </small>
-            </div>
-          ) : null,
-        )}
-
-        {of(sources, 'news').map((s) => (
-          <div class="source">
-            <h3>
-              ニュース <a class="muted src" href={s.source.url} rel="noopener" target="_blank">{s.source.name}</a>
-            </h3>
-            <ul class="items">
-              {sortByDate(s.items)
-                .slice(0, NEWS_LIMIT)
-                .map((i) => (
-                  <li>
-                    <span class="date muted">{i.date ?? i.firstSeen}</span>
-                    <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
-                    {i.publisher && <span class="muted">（{i.publisher}）</span>}
-                  </li>
-                ))}
-            </ul>
-            {s.items.length === 0 && <p class="muted">まだ記事がありません。</p>}
-          </div>
-        ))}
-
-        {of(sources, 'official').map((s) => {
-          const dated = sortByDate(s.items.filter((i) => i.date));
-          const undated = s.items.filter((i) => !i.date);
-          return (
-            <div class="source">
-              <h3>
-                公式サイト <a class="muted src" href={s.source.url} rel="noopener" target="_blank">{s.source.name}</a>
-              </h3>
-              {dated.length > 0 && (
-                <ul class="items">
-                  {dated.map((i) => (
-                    <li>
-                      <span class="date muted">{i.date}</span>
-                      <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
-                    </li>
-                  ))}
-                </ul>
-              )}
-              {undated.length > 0 && (
-                <details>
-                  <summary class="muted">日付のないリンク（{undated.length}件）</summary>
-                  <ul class="items">
-                    {undated.map((i) => (
-                      <li>
-                        <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
-                      </li>
-                    ))}
-                  </ul>
-                </details>
-              )}
-              {s.items.length === 0 && <p class="muted">まだ取得できていません。</p>}
-            </div>
-          );
-        })}
-      </section>
-    ))
+    areas.map(([area, sources]) => {
+      const m = municipalityByName(area);
+      return (
+        <section class="area" id={area}>
+          <h2>
+            {m ? <a href={url(`/areas/${m.slug}/`)}>{area}</a> : area}
+            <small class="muted"> {prefectureBySlug(sources[0].source.prefecture)?.name}</small>
+          </h2>
+          <CollectedArea sources={sources} newsLimit={10} officialLimit={10} />
+          {m && <p class="more"><a href={url(`/areas/${m.slug}/`)}>{area}のページへ →</a></p>}
+        </section>
+      );
+    })
   }
 </Base>
 
@@ -115,23 +55,7 @@ const fmt = (iso: string) =>
   .toc { margin-bottom: 24px; }
   .area { margin-bottom: 48px; }
   h2 { border-bottom: 2px solid var(--accent); padding-bottom: 4px; }
+  h2 a { color: var(--text); text-decoration: none; }
   h2 small { font-size: 0.85rem; font-weight: normal; }
-  h3 { font-size: 1rem; margin: 24px 0 8px; }
-  .src { font-size: 0.8rem; font-weight: normal; margin-left: 8px; }
-  .summary {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 12px 16px;
-  }
-  .summary p { margin: 0 0 4px; }
-  .items { list-style: none; padding: 0; margin: 0; }
-  .items li {
-    padding: 6px 0;
-    border-bottom: 1px solid var(--border);
-    overflow-wrap: anywhere;
-  }
-  .date { font-size: 0.8rem; margin-right: 8px; font-variant-numeric: tabular-nums; }
-  details { margin-top: 8px; }
-  summary { cursor: pointer; font-size: 0.9rem; }
+  .more { text-align: right; }
 </style>

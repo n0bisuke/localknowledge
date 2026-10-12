@@ -3,6 +3,8 @@ import Base from '../../layouts/Base.astro';
 import KnowledgeList from '../../components/KnowledgeList.astro';
 import { getPublishedKnowledge } from '../../lib/knowledge';
 import { PREFECTURES, type Prefecture } from '../../data/prefectures';
+import { municipalitiesOf } from '../../data/municipalities';
+import { url } from '../../lib/knowledge';
 
 export async function getStaticPaths() {
   const entries = await getPublishedKnowledge();
@@ -18,10 +20,28 @@ interface Props {
 }
 
 const { pref, entries } = Astro.props;
+const municipalities = municipalitiesOf(pref.slug);
 ---
 
 <Base title={`${pref.name}のナレッジ`}>
   <p class="muted">{pref.area}</p>
   <h1>{pref.name}のナレッジ（{entries.length}件）</h1>
+  {
+    municipalities.length > 0 && (
+      <section class="municipalities">
+        <h2>市町村</h2>
+        <div class="chips">
+          {municipalities.map((m) => (
+            <a class="chip" href={url(`/areas/${m.slug}/`)}>{m.name}</a>
+          ))}
+        </div>
+      </section>
+    )
+  }
   <KnowledgeList entries={entries} />
 </Base>
+
+<style>
+  .municipalities { margin-bottom: 24px; }
+  .municipalities h2 { font-size: 1rem; }
+</style>

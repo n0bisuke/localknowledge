@@ -2,8 +2,9 @@
 import Base from '../layouts/Base.astro';
 import KnowledgeList from '../components/KnowledgeList.astro';
 import { getPublishedKnowledge, url } from '../lib/knowledge';
-import { AREAS, PREFECTURES } from '../data/prefectures';
+import { AREAS, PREFECTURES, prefectureBySlug } from '../data/prefectures';
 import { CATEGORIES } from '../data/categories';
+import { MUNICIPALITIES } from '../data/municipalities';
 
 const entries = await getPublishedKnowledge();
 const latest = entries.slice(0, 6);
@@ -24,6 +25,19 @@ const countByCat = (slug: string) => entries.filter((e) => e.data.category === s
     <h2>新着ナレッジ</h2>
     <KnowledgeList entries={latest} />
     {entries.length > latest.length && <p><a href={url('/knowledge/')}>すべて見る →</a></p>}
+  </section>
+
+  <section>
+    <h2>市町村ページ</h2>
+    <div class="chips">
+      {
+        MUNICIPALITIES.map((m) => (
+          <a class="chip" href={url(`/areas/${m.slug}/`)}>
+            {prefectureBySlug(m.prefecture)?.name} {m.name}
+          </a>
+        ))
+      }
+    </div>
   </section>
 
   <section>
