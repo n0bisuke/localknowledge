@@ -45,6 +45,8 @@ npm run new -- <都道府県slug> <ファイル名slug> [カテゴリslug]
 - `/regions/`、`/regions/<都道府県>/` 地域別
 - `/categories/`、`/categories/<カテゴリ>/` カテゴリ別
 - `/tags/`、`/tags/<タグ>/` タグ別
+- `/areas/<市町村>/` 市町村ページ（ナレッジ＋収集した情報）。対象の市町村は `src/data/municipalities.ts` で設定
+- `/collected/` 収集した情報の一覧
 
 ## 公開（GitHub Pages）
 
@@ -77,7 +79,7 @@ npm run new -- <都道府県slug> <ファイル名slug> [カテゴリslug]
 | 項目 | 必須 | 内容 |
 | --- | --- | --- |
 | `id` | ○ | 保存ファイル名に使う ID |
-| `name` / `prefecture` / `area` | ○ | 表示名・都道府県 slug・市町村名（`area` ごとにページでまとめて表示） |
+| `name` / `prefecture` / `area` | ○ | 表示名・都道府県 slug・市町村名（`src/data/municipalities.ts` の `name` と一致させると市町村ページに表示） |
 | `kind` | ○ | `official`（公式サイト） / `news` / `wikipedia` |
 | `url` | ○ | 取得するページ（`feed` / `wikipedia` の場合は表示用リンク） |
 | `feed` | | RSS/Atom の URL |

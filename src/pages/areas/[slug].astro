@@ -1,0 +1,80 @@
+---
+import Base from '../../layouts/Base.astro';
+import KnowledgeList from '../../components/KnowledgeList.astro';
+import CollectedArea from '../../components/CollectedArea.astro';
+import { getPublishedKnowledge, url } from '../../lib/knowledge';
+import { collectedSources } from '../../lib/collected';
+import { MUNICIPALITIES, municipalitiesOf, type Municipality } from '../../data/municipalities';
+import { prefectureBySlug } from '../../data/prefectures';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedKnowledge();
+  return MUNICIPALITIES.map((m) => ({
+    params: { slug: m.slug },
+    props: {
+      m,
+      // 記事の area が「名護市〇〇」のように市町村名で始まるものを対象にする
+      entries: entries.filter((e) => e.data.prefecture === m.prefecture && e.data.area?.startsWith(m.name)),
+    },
+  }));
+}
+
+interface Props {
+  m: Municipality;
+  entries: Awaited<ReturnType<typeof getPublishedKnowledge>>;
+}
+
+const { m, entries } = Astro.props;
+const pref = prefectureBySlug(m.prefecture);
+const sources = collectedSources.filter((s) => s.source.area === m.name);
+const neighbors = municipalitiesOf(m.prefecture).filter((n) => n.slug !== m.slug);
+const lastFetched = sources
+  .map((s) => s.lastFetchedAt)
+  .sort()
+  .at(-1);
+const fmt = (iso: string) =>
+  new Date(iso).toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo', dateStyle: 'medium', timeStyle: 'short' });
+---
+
+<Base title={m.name} description={`${pref?.name}${m.name}のナレッジと収集した情報`}>
+  <p class="muted crumb">
+    <a href={url('/regions/')}>地域</a> › <a href={url(`/regions/${m.prefecture}/`)}>{pref?.name}</a> › {m.name}
+  </p>
+  <h1>
+    {m.name}
+    {m.reading && <small class="muted">（{m.reading}）</small>}
+  </h1>
+
+  <section>
+    <h2>ナレッジ（{entries.length}件）</h2>
+    <KnowledgeList entries={entries} />
+  </section>
+
+  <section>
+    <h2>収集した情報</h2>
+    {lastFetched && <p class="muted note">GitHub Actions で自動収集しています。最終取得: {fmt(lastFetched)}</p>}
+    {sources.length > 0 ? <CollectedArea sources={sources} /> : <p class="muted">まだ収集された情報がありません。</p>}
+  </section>
+
+  {
+    neighbors.length > 0 && (
+      <section>
+        <h2>{pref?.name}の他の市町村</h2>
+        <div class="chips">
+          {neighbors.map((n) => (
+            <a class="chip" href={url(`/areas/${n.slug}/`)}>{n.name}</a>
+          ))}
+        </div>
+      </section>
+    )
+  }
+</Base>
+
+<style>
+  .crumb { font-size: 0.85rem; margin: 0; }
+  h1 { margin-top: 4px; }
+  h1 small { font-size: 1rem; font-weight: normal; }
+  section { margin-top: 32px; }
+  h2 { font-size: 1.2rem; border-bottom: 2px solid var(--accent); padding-bottom: 4px; }
+  .note { font-size: 0.85rem; }
+</style>

@@ -1,0 +1,108 @@
+---
+// 1 つの市町村について、収集した情報（Wikipedia 概要・ニュース・公式サイト）を表示する
+import { sortByDate, type CollectedSource } from '../lib/collected';
+
+interface Props {
+  sources: CollectedSource[];
+  /** ニュースの表示件数 */
+  newsLimit?: number;
+  /** 公式サイトの日付つき項目の表示件数 */
+  officialLimit?: number;
+}
+
+const { sources, newsLimit = 20, officialLimit = Infinity } = Astro.props;
+const of = (kind: string) => sources.filter((s) => s.source.kind === kind);
+---
+
+{
+  of('wikipedia').map((s) =>
+    s.summary ? (
+      <div class="summary">
+        <p>{s.summary.text}</p>
+        <small class="muted">
+          出典: <a href={s.summary.url} rel="noopener" target="_blank">{s.source.name}</a>（{s.summary.license}）
+        </small>
+      </div>
+    ) : null,
+  )
+}
+
+{
+  of('news').map((s) => (
+    <div class="source">
+      <h3>
+        ニュース <a class="muted src" href={s.source.url} rel="noopener" target="_blank">{s.source.name}</a>
+      </h3>
+      <ul class="items">
+        {sortByDate(s.items)
+          .slice(0, newsLimit)
+          .map((i) => (
+            <li>
+              <span class="date muted">{i.date ?? i.firstSeen}</span>
+              <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
+              {i.publisher && <span class="muted">（{i.publisher}）</span>}
+            </li>
+          ))}
+      </ul>
+      {s.items.length === 0 && <p class="muted">まだ記事がありません。</p>}
+    </div>
+  ))
+}
+
+{
+  of('official').map((s) => {
+    const dated = sortByDate(s.items.filter((i) => i.date)).slice(0, officialLimit);
+    const undated = s.items.filter((i) => !i.date);
+    return (
+      <div class="source">
+        <h3>
+          公式サイトのお知らせ <a class="muted src" href={s.source.url} rel="noopener" target="_blank">{s.source.name}</a>
+        </h3>
+        {dated.length > 0 && (
+          <ul class="items">
+            {dated.map((i) => (
+              <li>
+                <span class="date muted">{i.date}</span>
+                <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
+              </li>
+            ))}
+          </ul>
+        )}
+        {undated.length > 0 && (
+          <details>
+            <summary class="muted">日付のないリンク（{undated.length}件）</summary>
+            <ul class="items">
+              {undated.map((i) => (
+                <li>
+                  <a href={i.url} rel="noopener" target="_blank">{i.title}</a>
+                </li>
+              ))}
+            </ul>
+          </details>
+        )}
+        {s.items.length === 0 && <p class="muted">まだ取得できていません。</p>}
+      </div>
+    );
+  })
+}
+
+<style>
+  h3 { font-size: 1rem; margin: 24px 0 8px; }
+  .src { font-size: 0.8rem; font-weight: normal; margin-left: 8px; }
+  .summary {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 16px;
+  }
+  .summary p { margin: 0 0 4px; }
+  .items { list-style: none; padding: 0; margin: 0; }
+  .items li {
+    padding: 6px 0;
+    border-bottom: 1px solid var(--border);
+    overflow-wrap: anywhere;
+  }
+  .date { font-size: 0.8rem; margin-right: 8px; font-variant-numeric: tabular-nums; }
+  details { margin-top: 8px; }
+  summary { cursor: pointer; font-size: 0.9rem; }
+</style>
