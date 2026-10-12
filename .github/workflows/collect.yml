@@ -1,0 +1,41 @@
+name: Collect local info
+
+# 情報源（collector/sources.json）から新着情報を取得し、差分があれば PR を作成する
+on:
+  schedule:
+    - cron: '47 21 * * *' # 毎日 6:47（JST）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - id: collect
+        run: node collector/collect.mjs
+
+      - if: steps.collect.outputs.new_count != '0'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: collect/auto
+          delete-branch: true
+          commit-message: '新着情報を取得 (${{ steps.collect.outputs.new_count }}件)'
+          title: '新着情報の取得結果'
+          body-path: ${{ runner.temp }}/collect-report.md
+          add-paths: data/collected/**

@@ -7,9 +7,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "new": "node scripts/new-knowledge.mjs"
+    "new": "node scripts/new-knowledge.mjs",
+    "collect": "node collector/collect.mjs"
   },
   "dependencies": {
-    "astro": "^7.3.8"
+    "astro": "^7.3.8",
+    "cheerio": "^1.2.0"
   }
 }

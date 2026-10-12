@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "id": "nago-city",
+      "name": "名護市 公式サイト",
+      "prefecture": "okinawa",
+      "area": "名護市",
+      "url": "https://www.city.nago.okinawa.jp/"
+    },
+    {
+      "id": "kunigami-village",
+      "name": "国頭村 公式サイト",
+      "prefecture": "okinawa",
+      "area": "国頭村",
+      "url": "https://www.vill.kunigami.okinawa.jp/"
+    }
+  ]
+}
