@@ -1,0 +1,38 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getPublishedKnowledge, url } from '../../lib/knowledge';
+import { AREAS, PREFECTURES } from '../../data/prefectures';
+
+const entries = await getPublishedKnowledge();
+const countByPref = (slug: string) => entries.filter((e) => e.data.prefecture === slug).length;
+---
+
+<Base title="地域から探す">
+  <h1>地域から探す</h1>
+  {
+    AREAS.map((area) => (
+      <section>
+        <h2>{area}</h2>
+        <ul class="prefs">
+          {PREFECTURES.filter((p) => p.area === area).map((p) => (
+            <li>
+              <a href={url(`/regions/${p.slug}/`)}>{p.name}</a>
+              <span class="muted">（{countByPref(p.slug)}）</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</Base>
+
+<style>
+  h2 { font-size: 1.1rem; }
+  .prefs {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 4px 16px;
+  }
+</style>

@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import KnowledgeList from '../../components/KnowledgeList.astro';
+import { getPublishedKnowledge } from '../../lib/knowledge';
+import { PREFECTURES, type Prefecture } from '../../data/prefectures';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedKnowledge();
+  return PREFECTURES.map((pref) => ({
+    params: { pref: pref.slug },
+    props: { pref, entries: entries.filter((e) => e.data.prefecture === pref.slug) },
+  }));
+}
+
+interface Props {
+  pref: Prefecture;
+  entries: Awaited<ReturnType<typeof getPublishedKnowledge>>;
+}
+
+const { pref, entries } = Astro.props;
+---
+
+<Base title={`${pref.name}のナレッジ`}>
+  <p class="muted">{pref.area}</p>
+  <h1>{pref.name}のナレッジ（{entries.length}件）</h1>
+  <KnowledgeList entries={entries} />
+</Base>

@@ -1,0 +1,121 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { prefectureBySlug } from '../../data/prefectures';
+import { categoryBySlug } from '../../data/categories';
+import {
+  getPublishedKnowledge,
+  url,
+  formatDate,
+  STATUS_LABEL,
+  SOURCE_TYPE_LABEL,
+  type Knowledge,
+} from '../../lib/knowledge';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedKnowledge();
+  return entries.map((entry) => ({ params: { id: entry.id }, props: { entry, entries } }));
+}
+
+interface Props {
+  entry: Knowledge;
+  entries: Knowledge[];
+}
+
+const { entry, entries } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+const pref = prefectureBySlug(data.prefecture);
+const cat = categoryBySlug(data.category);
+const related = entries
+  .filter((e) => e.id !== entry.id && e.data.prefecture === data.prefecture)
+  .slice(0, 5);
+---
+
+<Base title={data.title} description={data.summary}>
+  <article>
+    <div class="chips">
+      <a class="chip" href={url(`/regions/${data.prefecture}/`)}>{pref?.name}{data.area && ` ${data.area}`}</a>
+      <a class="chip" href={url(`/categories/${data.category}/`)}>{cat?.name}</a>
+      <span class={`chip status-${data.status}`}>{STATUS_LABEL[data.status]}</span>
+    </div>
+    <h1>{data.title}</h1>
+    <p class="summary">{data.summary}</p>
+    <p class="muted meta">
+      調査日: {formatDate(data.researchedAt)}
+      {data.updatedAt && <> / 更新日: {formatDate(data.updatedAt)}</>}
+    </p>
+
+    {data.status === 'researching' && (
+      <p class="notice">この記事は調査中です。内容は今後追記・修正される可能性があります。</p>
+    )}
+
+    <div class="body">
+      <Content />
+    </div>
+
+    <section>
+      <h2>出典・情報源</h2>
+      {
+        data.sources.length > 0 ? (
+          <ol class="sources">
+            {data.sources.map((s) => (
+              <li>
+                <span class="chip">{SOURCE_TYPE_LABEL[s.type]}</span>{' '}
+                {s.url ? <a href={s.url} rel="noopener" target="_blank">{s.title}</a> : s.title}
+                {s.note && <span class="muted"> — {s.note}</span>}
+              </li>
+            ))}
+          </ol>
+        ) : (
+          <p class="muted">出典はまだ登録されていません。</p>
+        )
+      }
+    </section>
+
+    {
+      data.tags.length > 0 && (
+        <section>
+          <h2>タグ</h2>
+          <div class="chips">
+            {data.tags.map((t) => (
+              <a class="chip" href={url(`/tags/${encodeURIComponent(t)}/`)}>#{t}</a>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    {
+      related.length > 0 && (
+        <section>
+          <h2>{pref?.name}の他のナレッジ</h2>
+          <ul>
+            {related.map((e) => (
+              <li><a href={url(`/knowledge/${e.id}/`)}>{e.data.title}</a></li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+</Base>
+
+<style>
+  h1 { margin: 12px 0 8px; }
+  .summary { font-size: 1.05rem; margin: 0; }
+  .meta { font-size: 0.85rem; }
+  .notice {
+    background: var(--warn-soft);
+    border-radius: var(--radius);
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+  .body { margin: 24px 0 40px; }
+  .body :global(img) { max-width: 100%; height: auto; }
+  .body :global(table) { border-collapse: collapse; display: block; overflow-x: auto; }
+  .body :global(th), .body :global(td) { border: 1px solid var(--border); padding: 4px 8px; }
+  section { margin-top: 32px; }
+  h2 { font-size: 1.15rem; border-bottom: 1px solid var(--border); padding-bottom: 4px; }
+  .sources li { margin-bottom: 6px; overflow-wrap: anywhere; }
+</style>

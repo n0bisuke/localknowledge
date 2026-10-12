@@ -1,0 +1,22 @@
+---
+import KnowledgeCard from './KnowledgeCard.astro';
+import type { Knowledge } from '../lib/knowledge';
+
+interface Props {
+  entries: Knowledge[];
+}
+
+const { entries } = Astro.props;
+---
+
+{
+  entries.length > 0 ? (
+    <ul class="grid">
+      {entries.map((entry) => (
+        <KnowledgeCard entry={entry} />
+      ))}
+    </ul>
+  ) : (
+    <p class="muted">まだナレッジがありません。</p>
+  )
+}

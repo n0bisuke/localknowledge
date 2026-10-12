@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import KnowledgeList from '../../components/KnowledgeList.astro';
+import { getPublishedKnowledge } from '../../lib/knowledge';
+import { CATEGORIES, type Category } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedKnowledge();
+  return CATEGORIES.map((cat) => ({
+    params: { cat: cat.slug },
+    props: { cat, entries: entries.filter((e) => e.data.category === cat.slug) },
+  }));
+}
+
+interface Props {
+  cat: Category;
+  entries: Awaited<ReturnType<typeof getPublishedKnowledge>>;
+}
+
+const { cat, entries } = Astro.props;
+---
+
+<Base title={cat.name}>
+  <h1>{cat.name}（{entries.length}件）</h1>
+  <p class="muted">{cat.description}</p>
+  <KnowledgeList entries={entries} />
+</Base>

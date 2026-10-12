@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import KnowledgeList from '../../components/KnowledgeList.astro';
+import { getPublishedKnowledge } from '../../lib/knowledge';
+
+const entries = await getPublishedKnowledge();
+---
+
+<Base title="ナレッジ一覧">
+  <h1>ナレッジ一覧（{entries.length}件）</h1>
+  <KnowledgeList entries={entries} />
+</Base>

@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import KnowledgeList from '../components/KnowledgeList.astro';
+import { getPublishedKnowledge, url } from '../lib/knowledge';
+import { AREAS, PREFECTURES } from '../data/prefectures';
+import { CATEGORIES } from '../data/categories';
+
+const entries = await getPublishedKnowledge();
+const latest = entries.slice(0, 6);
+const countByPref = (slug: string) => entries.filter((e) => e.data.prefecture === slug).length;
+const countByCat = (slug: string) => entries.filter((e) => e.data.category === slug).length;
+---
+
+<Base>
+  <section class="hero">
+    <h1>地方のナレッジを、調べて、まとめる。</h1>
+    <p class="muted">
+      各地の食・歴史・祭り・産業・暮らしなど、地域に根ざした知識を調査し、出典とともに記録していきます。
+      現在 {entries.length} 件のナレッジがあります。
+    </p>
+  </section>
+
+  <section>
+    <h2>新着ナレッジ</h2>
+    <KnowledgeList entries={latest} />
+    {entries.length > latest.length && <p><a href={url('/knowledge/')}>すべて見る →</a></p>}
+  </section>
+
+  <section>
+    <h2>地域から探す</h2>
+    {
+      AREAS.map((area) => (
+        <div class="area">
+          <h3>{area}</h3>
+          <div class="chips">
+            {PREFECTURES.filter((p) => p.area === area).map((p) => {
+              const n = countByPref(p.slug);
+              return n > 0 ? (
+                <a class="chip" href={url(`/regions/${p.slug}/`)}>
+                  {p.name}（{n}）
+                </a>
+              ) : (
+                <span class="chip empty">{p.name}</span>
+              );
+            })}
+          </div>
+        </div>
+      ))
+    }
+  </section>
+
+  <section>
+    <h2>カテゴリから探す</h2>
+    <div class="chips">
+      {
+        CATEGORIES.map((c) => (
+          <a class="chip" href={url(`/categories/${c.slug}/`)}>
+            {c.name}（{countByCat(c.slug)}）
+          </a>
+        ))
+      }
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: 24px 0 8px; }
+  .hero h1 { font-size: 1.6rem; margin: 0 0 8px; }
+  section { margin-bottom: 40px; }
+  .area h3 { font-size: 0.95rem; margin: 16px 0 6px; }
+  .chip.empty { background: transparent; color: var(--muted); border: 1px solid var(--border); }
+</style>

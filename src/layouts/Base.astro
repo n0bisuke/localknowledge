@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+import { url } from '../lib/knowledge';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const SITE_NAME = 'ローカルナレッジ';
+const { title, description = '地方のナレッジを調査してまとめるサイト' } = Astro.props;
+const pageTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="logo" href={url('/')}>{SITE_NAME}</a>
+        <nav>
+          <a href={url('/knowledge/')}>一覧</a>
+          <a href={url('/regions/')}>地域</a>
+          <a href={url('/categories/')}>カテゴリ</a>
+          <a href={url('/tags/')}>タグ</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="container site-footer muted">
+      <small>{SITE_NAME}</small>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  .logo {
+    font-weight: 700;
+    color: var(--text);
+    text-decoration: none;
+  }
+  nav { display: flex; gap: 16px; }
+  nav a { color: var(--muted); text-decoration: none; }
+  nav a:hover { color: var(--accent); }
+  main { padding-top: 24px; padding-bottom: 48px; }
+  .site-footer {
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+    padding-bottom: 32px;
+  }
+</style>

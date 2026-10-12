@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import KnowledgeList from '../../components/KnowledgeList.astro';
+import { getPublishedKnowledge } from '../../lib/knowledge';
+
+export async function getStaticPaths() {
+  const entries = await getPublishedKnowledge();
+  const tags = [...new Set(entries.flatMap((e) => e.data.tags))];
+  return tags.map((tag) => ({
+    params: { tag },
+    props: { tag, entries: entries.filter((e) => e.data.tags.includes(tag)) },
+  }));
+}
+
+interface Props {
+  tag: string;
+  entries: Awaited<ReturnType<typeof getPublishedKnowledge>>;
+}
+
+const { tag, entries } = Astro.props;
+---
+
+<Base title={`#${tag}`}>
+  <h1>#{tag}（{entries.length}件）</h1>
+  <KnowledgeList entries={entries} />
+</Base>

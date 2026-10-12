@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getPublishedKnowledge, url } from '../../lib/knowledge';
+import { CATEGORIES } from '../../data/categories';
+
+const entries = await getPublishedKnowledge();
+---
+
+<Base title="カテゴリから探す">
+  <h1>カテゴリから探す</h1>
+  <ul class="grid">
+    {
+      CATEGORIES.map((c) => (
+        <li class="cat">
+          <a href={url(`/categories/${c.slug}/`)}>{c.name}</a>
+          <span class="muted">（{entries.filter((e) => e.data.category === c.slug).length}）</span>
+          <p class="muted">{c.description}</p>
+        </li>
+      ))
+    }
+  </ul>
+</Base>
+
+<style>
+  .cat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 16px;
+  }
+  .cat p { margin: 4px 0 0; font-size: 0.85rem; }
+</style>

@@ -1,0 +1,38 @@
+---
+import { prefectureBySlug } from '../data/prefectures';
+import { categoryBySlug } from '../data/categories';
+import { url, formatDate, dateOf, STATUS_LABEL, type Knowledge } from '../lib/knowledge';
+
+interface Props {
+  entry: Knowledge;
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+const pref = prefectureBySlug(data.prefecture);
+const cat = categoryBySlug(data.category);
+---
+
+<li class="card">
+  <div class="chips">
+    <a class="chip" href={url(`/regions/${data.prefecture}/`)}>{pref?.name}{data.area && ` ${data.area}`}</a>
+    <a class="chip" href={url(`/categories/${data.category}/`)}>{cat?.name}</a>
+    {data.status === 'researching' && <span class="chip status-researching">{STATUS_LABEL.researching}</span>}
+  </div>
+  <h3><a href={url(`/knowledge/${entry.id}/`)}>{data.title}</a></h3>
+  <p>{data.summary}</p>
+  <small class="muted">{formatDate(dateOf(entry))}</small>
+</li>
+
+<style>
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+  }
+  h3 { margin: 8px 0 4px; font-size: 1.05rem; }
+  h3 a { color: var(--text); text-decoration: none; }
+  h3 a:hover { color: var(--accent); }
+  p { margin: 0 0 8px; font-size: 0.9rem; }
+</style>
