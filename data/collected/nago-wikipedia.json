@@ -1,0 +1,25 @@
+{
+  "source": {
+    "id": "nago-wikipedia",
+    "name": "Wikipedia「名護市」",
+    "kind": "wikipedia",
+    "prefecture": "okinawa",
+    "area": "名護市",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%B8%82"
+  },
+  "method": "wikipedia",
+  "summary": {
+    "text": "名護市（なごし、国頭語:なぐ/nagu/、今帰仁方言:なぐー/naguː、沖縄語:なぐ/nagu/）は、沖縄本島の北部に位置しており沖縄県北部地域（山原地域）で最多の人口を有する。 1970年8月1日に名護町、屋部村、久志村、羽地村、屋我地村の５町村の合併により誕生した。",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%B8%82",
+    "license": "CC BY-SA 4.0"
+  },
+  "lastFetchedAt": "2026-10-12T13:36:56.383Z",
+  "items": [
+    {
+      "title": "Wikipedia「名護市」（版 111318507）",
+      "url": "https://ja.wikipedia.org/w/index.php?oldid=111318507",
+      "date": "2026-10-09",
+      "firstSeen": "2026-10-12"
+    }
+  ]
+}

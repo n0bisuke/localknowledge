@@ -1,0 +1,25 @@
+{
+  "source": {
+    "id": "kunigami-wikipedia",
+    "name": "Wikipedia「国頭村」",
+    "kind": "wikipedia",
+    "prefecture": "okinawa",
+    "area": "国頭村",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%A0%AD%E6%9D%91"
+  },
+  "method": "wikipedia",
+  "summary": {
+    "text": "国頭村（くにがみそん、国頭語:くんじゃん/kuNd͡ʑaN/、沖縄語:くんじゃん/kuNd͡ʑaN/）は、沖縄県の沖縄本島北端に位置する村。国頭郡に属している。",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%A0%AD%E6%9D%91",
+    "license": "CC BY-SA 4.0"
+  },
+  "lastFetchedAt": "2026-10-12T13:36:56.383Z",
+  "items": [
+    {
+      "title": "Wikipedia「国頭村」（版 109496608）",
+      "url": "https://ja.wikipedia.org/w/index.php?oldid=109496608",
+      "date": "2026-10-09",
+      "firstSeen": "2026-10-12"
+    }
+  ]
+}

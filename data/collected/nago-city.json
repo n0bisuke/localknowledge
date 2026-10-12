@@ -1,0 +1,181 @@
+{
+  "source": {
+    "id": "nago-city",
+    "name": "名護市 公式サイト",
+    "kind": "official",
+    "prefecture": "okinawa",
+    "area": "名護市",
+    "url": "https://www.city.nago.okinawa.jp/"
+  },
+  "method": "links",
+  "lastFetchedAt": "2026-10-12T13:36:56.383Z",
+  "items": [
+    {
+      "title": "救急･消防･防災",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/bousai/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "各種申請・証明",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/todokede/sinseisho/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "21世紀の森体育館空調設備工事に伴う利用制限について",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026100700044/",
+      "date": "2026-10-08",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "インフルエンザ警報が発令されております（注意喚起）",
+      "url": "https://www.city.nago.okinawa.jp/kurashi/2026100200018/",
+      "date": "2026-10-06",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "名護あけみおウォーク2026開催!参加申込み受付中！／市民ボランティアスタッフ募集中！",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026090400030/",
+      "date": "2026-10-01",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "上下水道料金の口座振替キャンペーンについて",
+      "url": "https://www.city.nago.okinawa.jp/kurashi/2024122400010/",
+      "date": "2026-10-01",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "【実証実験】名護運動ポイント実証実験を開始します！！",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026073100032/",
+      "date": "2026-09-29",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "令和９・10年度入札参加資格審査申請(定期申請)について",
+      "url": "https://www.city.nago.okinawa.jp/kurashi/2026092900019/",
+      "date": "2026-10-07",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "電子入札システム事業者向け説明会の開催について",
+      "url": "https://www.city.nago.okinawa.jp/kurashi/2026100200032/",
+      "date": "2026-10-07",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "「第32回全国重要無形文化財保持団体秀作展」開催のお知らせ",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026100300015/",
+      "date": "2026-10-07",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "コンビニ交付サービス（税証明）の一時停止について",
+      "url": "https://www.city.nago.okinawa.jp/articles/2022112800017/",
+      "date": "2026-10-07",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "令和8年度名護市体力・健康測定参加者募集について",
+      "url": "https://www.city.nago.okinawa.jp/articles/2025090900038/",
+      "date": "2026-09-29",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "「奄美博物館巡回展in名護博物館」関連イベントのお知らせ",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026090300064/",
+      "date": "2026-09-04",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "【9/20(日)】講演会「アンコンシャス・バイアスを知ろう！気づこう！」を開催します",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026073100025/",
+      "date": "2026-08-25",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "RSSフィードを取得",
+      "url": "https://www.city.nago.okinawa.jp/articles/index.rss",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Atomフィードを取得",
+      "url": "https://www.city.nago.okinawa.jp/articles/index.atom",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "RSSフィードを取得",
+      "url": "https://www.city.nago.okinawa.jp/news/newslist/boshu/index.rss",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "Atomフィードを取得",
+      "url": "https://www.city.nago.okinawa.jp/news/newslist/boshu/index.atom",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "出産・子育て",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/kosodate/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "健康・スポーツ",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/kenkou/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "高齢･介護･障がい者",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/kourei/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "住まい・環境",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/sumai/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "産業・ビジネス",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/sangyou/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "防災・国民保護",
+      "url": "https://www.city.nago.okinawa.jp/category/guide/bousai/bousaikokuminhogo/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "ご意見・ご感想",
+      "url": "https://www.city.nago.okinawa.jp/contact.html",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "名護市立中央図書館",
+      "url": "https://www.city.nago.okinawa.jp/library/",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "名護市民会館",
+      "url": "https://www.city.nago.okinawa.jp/hall",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "ホームページ利用について",
+      "url": "https://www.city.nago.okinawa.jp/riyo.html",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "リンク・著作権・免責事項",
+      "url": "https://www.city.nago.okinawa.jp/copyright.html",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "個人情報の取り扱い",
+      "url": "https://www.city.nago.okinawa.jp/privacy.html",
+      "firstSeen": "2026-10-12"
+    },
+    {
+      "title": "サイトマップ",
+      "url": "https://www.city.nago.okinawa.jp/sitemap.html",
+      "firstSeen": "2026-10-12"
+    }
+  ]
+}
