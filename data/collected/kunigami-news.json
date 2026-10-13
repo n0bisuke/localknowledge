@@ -1,0 +1,715 @@
+{
+  "source": {
+    "id": "kunigami-news",
+    "name": "Google ニュース「国頭村」",
+    "kind": "news",
+    "prefecture": "okinawa",
+    "area": "国頭村",
+    "url": "https://news.google.com/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja"
+  },
+  "method": "feed",
+  "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
+  "lastFetchedAt": "2026-10-13T02:43:33.461Z",
+  "items": [
+    {
+      "title": "沖縄県国頭村宇嘉のことば 迎えのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5udDNoc0hJZEM4TEpmbEw2SWo5VWpkSjI1c015QUhCRE1HbWlxWWd4aTk0czladGRQLWZtTi1yaHhaLUlZYUFuTjVnUDZqejBEM2xFZnF4N3NDWXVhWnc0SDlWYzdlTDVyLUFSaA?oc=5",
+      "date": "2026-10-12",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村 農地からの赤土流出抑制へ 琉大や企業と効果検証、人工降雨で比較調査",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGQTc0eWJDV083UGh1WHhnbTFJY2RodExpS2FEYVN5RXVpR2JJVEJQa0VvNnpmR2tLSmNsNU9tNWI2VXZkLXF4T1A2SDNqUm5Bdkl4X0d6eVY?oc=5",
+      "date": "2026-10-13",
+      "publisher": "沖縄八重山日報",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村の海岸にコカイン1キロ 末端価格2400万円相当、ボランティアが清掃中に発見",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12c3JQNUE4NktHUHdSbUlHOWVyLXd1OFhBYWRaTG9TRFByN3o2SVAwUkVORXRrSW1IbzVBYThCSFZKUDJ0Z1hUV05pa282NFl0YjZpbi1ubjEzNUNqQlE?oc=5",
+      "date": "2026-10-08",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "奥間が総合4連覇 国頭村陸上競技大会 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSThYSUJHai1pTWZWaDZVMjQycGtlUm9tQWdfbzczRmJJd3N1SE1KQXludll0X3A0Q3N4amg1VmJUZXBVWDlsRThTM1hwczZtaHFpM3NhcTlhRXVwRXc?oc=5",
+      "date": "2026-10-11",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "《茨城県境町》沖縄県国頭村・鳥取県岩美町と2町1村間で「危機事象発生時相互応援協定締結式」を執り行いました",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZFA5UTlicXE3Q1FxMjE3dWtzeko3VHdCMG9uZUZOcEFaUWp4YmpNZWNOLWpneW9xTHhJOWpySnFLRVVnMGlkd0g2ZzZJa3poM3pGWXNxRWF0OEVyb0xWMUVVbnhKN0U?oc=5",
+      "date": "2026-10-11",
+      "publisher": "山陽新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "フレイル予防法学ぶ 国頭で講話、70人参加 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jTjVVZDVYYll0Tnoya2ZiX0ltLU9KZFBxejBUNWtrMkxVVHpQcTYwbEc5QTRralBjd1ZHaFozZmRWdC1XLXB3Q295R0tvQlE4VXJkMXBzVEtDWG9vYnZ4bzM1Y2I4MzRqSEVubDJR?oc=5",
+      "date": "2026-10-09",
+      "publisher": "WAM NET",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県国頭村との連携事業 | 社会・地域貢献活動の事例",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3SVhRdHZhVWk3cGlqV2R4akdXSnoxV2c0VklHZmo2SzZ6QVJiQ1JEbW5LQWRlLV9xVFZ0dkhuWUFVT1NjYUIwQWItZGhrdnQyMHhQd2Ntdkt3XzVWbFZVLU93Z0RhT3ZCUkFweEl2X1pOeGxfa3lN?oc=5",
+      "date": "2026-05-10",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村(放送局のニュース )",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yM1lOS0dvWndtdU5hV2k2YzBhekRsZ0g1ci1LaWRWbW96TTVNMnVMV2FHVmI3MXUyVE1KZmNuT0lBS19YSmlScjEzY3dSS1ljeWNFYzhCNkcxZTU0NkZJSzZ3QXY4Xzd3X1VlN05JOFljVHJRMkE?oc=5",
+      "date": "2026-09-26",
+      "publisher": "tenki.jp",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxX3c5ZGdfVE5XdHdlMUJqNW85VlBOSGZCeTNBVkQ2d0JKcnhiLU12MkdJNi11THo2TWFyV0VITHFUYTZqakRFcjNPYWVJMko2Y3dwVnFHTQ?oc=5",
+      "date": "2026-09-26",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "［沖縄days］「こわもて」な名前の赤い実 沖縄・国頭村 | 写真コーナー 沖縄days",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VNEdhR0VnNGR3emxYWnB5Mk1lYzNVODVZak1pbzBWSFFQUVRmaE9tMWlpUGJ6RmNHU3dmSG1hRlVKUk83RUJmQWlUWjNrMTVGWEtreFJQa01NcGdoRlE?oc=5",
+      "date": "2026-10-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村各地で豊年祭 集落活気づく ＜風・土・人 シマの伝統行事＞",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tUW9zUXJyREYwbjBUbnhSRzBtem5lNFBGRkhLbmJwX0djU2wzSmliNjJpT0dIQXc0eTNSUEJTTkVfV3c2YjdDZDhEUkNOZFZDbWliQnkwMlI0QXRvS1E?oc=5",
+      "date": "2026-10-09",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村にコカイン漂着 氏名不詳者を摘発",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDLWt4QUQyQ3Z1OG9yeU5odVlKaG5sRG91cDZaaVpVSmJZaXZUN1VLR1htQ2RvSjVvM2VRbXRDNVZhZWdoWEtRVzIzRngwS05BTlhYMVlYaTI?oc=5",
+      "date": "2026-10-08",
+      "publisher": "沖縄八重山日報",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "トップ 放送文化資産 文化 沖縄県国頭村宇嘉のことば 道でのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LbWRKb3lLTmtndTBrSHc4cHZSMEVBM21oeVhUMXd4UmMwV20xZ2M5SThtRm04b1IyUUM1RjF6THpOSUl5SmRTOEJiNTFMWXcyVVR1YnVXdnJYNDZpbnF5cUxuVUdYZXp0Qi1ZNQ?oc=5",
+      "date": "2026-10-01",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭の星空、財産に 村民向けに観察会 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VNEdqaFhyWFh0ZUxQNFZOdklMOFZZRDZ0dUc5c2xFLV95WkRydXJhNWZ1VTZtRWliajZaWmlTUzZaeVlDWTdpRUIzcjh3d1lzcXk0U29uX05pcVZyX3c?oc=5",
+      "date": "2026-10-12",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "奥共同店の120年祝う 国頭 買い物や交流の拠点",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05Wk9aTzhreC0xZ2paQVh3SXh5ZlQzaUQ0RkR6LTJFR295eGhKTDZhOVJ6aklNUGEyNmlFRmVzSC1Uam8wcnVydk9vNTc1SlQ5TkdRRW9ZT1ZaYkVKY1E?oc=5",
+      "date": "2026-10-10",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村議選、当選者10人決まる【統一地方選2026・沖縄】",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zUk5xQmtkMTlndXF5UE0wR2x1dDkxM2RhODhLWHYzSE5jZGJlMXowRjF5ZElNN1daWWZmVmR0eGNkWW16ZmtZaHpmeXdISnJFWXBZTnZKLVBXMkhjdWxzdGhaaFd1a2paamc?oc=5",
+      "date": "2026-09-08",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "アンバサダーの伍代夏子氏が沖縄県国頭村を訪問",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ER0NSOE1wWDdDeDJSeFZDMmVyNHhqeVRtY1cyRmtFakxveDctRVBhcE5RRm4zaG1PWFV0UEM3N3JRN2s3c1dBbDNaSHZOOGkyQjNnOTdTLWhLN2NULVE?oc=5",
+      "date": "2026-07-30",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "知花国頭村長が病気療養で休職 代理に副村長 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sS29wdU5pVW9vX3YzUWVhTXZ4SHNjcWt5Q0lPNUZ3UkJYcnduWUpNS0RoQ3h3TDYxejlPMEt0UGV4OVdsM0dPZlA1bUdJT18wdTlXYmpubmpxUGFWQUdqVg?oc=5",
+      "date": "2026-10-09",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「人生に触れることが医療の原点」 赴任1年半の医師、訪問診療に力 国頭村の東部へき地診療所",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82dFl6TnZPWTZmeUhOYUlIU0JxWEhVS09LeGF4bTBpRTYySG8tTEZXQ19kdHdsYWNELVVNNFJCWDhMVWZaWlBybkdhamdhTldZRVNEYmZBb1I4clhMMnc?oc=5",
+      "date": "2026-09-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "水道水が赤く濁る 国頭・鏡地 人体に影響なしも村「飲用控えて」 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1feWZyT214YzBQd25nNzJrSkcyTDJNMU1PLTEzcl93Zjh0OFVMTjQ0eWhnVWZqdFNYWXdkam9iVUx4WGZWaC04VE5MQk50dk9yVFdjSWtuNXNqOUNJRld3VA?oc=5",
+      "date": "2026-08-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村議選 10人が当選【沖縄統一地方選 2026】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BY05tZW9tOWt4VGF1d1JOMjNxVS1XOW1kalRkOEp5MUJYaHJ6aXlvWlBacXhxZ2psdy1QRFp0SDJMNHZUaVJfMVQ1U3NsaE1DRzdxZGM1ckdoVTVRZVE?oc=5",
+      "date": "2026-09-13",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【台風13号】国道58号 国頭村宜名真―与那間が全面通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sNFN6THFoUzF1eXpqQnN0d3NjSkY3bllZRTlKbWxvZ05aVnhBM3RhNGVBWk8xcUd2RTl6N05SSWF3SFE2al9CdTJlQ0lBU19OOWNhVVU1eDVLM2h0Rnc?oc=5",
+      "date": "2026-08-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【地方創生×DX】株式会社LULL、沖縄県国頭村の地域活性化起業人に副業型メンバーが参画。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdWsyMzBBM1ZyZ2hGdkk3bV96WVY3Wnc1bzNIVnhDWUlYd1dPM0wxUzkyaUFCUHZleGdGMjVQNVJyYl9IVEhYcUZiSkNtVEk3clRwLURsX3phTjFuZzZRU2ltWFh1RWhDNVE?oc=5",
+      "date": "2026-09-29",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "400年の歴史 300個の提灯行列で始まる奥間大綱引き 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdjRZV3VOUnVRWUpTc0xrSmlSUmpIMC15S19DYlR2WWpTUVBWcnBULXRJX0RBYlhLT3kzdkp0N2hPQzkyUTc2anJYdW1BczJveUV0MVpUNA?oc=5",
+      "date": "2026-10-02",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村奥間の村道で土砂崩れ 連日の雨が影響か 復旧作業は天候見ながら調整",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSNWtaM1JQWHRUbDRlbmNQZnB0UWt3Z09DYVBHdWZEOXhVV0t1UkZPaUFRbUZoQWZEb2E4dVFQaHJxSG1jRVZQUTV2cnRMRGlvbWR2U2VoMXlwZXZfNEE?oc=5",
+      "date": "2026-06-10",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村にはヒージャーバーガーが存在する",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MeVJxSHNCVjJMZVFGR3AxaC1OS2VZaDZ5cUNtYjNxcldYbHRPV3lzSzQ3M3dCUHRNbkxlYXduRDRTNTJlN1dUMS1PdkNxNjVpeXRJMjhMb1d1RFVWUUJJNWRn?oc=5",
+      "date": "2026-07-30",
+      "publisher": "DEE Okinawa",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "県知事選投票用紙を交付ミス 国頭村選管 （沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZkJHZThtUHU5VTNDOFBtNE9KQ1JFc2JYb3MzY2VDREVaMGNlVzRwb29kS1pnaks1Y09COUxpOU84VVJGSk4xaHlHMWMyTmJOeDZvU29fWTBJYUJjajd1TlBpRVoyTHhyaXlQRURrRlVPY1Y5b0t1YURJdzZlQWc?oc=5",
+      "date": "2026-09-11",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "やんばるの名物スナック「花・花」閉店から一転 攻めのマッチングで事業継続へ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxd1lqcWZZMmt6czV6M042VUtPOXZGbmh2WUZnZlZzTk10UUw2dkFwTlNIb0NKaXV4Qk1YRnRmZ2NIc0JaWHRFRTBGeWxTQnNWem90NjNyWmMtRG5yVWc?oc=5",
+      "date": "2026-07-07",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "400年の歴史 300個の提灯行列で始まる奥間大綱引き 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Da09sY3dkZk90VmQ4ZHlOOFNvSUY0dlljbWJ6TjNaWFBtekx1M3U2SHR1ZTlvX2F0VlYyN1FPQWNSZER6QTlheDBlQ3ppS3E2blhscndOUUJvU2tXd1M0?oc=5",
+      "date": "2026-10-02",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "満月照らす400年の伝統「奥間大綱引き」 9月25日開催へ準備着々 沖縄・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55RFI5clp5MFN2OHpOM003OWI2MGlMb0RlLVhvZ3ZSbFRWRDBFcmprby1uRmVSZGFuS2FoX2VVUXVzSXNxd3FuVThzYmppUi1VaGpKMHh3Wm41bVU3elE?oc=5",
+      "date": "2026-09-15",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村に「やんばる世界遺産センター」 はく製や8K映像で展示",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwZVFqcFNndlJ4dUlzTGk5NzZwVTROR1Y3Y19LbUg0SXZ4VHItRjJlSTNUSHdHdFRoejlsbVF0OXZyWVB3RWI4aVdoelNtM0wxbWc?oc=5",
+      "date": "2026-07-23",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村で学校給食、提供できず 水道水に濁り 4日は非常食で対応 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMEpNWVZaMlJlVEZXTk1seEJxWTlfcmtmb0ZqQ0tJWDNKdE1yY29OS1BINXFWUkZkOHRveTMtWlJhcWFyZHFPUWp5TG9XRXk4R2E2dlRqa1hOOGM?oc=5",
+      "date": "2026-09-04",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "クイナの森に3代目候補 国頭村安田の展示施設 きょうヤンバルクイナの日 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ndUpTZjBEa0Q0UFRCb0lxZkFhUlU1V1B4SXBHYmwwaHJQU1VUSVF0RmFES2RZY0dJNW00RTAtbGVkVEpYQVJWNDg2dTJhWHJWYnVOOGlMSF9nN0hBaGtVMQ?oc=5",
+      "date": "2026-09-17",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "5月なのに国頭村奥で13度 沖縄地方 2月中旬並みの寒さ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBra0t4czRjQ04tZUFESjRZUWFWam04YmdNelQ4Ym5JQnVab0cwNjROczk5VG1TSUFtYkRoamQ3RzZtNXJzZDdzMlhZbE13a0ZRLUU0RThhUHp2bzkwVFE?oc=5",
+      "date": "2026-05-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "投票用紙交付でミス 国頭村選管 村議選に知事選用紙 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FYlVTeDFDUWhmY2E5ZUt0Q1Juc1E0Qy1seUlNcG8ydi1JNUpTTWZZaGYtRXRENHpidHdZcFJDMkNnYWE2VWROQWgzcTd3RWFLaEpjcG52TnI5dndnM0FKSA?oc=5",
+      "date": "2026-09-11",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【大雨警報】沖縄県・国頭村に発表 24日11:47時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XY0IwNHZDS3RfVTZNRlR1OUFQYnBhdUJfeWNxVUdDdFB0LVJJckNaVk10dE9mMWlzcmowdUx6TXlxZGFfVDFNMURKOGRraWRMaWpMVF9hQQ?oc=5",
+      "date": "2026-05-24",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "400年の歴史 300個の提灯行列で始まる奥間大綱引き 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTzJBRHFwTkYzR1RRbFdvcUcyT3pLRTU5WHV1cXZSTDMyYUktT0djTG4weUE3ZWM3OEI0cnAzeml1MXBVY2xCeEkxclNWam5sTkpPYlRnUjEyWHlnOFAtWmVtYnY5LU0?oc=5",
+      "date": "2026-10-02",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "《茨城県境町》沖縄県国頭村・鳥取県岩美町と2町1村間で「危機事象発生時相互応援協定締結式」を執り行いました",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUGp3TU1DUVpQbmFGQ0FWQWVSTjk1bXlIekltdm5wQnNmOE1zSGVmR3d2X3pERnhrRmptT3ZiN0NEempnX2xDRHRpV0ZhUmR6Tmg2Nm03M2diN2RsYU1ORHhZc2doV2pfOEE?oc=5",
+      "date": "2026-07-24",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村の川沿い彩る夏の夜 サガリバナが満開に 夜にはバニラのような甘い香り",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FcnJuLUQ4QjRHSTRtME9JNnNmc3hWZXFUOVVmRFdJZlhFbWxkejQ1MVYzV3FJMzQwNnJDU1k0X0trUWtvUXIxbXBmY0tiTFllSktFdWVqNDJEODN2THc?oc=5",
+      "date": "2026-08-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【暴風警報】沖縄県・名護市、国頭村、大宜味村などに発表 10:21時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15bExWb3dGZ0xRZllQNHRKN3VzcmNEN3MwbXZabE9IN3R2NlFMUnlNek1Tazgwb0gtUDB3Um5yblVfb0hqbXkwSUZ6akxZV2U2aUJRcHpQSQ?oc=5",
+      "date": "2026-08-25",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・国頭村に発表 14:35時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GNHJhT3JiQUZtSjFvcmxFUnVnV2xuX2ZGVk1vQV9YSDZlSm1tMG5xRTRWQVNGeGtXem5NR09waDI1enB5dkVSc25palRaNmktZnZWTEhCZw?oc=5",
+      "date": "2026-08-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度2の地震 沖縄県・国頭村、東村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GYnFBV3BrenoxaTVoaGZUXzdYZ1ZaRTNQMHRDYS13X3loTWdWbXZnVFFXSUkxeUFzbVZpUDBUZklsei1kN3FnaWROckszdVlaRUxzQ29VSQ?oc=5",
+      "date": "2026-08-05",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄・国頭村の小中6校で給食取りやめ 給食センターの水道水に濁り、7日は弁当持参 保護者「家も濁っている。どうしたら…」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54OGRjbFlvX0pFWDZ4ZEhTVktKRVdqYTZjS2V5WFZEdkdNQXdyV1Y4b0RjeXJwWXBkUVd4RnhmcXVhZndUYVhpMnhNYUh3MGF5VVhxNVNld3M5b2NlWWc?oc=5",
+      "date": "2026-09-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村・奥間で土砂崩れ 村道を片側通行規制 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzY1QwQTQyYzhQRlJuak13N0d4eFNqaXRpeEktaWRUeExWNE1zZnRyUW1HVkRRVlQ5ZmFUMTJxV0lpZHlzbjAxeEIyQU15cF9uTXJremhtVlVINXM?oc=5",
+      "date": "2026-06-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "赤土流出から海を守る 国頭村でEFポリマー使った抑制プロジェクト始動 官民5団体が実証実験",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wSHBhQzlvV0lrQUhqSmNyRVlxRXNaYmNmRk15T0U0cnV6aXFqUm9Ea1QteS1WaTdDOWVad294T0RwWDIwcERxQzhSbzhRWXBkTTJGU0p0VVJnMTNiVHc?oc=5",
+      "date": "2026-09-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村の地域学習を後押し ガイドブック「沖縄石の文化博物館」を贈呈 – Quebee キュエビー",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95OG5ZNE9JZU5KcW10RXlkSzhoeE9OQ1RkMUI0MW1LSXNVZmRSS2ZVUzVJbUx5YnZERkFjVU9WdUtFejlIbGY4SzFsZlFxVDJ4VWhXWjRuWUJsdEk?oc=5",
+      "date": "2026-07-13",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "女性30人が踊り豊漁・豊作祈る 沖縄・国頭村で「安田のシヌグ」 [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1My1SYUhlRk9RQjFhMXJCZksyM1pSXzQtbVlXN084T05yc0JPZFUxN0ZjdDRqNnFqV1VOcEtaWFd0MDJSVVFMdGxhTExjQmlTUGMtVi1NNDljZGVoR2dTME81czZ5c28?oc=5",
+      "date": "2026-08-19",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "1日60杯売れるコーヒーが販売停止 国頭村で続く水道水の濁り、村内の各店に打撃",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NRVF0MmZaOTFLWThmUTVvRnhwLVVpY0JhZzViR0hJSUpPTUY0T1NNRjRpLVgxU2NlZUctRVVkajhES3pDLTE3VUpyYnBqWEx3Wm1iMWJLLXpEdFF1clE?oc=5",
+      "date": "2026-09-06",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【暴風警報】沖縄県・名護市、国頭村、大宜味村などに発表 19:20時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCRFAtM3gzdkpYY0NlS0l1SFpCanZLcHhMMkhPQ2gwTDJlVDJoOU4xN1NxOEdTblJscU1BTVBkWUZsOUphYldtTnRGc1ZfSVBRNVlORkV4cw?oc=5",
+      "date": "2026-08-06",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "テーザー級世界選手権が沖縄県国頭村で開幕",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDTXdNMXhrcFhKU19vTTdqZG5Nbkc2M3ZRMkZoNmtULTEybV8wZW5NZmR5ME5HSjZlUnZnMllIMzJPcVZHSVFrYmlmbURfaWpYVEtZTEtoRksteDNuT3R3V2VzMnNTWmFQ?oc=5",
+      "date": "2026-06-07",
+      "publisher": "KAZI online",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "五穀豊穣願いアブシバレー ハーリー大会も 国頭村安波・安田",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80VU5pZ2lGMkluOTE2Vm5ZcU5rMk9GbUVhS1VqRkt5b2JYbmRlMjJ5Tm1RbVFYNVVMZ1RnOWNEOWNYWEowX0YzclpQU1BlQVBNQXhWeDBSSXl2VHdCalE?oc=5",
+      "date": "2026-06-09",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村、漏えい認める トレイルラン情報公開請求めぐり 国賠訴訟 那覇地裁 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMEo0ZjBQN205OXBpU3NkVzVIbFNpV1gyX2ZIcnQ2bXlOMWQzSkpfbGpvckNNdUp0N2pZaHAwR1Eta25Ybl9leXNLc3hGSGxvcTlXSkdqRDBnbjg?oc=5",
+      "date": "2026-09-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖合50メートルに流された親子を救助 「離岸流」が発生する海域 海保「ライフジャケット着用を」 沖縄・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xVDdyRkczdUVEVmNfLU1FN3VTOVRCbE02WXVpaklZb3NQanVUOE9EQmJwVDRzTDNEYXpDR3BhakkzSVM2ZnpoejBCQQ?oc=5",
+      "date": "2026-09-23",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県国頭村で捕獲調査を実施しました！",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZzFocVRWLV9WdmlyeVdwekF0ZWhaSDZRRGpQcmFWZzVKcnJPVVAyZ2dSV0hNaXpHLUJHdXlwdzdPUFR1dngxckhiUnMya0dscnRWZUZoWnJEYTlmN3BCajQ2bDg4MG5MZHc?oc=5",
+      "date": "2026-03-10",
+      "publisher": "クラウドファンディング - READYFOR",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "旧盆直撃の台風18号 国頭村で暴風域13時間 今後も「台風の卵」発生か | うちなぁ季節めぐり",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xM0tpV1o2U3F3OXU0U1A2bjgwZ1BxcUl6T1FZNloteGNLNU1XYzFQR1BxTktiNWVZZGF5OWZwejQtOW43NlBfWkI1RVNMWHBaZTZZS0RhdmRMQ0JjYVE?oc=5",
+      "date": "2026-08-28",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【速報】国頭村にレベル４土砂災害危険警報 本島北部に大雨警報 （5日午後7時20分）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oa3ZlREEzXzQ2Tk9tSE9UOWJMbmx0eDZOcnhGUHNPbm9tMENhM0prZDFmSXdKNXh0ZkhudzBhaW56Wmk1WnpWVV84RlNIYXFtNlBFVk05ZVJGdjA?oc=5",
+      "date": "2026-09-05",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・国頭村に発表 17:22時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IS2RnUmpGczBFcTFfblRBc0lMS29pUWlmM3NfOHdOU2ZLZHZtV05OMlU5YW9UeWdvOEVSN2VoTTNiX1dVWUdnSzBVUlVrc2ZCOU5PYTlhWQ?oc=5",
+      "date": "2026-06-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村産マンゴーの味競う 道の駅ゆいゆい国頭でコンテスト、試食会も 来場者「もっと食べたい」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rR3FibWFqMnRGbU5hWkROTjdpYUwtUDJ5SmRuU1ViRWstNWlUT1gteERsX1piTnE4UzlSRzlmS25FUmcxZkFCVTJlUS12UWpiNmU1QTgzY19HVy1zU1E?oc=5",
+      "date": "2026-07-30",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県国頭村との連携事業 | 社会・地域貢献活動の事例",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ubU1IU1lKYl9aYnVWOExnZ0JTV2dxckhZd0ZQWG1WR2R4WWRkUXVQRHBGS3ozS24xb1h0UWdRTmVPXzhtb2JGR3A3VGE1c2NMazNDRFlPMWJjdzlsUnMyUGRRU2RUZEFOX1JYbkxuOG9rZmRBZkhr?oc=5",
+      "date": "2026-04-23",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村に「レベル4」土砂災害危険警報 気象庁 沖縄（7日17時42分現在）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DUmtTdFlxRUJyVnNuWlBxVnV5NVZvck02RUl0dV9uTUozTkQ0VkFmbEZUcm1KU0VKUGNMQUl6ZjlmMS1jcFgwcXpybnZxd2poN0JQUndLZnp0V00?oc=5",
+      "date": "2026-06-07",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【速報】国頭村議会議員選挙2026の開票結果｜候補者名簿と得票数・投票率まとめ（沖縄県）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2ZGJNM1U1NlR1M1dHS2pCaTFqZENnVVd5WEhac0EyallOSWJrdE9LR1dYOHlXUGVHRlZmN2lpQ1pKX0k0YmMxV3ZUNUs4UjkzQXVGWWNsU0RtblBwNzFuUTFOanhNSmFm?oc=5",
+      "date": "2026-09-09",
+      "publisher": "ジモベジワークス",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村 東村で一時 レベル4土砂災害危険警報",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wc2lBTFg3ZWRWUTNXOXM2ZExqQVhrOEJ5Zk1MR2dvZUxEWTZ5ZWtKQnRoSEJ4cUg1WXE5MXZkT1N1NTJaUWRqSk9raS1USDNpc0NOaVdyOA?oc=5",
+      "date": "2026-06-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村の地域学習を後押し ガイドブック「沖縄石の文化博物館」を贈呈",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBybi1wVEg5WUFKSUtjdGl5Q1QxbUxlMmJ1a2lqdl9nSVB6eXJrd1VvS3hrNnZIT2lxOEwwbThaN1VRLUNaVTdkaE5hYXpadVhjcXFBNExjaWtYUQ?oc=5",
+      "date": "2026-07-13",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "茨城県境町と姉妹盟約 国頭村、道の駅交流を縁に",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SmJoaHYtYVkxY1NLb0JZQjJmOThxRjFSYWk2d2tRYUZkVzVCVnNuWG5QZU1fWFRKNkwzRXYxSjNTZVUzRHEydFVUMWU3TVB2Z0pFdk5YRlNzaEFqNHc?oc=5",
+      "date": "2026-04-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwajllQnowNzBlTE1HV3NfVFdyNG00SzdRcURpTXRpeWNnakpPck0yR3ZwamxHZUF2Rlc0R05FVGJWSWY1NVVoS00xeFFxU0JOQ2M2dHQ2SQ?oc=5",
+      "date": "2026-05-01",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZjFBaTkwanpnSG9MME5ZTExaZXFxWE5jUkdWenFCeXFRNklXWmpCZy1GbXpyRlZMUjJJZ0JBcDZBZUlzenpGWnZQOEVSRkFsZnViejY5QQ?oc=5",
+      "date": "2026-08-03",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "あがち森（あがちむい）（国頭村） 季節の食材と絶景、堪能＜うちなー味まーい＞167",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uOWkzVDhpV2tDeVN4TFBEVzJCVjZzdF9FbFJwM3FWNlYyY2ZfSFpzeTFwVEtqczhFbmZyRFE2VHg2Y0laUmJlYXZrOERmSGQxNl9idzE3WnhodzVVZmc?oc=5",
+      "date": "2026-05-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【暴風警報】沖縄県・名護市、国頭村、大宜味村などに発表 21:14時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rdHdvUU1FSjhRVTdudlZDR2hTMXBXLVJVQlRkRlRSZU5WdmhVOVBQckVYcVVjSGcxRGJkclN4OVB4ZC1LZHlUM2VfRnRueVVXRUlDODk3TQ?oc=5",
+      "date": "2026-06-25",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "夜光貝や琉球松がアクセサリーに 移住者が地域資源に新たな価値 沖縄・国頭村の魅力発信",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05ZXVER0RFV0VpUEtGa2dlSDVqa2E5dkZuRmE5aXJ1Y0xtUDdVV3Uxc1Z3V25hVnBYNEpOQkU3T19vbVFfUXpQQlhoa1RpZlhPZnl4UDhZX0h6eXBiRUE?oc=5",
+      "date": "2026-06-06",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村奥のこいのぼり7年ぶり復活 100匹が涼しげに空泳ぐ 5月10日まで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nQTEycUVHcWNETFNjeG9KRGtibi1mRFpjYjJSdjhoS1pTSF9JQVhVOVY3SE10alhTdWQ4cUdyaVBTeUlvNkFSMG5pbW1pcUVqQklnODZoN0tLQU1IckE?oc=5",
+      "date": "2026-04-29",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ヨット世界選手権 沖縄・国頭村で開催 6月6～12日に115チーム参加 7日は会場イベントも",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTkZhLWdvT21nSnZ0dXJsTkw1V3FyWks5ZG1HcFdSQktldXpyVFhXc29JUF94d3pKcmd4TWRJb1VaWXVoclIyS2RmYU91V1lNamg3SjlzY2U4bG41MXc?oc=5",
+      "date": "2026-06-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【地方創生×DX】株式会社LULL、沖縄県国頭村の地域活性化起業人に副業型メンバーが参画。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LR3U4dnJvd0ZOZmpSemhSbUs4VDZGNmJSR05oUmN0dzRTSU5SckRYanpHSDdKSGVtRXRMLTZfZE4zNHZOandGTklNdkN3Q1hsZmMxV1hTeDloVmZrSlJ1ako2d19hWHA3ckZxM2RfYVBRdHFpZkNxb19sbw?oc=5",
+      "date": "2026-09-29",
+      "publisher": "産経ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・国頭村に発表 19:15時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VE1tVjdiU1ZRMl94bE1MRkdwakNlNTNLa2FmdFNYbVViWGtWR2poQkd3VTJ4UXB2OHVOeDBXMnpYbjJHdEdqeFV6RmpWUlQyMTJWVU5xVQ?oc=5",
+      "date": "2026-09-05",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【台風13号】国道58号 国頭村宜名真―与那間が全面通行止め",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05MFI2LUdZSGFzMU9uSUhodGYxaVJ5UTJ0V2g1TmQ3WkdnaG1DdGFOWExEeE16Vi1VMHBrTFlfMzFRTDRuaHVZZktRTQ?oc=5",
+      "date": "2026-08-07",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄の国頭漁協、高砂熱学やJALとタッグ 高鮮度輸送で魚価アップ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aOEhoakYtaGE4VTlNMlI3Q29kTVdGaEtDdEZEck5uSC1FUWJCZ2x0Z3d2RWxYMFpqeHBMSUM4VnFrTElHSFRnTHZjMTlrR0pyWUV6VWl0VDI5MkV4bWkxZm1zU3JZNHl6bHV4Zw?oc=5",
+      "date": "2026-09-28",
+      "publisher": "日本経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【速報】沖縄・国頭村や東村にレベル4土砂災害危険警報 危険な場所から避難を【7日午後6時13分】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoOVFDYkFQQVNZcHJud3Q2WGpVSjNqNW5SYjZUTzREMlVrV192eTJTRkl5dHN5d0VIYm5GTk9OSkl6OElxLS1vT3lrdTVnQWx2TkxreldneEdFMTZlQlE?oc=5",
+      "date": "2026-06-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "水道水に濁り 4日給食を非常食対応 国頭村給食センター 7日は停止",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZlRmUDZQWkNHeEUzNWtMUU4ybUo2bzAwWXQ4RUl4bmxOZU5qZXhPY196QkhPYmY1NG9heXJqcW12Y3BYNWRYbjNNN1k3ZzdCWVNMNFpqclc2N3FSZVE?oc=5",
+      "date": "2026-09-04",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【暴風警報】沖縄県・名護市、国頭村、大宜味村などに発表 22:36時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LZWR1N29fVENrUzQzWUxjQ21tYmZXZG1wMjhVenVrUmhBZDdQQnp3a1E4cWgyU29CX2dxakhJbFlEQnRZVTViWnNUeW5nUVlqaFBpb1JOSQ?oc=5",
+      "date": "2026-07-10",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・国頭村に発表 17:33時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xYk81eHNhU2RydEZZaEJtalpZUFFtQ05wZ2JWams5NU16cXdNN0k4SDhld0ptTG1mUEZLeXB4cXNia20xQnZuNGNCSXl5ZTR0SEZqZkhNRQ?oc=5",
+      "date": "2026-06-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【速報】沖縄・国頭村と東村のレベル4土砂災害危険警報を解除 注意報に切り替え【7日午後9時33分】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZjB2amRRMUh4eVd0SDhWM2xQMXNET3NuWmpUSVlLOTlCd3lHTzFmSmpJcGRseFVvTDkyV0hDOTVUYi1iRERqenBEQkFUQzBSUC12VHZ2V0d4MnNqU3c?oc=5",
+      "date": "2026-06-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "通常は白いはずが…「赤いダイサギ」、国頭村に出現 調査で確認 国内初か？",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4WVpSNFIwVXZZZlBXMFpCc1FKRTFPTGVEcE9IaHN2Q1BpMVRhTDBFbG1wT2hrV2FUNk9qQmQ0ME94SUNUSGhQemVQdGY0Zk82TlBZZGozMmkzdVY3Tmc?oc=5",
+      "date": "2026-02-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・国頭村に発表 18:18時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VLXZUX1FteDNkQllfVlRUeFZoS1JjVlFQVjF2UjI2T3B3ZWJ6eE5STjRuWnpXVGNTQ0JxWEtrWVREbmJuS3lDNVFtZ0V1cnFEZmxLRU10bw?oc=5",
+      "date": "2026-09-05",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "まるで森の中… 「やんばる世界遺産センター」リニューアルオープン [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GdHk5OWNjd1Zla1FWdmd6TnhDWVdNRDd1ZW90MUxmSDJjdnV4NmZyMHVXRWxZaUlGVV9GRm5yMnRGelY3ZDE1eklJYk5wUHJVMHI4ODFzU1lBdUFDSEVxSTQ1ckxjRG8?oc=5",
+      "date": "2026-07-17",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "2姉妹都市と災害協定結ぶ 国頭村、鳥取で締結式",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RlBsRWxYMl81b000SktzMkRiWmx5aHBpdWtNSTZEdGJxUm1DbXVaMS1TX2FzMVEtTVRPU2laOHdZc1R6LWQ5aUUyYzFiTlBXOHFnbGpoUXFnb2VBeFE?oc=5",
+      "date": "2026-08-25",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "夫婦チームが上位を独占。沖縄国頭テーザー世界選手権初日世界のヨットレース、セーリングニュース & コラム",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IM0h2V3Rib29wYlBWMVFCbDI3eGJvZWRGZWFscW9XQU5OTnVWY3ZydExTamhpdG56cTd3dlJqTWJOeW5OLTRjenpEdw?oc=5",
+      "date": "2026-06-07",
+      "publisher": "世界のヨットレース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "■国頭村、ヨット世界大会に合わせ来月７日にイベント",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YcjFZTnBMNWJjWmJpd0R2QU5XbWhhX0xRYzlOYjRHZnRiUU5ZbFdYR1A4NjZxVVZrMlBhZHBReFBuYUZXRUh2b3NseDJ6aGlYTmV2SHZmMEs3S1VNVjVLMQ?oc=5",
+      "date": "2026-05-15",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村のウフギー自然館が「やんばる世界遺産センター」としてリニューアルオープン！",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XZ3U4dnZRa0pwc0dnbC1FMVNULTlkNWE5OEtNN3RVQUFrMDFhSUxRRnRJRXlIWTZOam1hd3JWOWdNamVlOXNRS3VHekNOQmJ3VTNCM3pnSmZPY3VSVUNvOFh2SQ?oc=5",
+      "date": "2026-07-29",
+      "publisher": "DEE okinawa",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "リュウキュウヤマガメなど「やんばる」の生き物たちの密猟防止へ 環境省などがパトロール強化 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oem43R2xXXzZvVnk5eTlpTjZrVnJ1bkxLajVhakw0bW5mbDdoUnpKZDRNbTZJTFJ6aWpzbjFUSlRkcGdJLXJRVkVHMlBfWEd3cHJuU2pqVQ?oc=5",
+      "date": "2026-08-23",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・国頭村、本部町に発表 15:39時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xblk2QVlsdS0yZFBMaExZZVQzMDBRWW11U3h5bXhQQkZtYlVGY2xEX3F5ZHJhR2d5RlpNWkFSYUZxQVlsaUo3YXg4blk2WWZrSnU5ZzhXOA?oc=5",
+      "date": "2026-08-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄・国頭村に「レベル4」大雨危険警報と土砂災害危険警報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KV1A1QkNUUjN0Wk96dG90a3lWMXljZjZZWTdBbi1UTG9Pc3lKZWdpVjNCNWI0cWhNbHhncC15bEMxNDFvdnpRVnZITVBUN243WlJOTjE0cW5QcTI3ZG9vYVhHMTVSM0dNWW9JRHJuR1dQZw?oc=5",
+      "date": "2026-09-05",
+      "publisher": "テレ朝NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「水道水が濁っている」沖縄・国頭村でなぜ？ 「健康に影響ない」と説明も…飲食店は悲鳴",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wVWpPb3dxZWJ1SFY0bkpkUnpHX0ZmdUpzd2V5eHN0MEprTEE0QVdhdHNIUDdrakVBS3NtOG9EUGxULVhNTnFVRUViZHBuRjRmbUZoSEZvZmJicURhRGc?oc=5",
+      "date": "2026-08-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村 東村で一時 レベル4土砂災害危険警報 | 沖縄のニュース｜RBC 琉球放送",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Gd2N5VDh6X2JvUjkzWlJuX0JlMDI4aW56aVNGZjZOcXlRLTF6NmlXOUxORG54X0psVzVaV1BpTERkUjRqUzFMc3VXMldic2NLNHBlT3FjdmI2Zw?oc=5",
+      "date": "2026-06-07",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村の「おもちゃ美術館」リニューアル おもちゃ5000点を追加",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TSDMxbDBEM0tnY3N1clZWLURaajlTeHV4eUFXZFZINmZHZmhKSHZsMU52UEZxRUk4Z05sV0VUZlFUVEVFVVcwSzdxQUNUNGFlUEE?oc=5",
+      "date": "2026-03-23",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄も冷え込み、県内10カ所で今季最低 国頭村奥で8.1度、那覇市で11.1度（2月8日午前）",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uaklJQzVnY2JrTTRCODVqR0pMWkFfQ3FGVnJjdXFscUs0X0lUSVdiTVpJeERDX1R1VzB3UGFZSXpReFNLaWlKVjNQTGpENjBsUlVtcFQ5S2pGSjFrZTJURQ?oc=5",
+      "date": "2026-02-08",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【速報】沖縄・国頭村にレベル4土砂災害危険警報",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UWTRsbTB3clJxazBsbjBVSFZHMkwtZ3FyR3hPdVlZTHNoUFhKZTR4YU56STdobEs2cGRReERKeDNiSm1lVlJySWg2bjNaZl9FTGRuNzZIdXgwOGRtNFFnUjVEemVSNUdSRk5XUXctN202dw?oc=5",
+      "date": "2026-06-07",
+      "publisher": "テレ朝NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "［沖縄days］「こわもて」な名前の赤い実 沖縄・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkVzQ2NaU2diLWYyM0l5WXBwUzkyVmVfTHRnOHdvQ3F6Y0p3el83OHlBdVZvOTQ3VmVmQjU4SDk0dkE4T29WTGxqbUZWZFd2YVJhQklvcTFTSlYzZDF0T3pubHhFZ19DMlU1ZzBZSnBHUmt5R3lzWWduV3Zid2V4Rw?oc=5",
+      "date": "2026-10-07",
+      "publisher": "UQライフ",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "国頭村に「レベル4」土砂災害危険警報 気象庁 沖縄（7日17時42分現在）",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1MWZhUWNTa2Vhc0FFY19vZXI2T2NuVkVZZ2lSZkpPWnhGeWpGNGpMLTZ2WXVja0ZrMzV2bXJYU09VM2JvN2prdllZNA?oc=5",
+      "date": "2026-06-07",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "3日ぶりの再開で4レース実施。沖縄国頭テーザー世界選手権世界のヨットレース、セーリングニュース & コラム",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OUDlabXkyMHZtRVRSdzdMZHF5Uk1zZ3pXOHZmbHlhUUhDTmRDSUV2LUMtb3pTRWJ2bzJtWktfc0dDVmJUbnFQM3otUQ?oc=5",
+      "date": "2026-06-10",
+      "publisher": "世界のヨットレース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "津波注意報でレース中止。沖縄国頭テーザー世界選手権2日目世界のヨットレース、セーリングニュース & コラム",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WRjF2Y1Y0YUhzNE90ODU4R3pzalktbUdVLVVrcGxQdFRWNy1QdkxvNXNtS3I4Vy10WU83b3AzU1UweWlWWWVUNGswaw?oc=5",
+      "date": "2026-06-08",
+      "publisher": "世界のヨットレース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【暴風警報】沖縄県・名護市、国頭村、大宜味村などに発表 06:03時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54MEdYSGNMV1lTaHpOZ3RTY2xBdXVrSnhCa2hSR0syYnczY0RVOUdaOTdHaUN4TzF6NE1tSlF4cnY5RXBqUlRwTGJmc3REcjRnVW90bUpRbw?oc=5",
+      "date": "2026-06-01",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    }
+  ]
+}

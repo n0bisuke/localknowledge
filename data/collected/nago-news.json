@@ -1,0 +1,715 @@
+{
+  "source": {
+    "id": "nago-news",
+    "name": "Google ニュース「名護市」",
+    "kind": "news",
+    "prefecture": "okinawa",
+    "area": "名護市",
+    "url": "https://news.google.com/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja"
+  },
+  "method": "feed",
+  "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
+  "lastFetchedAt": "2026-10-13T02:43:33.461Z",
+  "items": [
+    {
+      "title": "名護市の友好・姉妹都市の料理や文化を楽しむ 10月18日「あつまれ！友だち祭り」 入場無料、エイサーなども（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QanNnYjNqMW04cFJ6dThQY1RNMUxvX3lNNnpxYzhReXBYVG8wZUJXWF9kVnNXbXA3cGxPYldvRy1SR2FLSU1QdFJoSTY1WHpxZnNiZncyUGhfWXE2OVF2ZmFhNThzekY5SnBnOV81dGhHRlFDWV94ZmxNMW80b3c?oc=5",
+      "date": "2026-10-12",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "迫力の「シーシー」 多彩な演目 会場沸く 名護東江区豊年祭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hQWJ3UXZiLUY5ajZsNzRjRUttbWY2SHZJTFphQUc1OGYtNThpbnlwUks4d1FTeV9zUWQ4NzZ1dkk3dThhUmw0WkZGUE5MaFJTSGhmSERfYUY4b2RKTXc?oc=5",
+      "date": "2026-10-12",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "■１６、１７日に名護で多様な文化や表現に触れるイベント",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QaEVSUE1PdFZWWlo3UXYxR0hwVC1RQm03RFV3VjdIZWx5ZjI3ZVY3a0FTbkI2THZxNHhTZlZaUE1Nc0RUZGkzenNBYzNBVDNfN2ZaNnhkMm9qdVFudjZuTQ?oc=5",
+      "date": "2026-10-12",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "独自の「猿舞い」に、子どもからお年寄りまで楽しむ 名護市東江区で豊年祭 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1VaR1B1VUY1Y3dEamNOQWdjYjZMQXZqajRISVg1SlZka05SbVNxTUEwQ3NTam51REhaYXB4ZHJXNmJoOXZoeWZuX0d1NWxFQ0FuYXllSzVDdzl0ejNSaVplZFR3ZllTWC1mSTE4dUtsaGFocnROUmtlNFFKVFJqWNIBhgFBVV95cUxOaW9PZ2cyQXEyTjdqLUtJS1gtd0NTMlVZT2VHTHVuaEdKRW5Yd1QyN0tSN0ZaTEVEMng2bkpsZGV1SmwtYXhaMDF3Zmp6dVotY3EyU05JWnZzVnJNd3BNUFY4LTFObTNuRHg1d013MTFtUVVPT1p2Q3pEUUhSNW5ZZEx4Y2QwQQ?oc=5",
+      "date": "2026-10-11",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県名護市、民間救急による転院搬送を10月1日開始 消防と連携する全国初の体制 (2026年10月7日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IVnYwNThtNkJ0VXJzLTlkeURLa2lNZ2poRUFLZWo3aG5peWpMZ3c5eHRFTVhDV21NRk9QWThTMEUzbEhmQTQ1TlBXSHRKYWNMdHpFZm13bTdiQ1ZMMDdBZWJ3?oc=5",
+      "date": "2026-10-07",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市民ら抗議行動 米兵強盗殺人疑いに",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JbkpaSlRUeGZyUlc2TldHa2tUQkJWWm9FeHI2dW5kNG9wVmZxWXJHbWhKVHBwZjdwSjdpQ3lOU3RZZFNvOHNXdXpYenVTT1pPVXlZc2NiakZoVjhnU3c?oc=5",
+      "date": "2026-10-11",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市民会館で西野亮廣さんが講演 自身の失敗や成功談語る（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNm9FeVpOUlVWZWZTSXd0bU5pbVNGcVBxSFQ0SkNsMWFHWncwaDZzaXpYMzVOSmtOYWxYZjB2a0NmRmtiMGh1YUVPcGo0bUlBYU9tSE1DUVV1RWNPdkQtUUFCY2VzbnhjWlBOUkgwMEllYWhPazU3LXlNVWE0RHM?oc=5",
+      "date": "2026-10-10",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【人事】名護市副市長に元市職員を起用へ 渡具知武豊市長が方針",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyU2ZHcVBOcU4zRkNYS2FiRzFJTzhrS3BoU09wRG1VWEZ5c0lNR0phV2pSeGpJXzhnYzFDeGNHS2ZmTmtqV2NsdzFYS04wV3RNMGpCMTF4NUxUZWZFS1E?oc=5",
+      "date": "2026-10-08",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "戦術弾道ミサイル試射 北朝鮮",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11T1QyR3BnUzExWk1DY3lEdWw0dy1WdDEzcVNXZ2VEREZYTDdKYk52Yi1LNU96dE9lZnJwQUZXV3NxRDFjbzZuZnFWRXRSdUgxWG9udg?oc=5",
+      "date": "2026-10-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市の友好・姉妹都市の料理や文化を楽しむ 10月18日「あつまれ！友だち祭り」 入場無料、エイサーなども (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekhSdGVhNzYtLUdxR2pKa1loUkJuaU9XMEUxanVpdzRqTzVXa3dmdnQ4NDNTZHpiRElzLTNRSDNXV29lamQ2aUd2Y3NmNnQ0Vm5xTnVNRnE1dmdlUDZnNi0wS3hQemlGODdNQlVVckw1Z1I3UkVPNmtSb1E1MXpoczVYNllxenRZb3IzUXZ3?oc=5",
+      "date": "2026-10-12",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市の友好・姉妹都市の料理や文化を楽しむ 10月18日「あつまれ！友だち祭り」 入場無料、エイサーなども",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iZVlMY2dQME9GVVE1YkJRSTlQZ0lfOElwa0NjVE1uYWpDcFpQVmhpRm9oaWxZWmJlQzhacmF3dzRiWTJwWFFKVWdyNA?oc=5",
+      "date": "2026-10-11",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市副市長に當山氏を提案へ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aVUM0dWpRRnF2YTdnd0ZvRy1oblg3TDRIUFVpV2VlVzlfQ1B6QWdQS1pwUVF2MXpyTmM0UFNoY2JkUGlnaVZPTDNqX3R3aVFCWnFzRUZsU2ltbU5hMVhleU93?oc=5",
+      "date": "2026-10-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市の友好・姉妹都市の料理や文化を楽しむ 10月18日「あつまれ！友だち祭り」 入場無料、エイサーなども",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ySnJYQmt3TXRIR2VqekE3cFYwdl92VWpwdUwwWlJjOHJmcm8yWWRUR0pDR2dWekJua0RjUV9lNWk3YUJIVDZOXzlkT2xDZ183YlNOSGJ0a3FIR0x3LUE?oc=5",
+      "date": "2026-10-11",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "数百店舗がサイバー被害 仏",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PZ1hjU3dsQUdEaDdaZlU0STVMTTl5QTZPQ0JRZGIyYnFrN2ktNzduVkdUV3pOaHV5Ny1SdjcyWllkNVhhRW54NFJvNmFrLS0xVkpQYw?oc=5",
+      "date": "2026-10-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "独自の「猿舞い」に、子どもからお年寄りまで楽しむ 名護市東江区で豊年祭 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZMkYyQ2wtRFVndnNCZm02MFVWZnA4Z05mU0VIQWdESDdiUUlhQ1U1c1hVRUZBZUl6M1BoQVd4bDNFdk4tcE1jajVSSXRISDlSdTJHWm9hNVFmZmJNNkE?oc=5",
+      "date": "2026-10-11",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ファミマ 名護で食品集め 子ども支援団体が配布",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ubHh4SXd6VVV6MEdFYkNGY28zc1h4MjJ1UFo1U1g0b3BON2RNMHdWdmoyTmhrYU0wQV9PeWJkXzFuR2NzblctcDBTVHpVTXIzT09GLVBiMlVObUlGcWc?oc=5",
+      "date": "2026-10-10",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「軍隊とは共存できない」米兵那覇ホテル女性強殺事件 名護で60人が抗議",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dE5ocUFGUmV2UV9Iby14dEg3TzhLeS1WMU1scktvZkMyQWtMZWNaRVVRM0QtXy1EZDlra0RGNnNUaFNGSl9WMkdldGNCX3ZQT09BVXFDc2ZoZ2dLcmVnUQ?oc=5",
+      "date": "2026-10-11",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "米俳優ＲＪ・ミッテさん死去、３４歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5dHBKSktaaUg4ZEZra293c3daa3RpTXVOaUNkOUduTC1iaXc3enpvVjg4aUdlT0RkeVRndEU3dHR1bFI0Z0U3Y1hFcVlUc0s5b25pbw?oc=5",
+      "date": "2026-10-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「みかんの里」が販売するカーブチー加工品",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1raldlZFREcmJSUEg1cjdJRWEzRzg5NXlqcmVfZzdCd05QS09hYjF4LW9IYzhYTER0Ti1aZ2lRU3Myb3JNYlA4U0Q2QWgtdU5NUENMQjhB?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市民会館で西野亮廣さんが講演 自身の失敗や成功談語る",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nLXRtUWxyak12UXZiejRWVXNxSFZpeDJvSTUzajUzZi1XQnVySW5TTERvSGp4UDM3OWZEWmdoa2dVWFZiSFNuWi1ZTW5MRHZPRGc?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護で講演会を開く西野亮廣さん",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxRUtrRmxUMUFfZmd4N3FGVWhXal8xUTJLdUQ2cmNnc0N4OUQta3dibkVuazlLb1oxcjF4aldrdlpPV2xzWWhsR2lOVVctUDhQUS1WaEVR?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護にラーメン店「マガリ ラーメン」 昼の串揚げ店で薬膳ラーメン提供",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzaXBqaHdPQVRybG5iWTRFZXBmcm5tallLMFRqd3FuRV9aWG5wdWE5cGdPd3VQMmtZckZyZmlYTHRiM3pUbGVZODM1V3ZUak0ySEE?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "日本ハム、３年連続ファイナルへ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xVjVSTUtFcHdyMXpmUHZOQjgtQWxtamRxblNjbDFXT00wRDlUUGthRWMwNWxSRlplVDYtbGNlSElhS3pkNGJnX1dlcmpseVNzQmlsWQ?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "Lime、名護市・沖縄JTBなど5者と包括連携協定を締結 2026年度中に名護市でサービス提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ga0NscEdXWVhQZDg2dUJpYTdySWhiTmgycldqVFdMdk5wZENMQzhuM3daS25oajVNNFMtTDBrb29KR3RLdl8wRE9EX3lid2tpdVRzb25XeG96T0diVlhqX0loYkxYdG1HRVE?oc=5",
+      "date": "2026-10-07",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ガザ攻撃３年、都内で企画展",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91dG04QmdLdnpRUnhoSWFJOTZQT2xhajBHN1hMbWVCb0tKZVl1R2VrVzRTZlRJTUpmaDdLZ2dsRkpzYWotMWZFbTJfNlBQb1dQS0FQQg?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県名護市、民間救急による転院搬送を10月1日開始 消防と連携する全国初の体制",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FS3BFTmo2SVUxUjJoTDRhcHJlSE1ZazlRY090eUhFYnJTY29XS0RHMUtqbFA3c2U5dS1mYlpuaFgyRFVENzlSQWV6WTFyZUdDY1pVSmxienk5Vl9zQ08wNUNscEtzdnZFbmc?oc=5",
+      "date": "2026-10-07",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「くまのプーさん」原作刊行１００周年",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENTkyMjhqaVN1Y2tvQWVrMG15QlZPRE5ZSXptcDM0QnktTlN2WW9OZGxrLUdrclk2T0QxNmlaa1FQalBTcU91QUVTX3dUb0lEWjFLUQ?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護の呉我区で豊年祭盛況 敵討ち劇に歓声 地域の繁栄祈る",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82Q0pMa3JYLU9OeUhPUGItbElLamNEb0FPLUtZQjVyLVdvc1o3cmNvSHFPX3ZNcmpveFMyWklqRWFRcUROMUF6YUNMRTB5TVhLRU1VR3A1OGhQZ1VOQ0E?oc=5",
+      "date": "2026-10-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "教職員の心の健康へ 名護で講演 意見交わす",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIY0hUUl9FbmIwUG1uVkN6Y1owWnVJM3h3ek5sQ2doUnFWNllyeDAtQ3JjZUpMajIydzhxRHBRWkNHaGo0YlR3VmZRbDgtLW43U1F1ZEhSOGJFa2tiNkE?oc=5",
+      "date": "2026-08-30",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "限定パインジュース、今年も 初めての2種混合 名護パイナップルワイナリー 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xRGd1YlQxTmdBLTFhLXdubzdodC1yTTdyLWQ1LXZ3aUhPZFQ2Qk1qQ1p2enBTd1ltLTY4bEgwNVNSY0hxTW9OWUNVeE02MXJjMFlRd0xtVlFadzRRSWdxM1NUazZZQVFFb1dNQ19KUTlDQ0NXRURXN0g0RTUtNkU?oc=5",
+      "date": "2026-10-09",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "移民船転覆、死者１３９人に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycllyR2lFUkhJQTUxV01fZFdnUWdSbGxVYUdqYUxxNVRNN1Y3dnVYWnhPbHIyUFppVUFURUZyZllCTm1BNHZvZzZjSEJJcEd5ZWx0Tg?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "北朝鮮が弾道ミサイル数発",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTd0xRWGktU25GSDlzUElDVHJRTVF3a1dvUUc4WUtZQ0FIWDBhQV9KRVBVZGZNbjRXR2Z3R0c3QlJSOFJNbkJiV005SUJ5alJoWkp6Qw?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市議選 25人が当選 定数26も1人欠員に 法定得票数に届かず【沖縄統一地方選 2026】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hYTg4N2lnV2RnY0pJTWFuck1JVVBhdjF3d1BFazFVYURKdVB2WlFjU29tREZzVm5UcXgyakFZZm9GVi14dUZfTlJBWUFrN3hXV2dRb2VmbnpJZmtXdGc?oc=5",
+      "date": "2026-09-14",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "新基地建設反対 市民運動考える 名護でトークイベント",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1aDJySVU0SHc4M21BM0RqMEs0Q095LWxDa0QtOHlIM2JrMzZYVDMwMmFHaGQ2VjJVLXV3RVk0akNnR3ctcDNBVjZWNFFWQ2Y1cEVJcFZncDdHMmtUQUE?oc=5",
+      "date": "2026-08-30",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "リンちゃん5歳の誕生日 名護・ネオパーク アメリカバク、食で祝う 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OejRQbExjMF8yak83cnpjYmRlaXFNNFFTc0gzUXhqYWg4RjhXN2pmV2czbU9GXzZrSlRNTWZoX19TdUNLbEJJclZrSEZzeTIzSDg4UHZWWU96dU5sc2c?oc=5",
+      "date": "2026-10-09",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "限定パインジュース、今年も 初めての2種混合 名護パイナップルワイナリー 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZRGN4QTNaMlpMWVlSTldjSXhDRW1HY2lrcDNvU1d4emxlVi1qSy1kVFl5d05fekt3YXZBamxscndTSVI0eFhxZWxuWQ?oc=5",
+      "date": "2026-10-09",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市が「運動ポイント」実証実験 20代からの運動習慣向上へ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtd3JsUzVHVjdVcWJJSW5XdGdaN2hzMEc1YlVrZFJSaXdQRmdaWWlxTzE0RU9vb0pxVTJfVE5IUFg0MnNTWnEzaXRMSnB0NmplT0E?oc=5",
+      "date": "2026-10-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "海と森と歴史のまち・名護市を味わう！沖縄ファミリーマート地域ド密着プロジェクト第４弾",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LVHl4VGpoWFdfVkpJelJzX0g3VDNxNDk2MTUwWFBYNEpHbndnVFhzTmtwVG5MQUNSUmZUV0dZNDJOQzZCMUtxSEVIQ01vcTNKQjNHc3Z6OUxUYnlIN19sODFBRkgxMDNtdHotTA?oc=5",
+      "date": "2026-06-26",
+      "publisher": "沖縄ファミリーマート",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護で「ともだち祭り」 名護市の友好・姉妹都市6都市の食や文化を伝える",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fYl8zS2RJOTktVkZpb2hJLUE4X1NsSHpLWkdJLUJ5bjQ5djd3Z1NOMzFrTDJRRlFNSmNQcGVMemhLbXF0djdJRzk1OUZPaVVSSUE?oc=5",
+      "date": "2026-10-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県名護市と経済交流パートナーシップ協定を締結しました",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XMG9wR0c3OVpJZmNWVkEtWklhS0F6dmtJZHlfUW9KemRGYmtjdE1zQlRvMnBIZDYxbnhia0o1RGtDUjV4V2J2ZXdlQjMzdTFqOWRFZml0bkJ6aGh4QXA1S1hJMXhGZUVROEticTBlX3ZhUGFsVFNCSl9hZw?oc=5",
+      "date": "2026-05-22",
+      "publisher": "北海道北広島市",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄 名護 電動モビリティー活用し街活性化向け協定",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94ZkFIRHVhOE4wOFFwUTdlZWxJZVBHN0xlNUFPWTk1cjZEbVVjZGtyNjhpQnktT25mODNwVDIybVl3cUMwd2RnSG5PS1pCRExnNHFsRGtaMW9CdFQtMVlB?oc=5",
+      "date": "2026-10-08",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ウマい話にはご注意を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aRlBFcTJla283MXNFNEg5WThsQW9UZkRGb2lWNEJaMDdSUXlSdkdoZkJkckp3ZkdIdDRaSzdnZThpR3RUXy1vU1VocDZrdlA4Z1d5aA?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "将棋界初「女性棋士」の資格",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQVBwVEU3VW5XQ0RvOTNYeC1GR0UtQVZ0OEhoUXA2YUExQzRXY2lvS1J5TWo1SkhxZ25tZFlDU2ZhZXZzY0hmSVpEQWxoaGY2ZjhkXw?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "青森空港に到着された天皇、皇后両陛下",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuV1loOVJ5VHBqZDdJU0trcTdIZ2NHRHVLWWo0cUktaF9fMFc3RWlmaENhUVZOWldua2ExbVdfUUV4WTNiamxwSG0xaUJQYkZneUtFTg?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "8月から「51日連続」で続いた名護の雨、原因は？ 3連休前半は秋晴れ、ミーニシ感じる季節に | うちなぁ季節めぐり",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iMUwxbFFDeUNsUUpZU2xrdkVNUzRFcW1KT3lKM1ZxaE5hdVJ6TzlmMEJRUlF4S2pkMjRpTFhIeEJEMmE0enljbkVoNTJYTzJ5cnN1SUJrUWFrVUg3T2c?oc=5",
+      "date": "2026-10-09",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "200年の伝統、沖縄・名護市の宮里区豊年祭 「ヒタイヒャ！」圧巻の組踊に感激の口笛",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTG5TeFJCOVc0eGZkYkRSbVZuT1FiYURacTVNNEJwcUR2VHJNeU53QVJ6THlYVmwzekNlVEhpUVR6TFk3ZVhyMjY1NzhXRzNfX09BVHZXVDZaTVRVVWc?oc=5",
+      "date": "2026-10-02",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "「シークヮーサーの日」に名護市でPRイベント",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yOTMxLUFXRDdZVS1vUi1ybnpQYjhZX0VxZm9rQjhhTTdKVEZEMW1GaU5DaUY5TUNzTDdCNGNfUW9hejd3SzRKVmMwdlp2UFQ3eTR0T2lhMWszUQ?oc=5",
+      "date": "2026-09-26",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "魔よけの風習、全330戸に「サン」張り巡らす 名護市数久田",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Wl9BXzFKWVpmQ0x3cmc4RE9MZFc5TDVOT2JGV3NvVXY2ZTc3WFRNTmJpNVExS1loQ2RkMmdabXdOb1duNThVcF9PanZTOGxUeThvNTB2NTNNdG9fZ1E?oc=5",
+      "date": "2026-10-01",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "喜ぶ山岸 Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14RUFud1N4UTlVck1HbmZEODFNYVlzTktEYWpXczQxM2FxYXM1akwyNWZETmxFczNLc3RBbm5GVlV0SWRaWkllbnhuU1BlVFpKVHNqRQ?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "広島３連勝で２位 Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wYlpEN1QzdmhINGUtejJieWcwdW9CdlhmbEdnNTllcDBfT2hOazBJcWg3LVc5dnNRWkp6VHB2WXlJbXFVWnEzdlJ0d2RhX25WaXNnZg?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【名護市内小学校×FMやんばる企画】瀬喜田小で地元2社の社長が授業、4・5年生が職業理解深める",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EQW1ONTVrdmVRdUN1QmduV0o0dVNfYVBqYjY0ampGeHVhclVhWV9iZEpQTjFpcVJNOS1Mb3dvY2NGUXFGaFBWVjNTbG5mQQ?oc=5",
+      "date": "2026-10-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "米のＩＣＣ制裁、即時撤回を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KUExaQTNzcXAwOHNudFRJYmpSU09fMDB4RE5tdHJRT3gyWjNDN0FEUS13UzZ0dS1fRkdOaWVzQlVRS0phVnQwRXpCbWhfR2l6dlZjWA?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "インドネシアでも「痛車」人気",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12UTBhM2Nna0NlaTZva0xhTnJiYmhKVEJSbS1BcVhfOGtBYVFiLWpySEZWM3F1aWprS3BOZG5qVGxPRGtfYWNRWHNIZFdMWTR2N3ZYMw?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "甘々な厳選パイン 無添加ジュースに 名護パイナップルワイナリーが「ロイヤルスウィート」限定販売（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pZ0dnVkN5c2o4dnpnb3ptcHg0TjNTb2tnZEd2UnljOFpTdHJHRnZUVXlWMGJWV0xsS013ZF8zM2NLRXRPeDY3cDlXVnVVX3lMcmxLOVFrNkp4NUFIclZLSWZacXRKZXh4VGloODVhT3MxdGFoa05rNXVPSzI4aHM?oc=5",
+      "date": "2026-10-09",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【沖縄県内初※】名護市の運動ポイント実証事業「名護運動ポイント」が10月1日スタート",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QcFRrRFl4ekxKV3R6cVBsYmFGNjRKZFpoUWtIRllpdXRyY0lKc0t3ZTlha21UakNHbC1sN3ZpdDFkMDhpV1dvc1JnbUNGOWEybnZvOVBLSlRaVzlTaWFyNVNqYTl1VEQ1ZVE?oc=5",
+      "date": "2026-10-01",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護に会員制コワーキング「ネスト75」 起業を目指す人の交流拠点に（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNllRLWl6cXowWldjVTN4LVQzODN2OG1jWi1QS3VIZnlwQjBJOTFnWHFLTE1ua3lSZnJIOTJvOXFwS3N0alJMWnl6NlRxcTZRemxtZnNiSExWV3hDLWtNY0ZQcUlkeDVMR1RyblowMmNhdjcwWl9PdUxaaXF0YWs?oc=5",
+      "date": "2026-10-08",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "大谷、フリー打撃で快音 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CdWZUcVJHTVVaWWtPbVF6akV0YlhDSkN6OFNXX05LNFJnS20wMlZTUmVjWXhXajB0N2tFWGFfbDVTZUFIUHoxZjJHOXltbVduUmd0Vw?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "青森で国スポ開幕",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCSzNtcWJIUXJZamFOS3M3RDdzU3VrZUxFUldCQ3I3alYtRU5TRWxZU1BBRkhMQWlsWWZUUkdkRE1BNW44T0ptV1lSR3RIeDFJek14dQ?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "日韓おまつりでマグロ解体ショー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WSHcxRXZLU1lMRldtQjkzenZlU05qSHlTSFlUbk9xUndRcHRGZjVDanRlNFBxbmQzV2JkanFORnlBRFNpTkd0TFB3MnJRSWYwUlE2Qw?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "温室ガス削減加速へ議論",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oOXVELW43dVhESzcybDlqR0xGN1EtNVpzVzFsQ3dWSHpkWW9TYnRGTUxCOVJGd0N6NTRTR2c3XzZfSGU1NUxmR2lwWEZnM0JUQWhMTA?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "池田、前回に続き銅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Fd0d2bENhaEJjdGliQThjNGlHcGhHVDZPR2V5cFdBVGdrQ2NHZjlPRHBiaW9vNkhoS3B5cUZfcGJCZGJQWmtlQ0NwYVJMc2FHMVNUYQ?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "なでしこ、ハイチに快勝 サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aNmRfbHE1dUMybER2cFlyZ1VQc0pITzNNMkJRandDOUZMTkFfTU95aUhNMURhTGNOM2pwa1RnQWhad3haYjRCVlNxQk5tY0hXakdyeg?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "義ノ富士、準ご当所へ気合",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXTE1XbWc4bk9tRTl2Y2I1c1FwZUl3dDJPalNIVU5XMkVJNW1pR3dwSGtwUk5fdUstSWpQUUhYb2dCb1pkNzU2aWdabnZJdTlLRDJyTA?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "魔よけの風習、全330戸に「サン」張り巡らす 名護市数久田 (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzFXY2RlVzNsdG1PU29VMldIVlo2eFRjcUJ0eEE5Wi10SVpJZ0ZIcHF4cnl4S3JmTnVnNGNtWGFBWlE0QTgteWFBOFR0U1ZGcHlSVncxZXFCbGxKaDBVZFVuZ0U0UVRJOTNsMXN4WHlfMmRIY3ZSdURXZVduYlIydG02Q2FtcWRWak9ObVV3?oc=5",
+      "date": "2026-10-02",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "久保を祝福する戸嶋ら Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsSHlDOHJOUmdPYWtJQmRoN2ZEY1Y5eHZFUktEM0NPci1LME44TERFUTViQ3pOMDgzMlplYXhScTFyYUhsQjFjVG1FdXNHNTNMREJmQg?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "素根、メダル届かず 世界柔道",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5OFhOUjNjdjdKendvNEhpTGF1ZWVFOUVjcWZOQlo1dDhrMU9CTkdRZGNYOS1fWU5GZXRFdW1xLV9ZWlloT1VYenFkQlRzNjNEc3l3aw?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "消費減税法案を閣議決定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRW5fMEl0bk8yM2Y1czNrWGNxUS00Q3JiN3F6aS1QaFlzbU1idHJRcEN3X05OY3N5MktGYllrZ3lPdU5KYWhmdnFHYjZrZHZnOHBSRA?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "パナマでＭ７．７の地震",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01TDFYb1lkQmZ5cFNpcDVsMUVSMXdBbkdpT0JGRlhWaWdmc0hiXzFVdkk5Zk1RbnNWYWtDNE9WYzhRQUtaTW9mWkQ1dmZMa2FrZTdZWg?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "錦織圭さん、引退イベント満喫",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44YnF2UXBHc2twQmxDZFJDS3ZuYXE2emgyQzNfR2J0a2lpVVZvM1FfQUxSZ2F0ZFdSSTZwQ3VlMlk5QlJUanIzXzgwUnZndlJwRjBOUw?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市宇茂佐 住宅など５棟全焼",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBra0tobDJmZUhjS2tzNVdZbXB2SVpqN3hkY2RqeEpNNHpkTmVObm5ZTkNTLWdONExHUEMwN0QtRGNreERBWU5IVmh6OThmSTlMMlBXa1VJdm5Ydw?oc=5",
+      "date": "2026-06-24",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "プロ野球ＣＳ・西武０―１日本ハム",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sb1JYZE5PS2JlMmdNcTNmWWo5MWJLeU5OZUlXaEVtYW1Pb0pUbk5GekNZQ0NLdmpxSC1vYmxzMDhpV01qSzRxZDVTTzlUVGNvQWFvRQ?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "新井道大は２大会連続銀",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wRkJfY0UyMFhQUWVaQUtLbmRucE1kVWhjdXFBVWtheTQ3WXBTSzVXay1tbGRXOTRhM2xyek8td0RmSlZJSFJ6cWFiRzh3SnRRNC04dg?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "素根輝、１回戦敗退 世界柔道",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSazNFQW96bVljb1Vud0tYakFOX25JLW1zeXVsRWVwS0doeUVnQmdFV3BpWTVOMERiNzRXRUIyal8wRG51U2VWbjlvTC10NlRJV2NNZw?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市で米兵が拳銃持ち死亡／玉城知事「あってはならない」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjVkJPTVp6anFxYWthbmZwVEJHN2NPclB3cUxhT2xBOWtxc1lnT3lReWNod3Q1VEN1WXZacmpIVERlS242TWlsc3dCUjRCLVlqUzhVR2NPeWFYZw?oc=5",
+      "date": "2026-08-23",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "プロ野球ＣＳ・巨人１―２ＤｅＮＡ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nTTdpalNVeTNYMzlhNkp4U3Z2SEEybUlINmpkMkJPSEZlWXJXU0UtWFFYdXFWUkxLRlVvbk4yUUQxM1ZoVmhLSVgyelFIalZua2lqSQ?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "Ｗソックス、地区Ｓ敗退 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HMVdBZ2hDRWMxcTc3MW9pNUR6eWtlb0lwUmVPcmNoNnFBaHdBOTRobHR5X2VvSGc4SUh3RVVvYW1DUHdXTmlEcnAxajdCajFXQzhOdg?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ホテルシェフの屋台村やライブに雑貨市も ホテルゆがふいんフェスタ 沖縄・名護市で8月30日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aLU40R0hfUG11bnRVTWE2Q21pZVAwbV9uQ3kwQklHYmpGYXpiNVg3aFN1TVNVbjJGeU5CSzdkLWkxVWVlZ05ibUFzR2wtY0NMSWZ3RllpcDd2R25DbWc?oc=5",
+      "date": "2026-08-29",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市が「運動ポイント」実証実験 20代からの運動習慣向上へ (みんなの経済新聞ネットワーク)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGhGN1BZZUtyX3VJUDFvZEtscWhOMDY0dEgyQ1BRdGlYOFgyQnpsTXYtUnVQNVVHZ2pYOER0ZVZRbEZhZmZNMUFhb2RRa0o1Y2xZZmI1SXZzZU9BNG1TdDB2Y1hvdUhwQl81M085cm5UNG96MUluX3hTZTR3VHExLUFwaEc2QU56Vk9Rc3F3?oc=5",
+      "date": "2026-10-02",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "【名護市内小学校×FMやんばる企画】安和小で「フクギ」染め体験 学校と地域・保護者のつながり深める",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05VFdpb2hHanpwLU9pUUVnOXFVeEpNM0EwQnJsLTZRTkZQY21INFRtdmJacDB5TncwNHBkTG9SSkU1WXdrc0hUZ2p6dVpWQQ?oc=5",
+      "date": "2026-10-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護で「ともだち祭り」 名護市の友好・姉妹都市6都市の食や文化を伝える (みんなの経済新聞ネットワーク)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1ZoTzNiSW1iQkJBTFY2RndSOG1oYk5Xdllya3RPbUxwZ04tRkFqRS1Mc1RqUGRVMXNRNGllMFJoRkVqUnZjZEIxSDAtRjhRNk5qaVluUk9qXzBMNkNKa2djazA2Rm9WMlhhNjJpZHpTc3pfRXh4RDVZdE1CV3hiWnpuNWhlUmdCUGU1WHFn?oc=5",
+      "date": "2026-10-01",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "岩井明愛が首位浮上 女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvVGhMSzdJaGVOX3d3YjRjZlJNUWx1dmcta1ExYzZQMXBEYm9CQXJnVzJWVkJlSzBTaHdKbVFRaDZ5bE4tRk5ORmphbGctOGVCalpGQw?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "ＤｅＮＡと西武が先勝 プロ野球ＣＳ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81eU9hcUdsMjdyd24zTm1IbDQyek9qOHlGQUVJNWZZZTB0dlZhRWcyZGJEUWZneDIzQUpVLVVFLTVnWmpDbEEwVU1qdkJLQ2lBbDhMMw?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "後藤啓介は決勝点 サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RZ2piV2xGek1Ya05XcXNreVVmcmYwN3B3V0oxNmdVNWV4VHIxYy02QlRHWU4wZTFGMVJHQ2tSbVBzWWEyT0JBV1h3RE5LNHJiRkhLQw?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市消防本部が民間救急と連携 転院搬送への実証事業へ（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNHpVWUZ4VzRKOFZBclhscEdJQks2cHBMamVQa1ZQUzlsenBZWDRiMnRjajBuT25hQmpIWmZURXV0WFlnMXRiLXRtZTYyVUI4cTg5T1cxRjlqZ09fSmN6RmV5OWRoWGczSnRLWndOX0FjdzFVdjV3bHRZbUhWMGs?oc=5",
+      "date": "2026-09-25",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "清水商高の元監督、大滝雅良さんの通夜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvamZEN0ttQXlNVlhndWg1dGswWG1GRzFOOEZXTFV4cko2VkV3MUZmUGRXS0hJRjhJbXc1NjZnSUhLQU9CWkY1LWktRUJXVWJOZ3NDSg?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "米、ＩＣＣ本体を制裁対象に指定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kdnBtS0RaT2FpcC01UFpjTXh5M3liVWVjSDcyci0zckJWSkh3cW9oVUEzZHYza0gydGYyNjVUaXpOaFlhNU5YNDVSMmZxSGt1dmVnUg?oc=5",
+      "date": "2026-10-10",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄・名護に電動モビリティ100台！Lime×5者協定で「二次交通の壁」打破＆Uber連携も（中山智） - エキスパート",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUJzbzg1OTFlUHZKSmsyQTY3dkttTjd2NHBOUE9rZVVxaVFyV1ptYUp6N2V6YXdJV29zd0lMdktQQmN1QUhUNGF0ZXM2TXQxZ1lfc3F5aEtibnF2V3g3RkIzUkpJS0IxVzJDU2hCbEhZMk5TaUhvVzNqZFhqZ09ZZzVqZmF0RWhv?oc=5",
+      "date": "2026-10-06",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "相馬新監督「少しでも上を」 Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUc2dKT2dyeEUySWtVSXBBZHhrVVdacndUc1dXRFBLc2VRTHJkd1NXY2MtUHEzSFF1NmI3ZG9jeEE3VEhSQTVYcmEyZGNQV29fME5NVQ?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "岩井明愛、日本ツアー７勝目",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82bExvc3poZnh1WTE3RVk0RGY3ZDZOWFZ6cmdRTDktbFZoTGhfekVDLUIyd2FNSkZpUkp5bkM3aW9WdGV2bmxzWHp4UDNRdjFKal93ZA?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "茂木氏、懸念を伝達",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wMlpINEdYN3dyNzJYQ21PTEJJSVMzOXVueWtpRzFsaU9YTDN3bDhqV3ZNRm96SHowV3RBM2NHbUR2TWpMSElmNC1VeTFTQnhXTmt4Vw?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "名護市でファミマフードドライブスタート！～地域に密着したサステナビリティの取り組み～",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbU5hU3JSS2VYR2p0UmlSc0VJZ29mNjF4UldwaGtWaFhkOXpVRTlKbEktdTBoNnlyZENOWFhPdTRKVFp0VG5rbkRoMUdIWURneFpqNHVZWQ?oc=5",
+      "date": "2026-10-02",
+      "publisher": "沖縄ファミリーマート",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県名護市の体験型イベント「TSUNAGU CITY in NAGO」、第5回開催となる2027年に大幅リニューアル",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jczA3Rk5JQkVjSllPTWFPcVBkb2hTMS1JXzduRlhPckVOWnQyeC0wTV9lOFVKalZGWVJVNmoyZTdXeC16NmVoVkRFZ1FDOElveGVRWjlLc2E0cmh1SkhGLTk1THZiTEQ5Vnc?oc=5",
+      "date": "2026-07-10",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "０―０で分ける Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nWjhqM3d0ZFd3V2Zsa0I2cUhENlhrUkhUR0V1emVodnpUTDg5TXlSVHFUWnBBZnBaYTZZN1dtdjJSRExYbzV3NFJVaVVISks4WFlRag?oc=5",
+      "date": "2026-10-11",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "Ｗソックス敗れ２勝２敗",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUHptQ0pwM1pDb3FNQWNGN0d4SGRWQWwyME01UFVQeE00OThrQzNvRm5veUVSM214dlZ4OUNJT0xmM2J2ZEJSc3YtbW5VZ0htV0hYTw?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄県で最大震度2の地震 沖縄県・名護市、本部町、恩納村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFWDVXN3pLSS16V0x6SEwtLWlZTWNTV3J2aHFaTmd3QkpJV1llR0FOWnhhMEN0ZTJuSjkwNHZPOU41b0NrRDJkVE1VNG5LQ0FUQkZvQWJkSQ?oc=5",
+      "date": "2026-08-25",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "鎌田大地、プレミア初ゴール サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84VExQdmtZWHQxeVFKLWFtS1E5a2NEdWtROUkwQnFQYzhTYmljdF8yNXFSTDVFazJCR2F1WExsX0QxRFBFbDVfVERxczhsMW9QbWg1VQ?oc=5",
+      "date": "2026-10-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "閣議後記者会見する簗農水相",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9abU1lQVZ3Zm1KS0ZpREktUzFlMDVGM2tJb29tU05mcmRhVTVjMkFTS2xJT3BEUTMyQTNVazBSVFFpemFZeWZITDdmdW9zUzFFUlp3Tw?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "米政策に「変更なし」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ueTZ3NnFKOXlqTDN0VXVpSlBaNGg2ZmJLLWEzcVM2T1dsN2FHbDRwTlpzc3hiX2g4bHNQc1FDLUFqd2dPRVEwLU9wSVNCclZqNE1hUQ?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "消費減税、地方減収に対応",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0ckoxWDg1aU9kZTRWclVSejZEWmg0UkdiYkVVSDVLdUZrcXVybGxoRnRERFhacnpQVkp3NkJFMUFsOUxIVlIxRzZwaHYtYjI5MWkxdQ?oc=5",
+      "date": "2026-10-09",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-13"
+    },
+    {
+      "title": "沖縄 名護 砂糖を加えないパイナップルジュース製造",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJMkwtZWFwU3FoZG1rTm9TSDJNUXM5N2hMQ2VObWRodHowM1RhdV9PenQ1eklMVWlTb05MZGNCcWZMUnZuZUZMNEhJV1JKLVZZeU5vRlhuM3E3SmtLTkw0?oc=5",
+      "date": "2026-10-08",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-10-13"
+    }
+  ]
+}
