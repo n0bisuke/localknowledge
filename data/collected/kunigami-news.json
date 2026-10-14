@@ -9,8 +9,64 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-13T02:43:33.461Z",
+  "lastFetchedAt": "2026-10-14T00:38:20.621Z",
   "items": [
+    {
+      "title": "2026年名護・国頭秋季キャンプ日程のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WNlc0dzlMeXBmMWpuakxUZ2E2YlFlaG5ZdnYyTVFIbGtqVmZFbmtXU2QzTkFkMTFlaENOVVZLWHROWXh1ak5xSnhZMEVRWER4U2ZUeHJ0WWRrV3IyLVRqRElzVkNONEE?oc=5",
+      "date": "2026-10-13",
+      "publisher": "北海道日本ハムファイターズ",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "日本ハム、名護・国頭の秋季キャンプ日程を発表（ベースボールキング）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZSU5yaWhrTjVoSnVtZkVvdVZROHAwb2g2OFYtUUxFcDc1MEVmbENhNzNfZWFYR3YybnM4QjZoTHZDcDlYZTE5dzdnSGZGV2tVdy1sUEF4U0pYakN0bEYxdFprSm9IVUh0Q1pFelJFQ3JKaDQwX2RaRzJRTEFDaDQ?oc=5",
+      "date": "2026-10-13",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "秋季キャンプ日程発表 沖縄・名護、国頭で１０月３０日から",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WeG9aaHloemYyRzc3em12OGQwY0VuSXc3RDBMOUlKalJTM2Mza29pNFUyQVBkTWhXdV9NaDNMSXZlQWlPeVBfMlBQcV9XRE40czQ0aC1SbUU4R1U5ZHdTMXl3?oc=5",
+      "date": "2026-10-13",
+      "publisher": "道新スポーツ",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "日本ハム、10月30日から沖縄・名護＆国頭で秋季キャンプ実施：中日スポーツ・東京中日スポーツ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jeG05MnU0eVZtbEdtb3YtdUVEa0RxQ05hczZsOG5XUTZkVHhGenctNzQzcFprZUFsdVFiQjB0YXB6UUNKMEl1dVhRWDYwYTdtQXk2UA?oc=5",
+      "date": "2026-10-13",
+      "publisher": "中日新聞Web",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "日本ハム、10月30日から沖縄・名護＆国頭で秋季キャンプ実施（中日スポーツ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTEJCT0cyS1d1a3QxUXlBR3lyQ08xWktQcDdoR3NwdVNpNDZyd2s0RHZyWE85aXJzNW5MSzNleGZwS3JYQlNsODBOamRQRzlYU3I1b3lzZWFTNlZ2UndMaXhRYzNyV05mNndKMjVCWGo0TUVDOWhNOWJrajY5RDA?oc=5",
+      "date": "2026-10-13",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "沖縄本島北部地域の陸上競技大会 約300人が出場 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EWEYwS0d3UWhYV1F0TnY3RWhra0hvUnkzaE93b0hyTXN1cVRzcFdETWZqNV9uMFdOYWo0VE5iUEdTNEF2VHBNc19WanRrSWhnbHlTRUI1aDQ2UVlVRmlN?oc=5",
+      "date": "2026-10-13",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "日本ハム、名護・国頭の秋季キャンプ日程を発表",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDX0l1ejFfeW5XbzlYQ0ZwNGlGZ28xaXZubGxuMlU4akVNbDhyMFM1bWRCR3NnNnVJU01aUkdqVlpCdGVOM05MUWNR?oc=5",
+      "date": "2026-10-13",
+      "publisher": "BASEBALL KING",
+      "firstSeen": "2026-10-14"
+    },
+    {
+      "title": "日本ハム、名護・国頭の秋季キャンプ日程を発表",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vYXhST2ZObXI1aGE1cHFISHc0UU1mUi1HZlRHdWdTVkNPMEJXT0VVdW1UWm4ybVRFcTNsdndTWmRObGFwOFNSd0R4TjF1NzhTbEJYbVl4VjFMZG8tVDZN?oc=5",
+      "date": "2026-10-13",
+      "publisher": "千葉テレビ放送株式会社",
+      "firstSeen": "2026-10-14"
+    },
     {
       "title": "沖縄県国頭村宇嘉のことば 迎えのあいさつ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5udDNoc0hJZEM4TEpmbEw2SWo5VWpkSjI1c015QUhCRE1HbWlxWWd4aTk0czladGRQLWZtTi1yaHhaLUlZYUFuTjVnUDZqejBEM2xFZnF4N3NDWXVhWnc0SDlWYzdlTDVyLUFSaA?oc=5",
