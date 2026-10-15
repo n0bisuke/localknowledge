@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-10-14T00:38:20.621Z",
+  "lastFetchedAt": "2026-10-15T00:08:05.070Z",
   "items": [
+    {
+      "title": "水道水の濁りについてのお詫びとお知らせ",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_kensetu/%e6%b0%b4%e9%81%93%e6%b0%b4%e3%81%ae%e6%bf%81%e3%82%8a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e3%81%8a%e8%a9%ab%e3%81%b3%e3%81%a8%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+      "date": "2026-10-14",
+      "firstSeen": "2026-10-15"
+    },
     {
       "title": "「やんばる３村ルールブック」について",
       "url": "https://www.vill.kunigami.okinawa.jp/sekaisizenisan/%e3%80%8c%e3%82%84%e3%82%93%e3%81%b0%e3%82%8b%ef%bc%93%e6%9d%91%e3%83%ab%e3%83%bc%e3%83%ab%e3%83%96%e3%83%83%e3%82%af%e3%80%8d%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
