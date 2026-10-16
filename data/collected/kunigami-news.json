@@ -9,8 +9,57 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-15T23:53:34.209Z",
+  "lastFetchedAt": "2026-10-16T23:55:29.163Z",
   "items": [
+    {
+      "title": "野菜と濃厚チーズがベストマッチなピザセット クリスピー食感がアクセントに 国頭村・喫茶あがち森（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoREY3azlhMTlLVWVfdmhqX0N4Q25JODljdkQ4dFlMVVcwSGwtR2xTNEVBMFhldWdJTXdxNkVCbGMzYTBYdEg4VGMzNlBmcjRjT1dNemxqUUFJYnJtUTBRdjNCOG5USFRNc29ISGw3SUtNLWF3YWFsdWxQcUYzN2M?oc=5",
+      "date": "2026-10-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "国頭村にルナアーラ、東村はニョロトノ、大宜味村と北大東村には？ 県内4村に新たに「ポケふた」 県庁でお披露目式",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ka3k5SXRVTUZNWFY5VTBpRGpNSmZqT3ZXemtRcTJFd1dfOXFFaFFkdUhUckF1VWhmazFZaExWNTFUaVhkY0ZkU2p2b1M4WlNNeGx3QlZSQzY2dk5nZFE?oc=5",
+      "date": "2026-10-16",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "国頭宇嘉区 空き家改修 住民自ら整備 移住者呼び込む 計5軒 賃料一部は区財源に 区長「子ども増えて活気」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TaHpPdzJXUUgyWkJWY1RkcS02WXlWSHhteFk4X3AtbDZFVE9PQV9obU5QSWxDVFZJNHFCV21GdWh4UFN4bENTMldfNWNuODRmY285TXAwLXkwU3VXNEE?oc=5",
+      "date": "2026-10-17",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "国頭 また給食停止 小中全6校 水道水に濁り",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DbnhBZDB0MDMwNXVtT1p2U2xaRmVsMWRBZFJqODNxZzdvSEI2Y3g5UWp4UXpnQWtzQ3ZsN3Ywa2NoeGVtWDAzVmhJaUM0OTk2R0hDOE9hX3hDRnczTXc?oc=5",
+      "date": "2026-10-17",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "野菜と濃厚チーズがベストマッチなピザセット クリスピー食感がアクセントに 国頭村・喫茶あがち森",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGtxN0JhZEtjODhJSElBNmJTM1owc3FubURXRUhNWWVhM1VzUDNJSVdpalUzamQzNWFQQnFseEVQRm80RnRiZUZXVWlqWlB5RzVFZmZBYnRlNFlEeGFpWmNfZDNwcjFDT2x0X1ZESi0tZVVkYU1RaUJOVlhTZnZjOGMtekt0SUc10gGIAUFVX3lxTFBEa3E3QmFkS2M4OElISUE2YlMzWjBzcW5tRFdFSE1ZZWEzVXNQM0lJV2lqVTNqZDM1YVBCcWx4RVBGbzRGdGJlRldVaWpaUHlHNUVmZkFidGU0WUR4YWlaY19kM3ByMUNPbHRfVkRKLS1lVWRhTVFpQk5WWFNmdmM4Yy16S3RJRzU?oc=5",
+      "date": "2026-10-16",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "沖縄県国頭村安波のことば 昔と今の暮らし",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UTNnOGVVR3B3ZW43UzVUWi1MY0REWG56UWMtWnlTb0hjU2EwV2pCaG1qSUMtQzdsanJwLXJBNmx2MUZaaDZfbjZDZHJGMndac2J2aVlRZ2FPbDlyZGlmX0dodVJkZUtYcU9jQQ?oc=5",
+      "date": "2026-09-18",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "EF Polymer、国頭村の赤土等流出防止対策の効果検証事業に参画へ",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41aHZ3QnJoVzdOeEhBcmhUR3pVZHpqdkdDRDljclNqemJ4cTZkQ1FIWXRSMl9lRDhZWTFRUGlvc2ozWVBrbEE?oc=5",
+      "date": "2026-09-23",
+      "publisher": "Dellows News",
+      "firstSeen": "2026-10-17"
+    },
     {
       "title": "［胃心地いいね］（900） クリスピー食感のピザ人気 喫茶あがち森 国頭村奥間2040の6 電話0980（41）2858",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhTzlZUEJTb2lIM3dPS19EN21SMDQyVmFVRUJraTdLVDZZZ3FEdXdRTEMwSkQyZm9uNzVtN2FoTi1GVzBvc1dqTTVsdnhzWmtHMkQzOHRPU1g0Xy0wY0E?oc=5",

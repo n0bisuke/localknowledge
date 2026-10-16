@@ -9,8 +9,246 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-15T23:53:34.209Z",
+  "lastFetchedAt": "2026-10-16T23:55:29.163Z",
   "items": [
+    {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dFVDcnFUQ2tHeU5XMFhHUGhNZk5mRURyc1BwaWhQQ1JncFoyV1hTTDlna3ltSndMM1djMHNJV1JSZ2lGNkluMzhjLXE4RFJqbE9RWFVPc3FUUC02Z3NJTXBKQndOS1BkYkV3OXVrbHpKdC10ZmZvdW52LW1oVkk?oc=5",
+      "date": "2026-10-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "真喜屋小で手作りおもちゃ授業 2年生が1年生と地元園児相手に遊び方説明も",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocEpqMEFWWnlmNnB6WEZNR3NXcnBYLS1zb0JVOVdwdGRudzVXLTRnZVNrUjNHNGlRcHI3RG8waFN4dDFrSU8wSXBUaVBaSFFRaXc?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "透析中でも沖縄旅行を——スーパーホテル沖縄・名護、「旅行透析プラン」開始 宿泊・医療・無料送迎をセットで提供",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54TVRXVVFkblBSVDl2aHhDWm1WUTRvZGNOVmFHc3Q1Smt4NDlZaUQtbzgxaHV5MGYyV0tjTFl6N3UxZ1R2U2FQTmNabEhSR3R0RUVHYQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "観光経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "真喜屋小で行われた「おもちゃランド」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JWFFZc21PRzJ1VXBsNnVsOFdmbDIyTHFncDc5ei0yUHpTRXVmaTVZMHh3T205VGdhRl8zckVQMEVKS3F1ZENnX0RxbFFTRVFoREtpX0xB?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRnY0MWdFMHA0Mmt2SGlZUjVNSnpSaWdCRWpsbDJUUldIOVRRZ09kaDhMdkN3RTNWR3dsRGM1blR3VWZKendaTkZyNWt4X1phVHRITmZqVVhKZlE3QUxWUQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "車が街路樹に衝突し炎上、亡くなったのは名護の女子大学生 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SSFgzeVEwOVU4Mm9maElLSk83ZXFDX2Z6aWc4NVRKeHB5WXZzUnp0R01uc3dmNTQwNy10MW5DRlZWUUxsR0JZTW5wbw?oc=5",
+      "date": "2026-10-16",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "沖縄県名護市辺野古沖での転覆事故の現場を望む浜に供えられた花＝16日午前 - 辺野古沖事故の遺族と17日面会 沖縄知事、事故後7カ月 - 写真・画像(1/1)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xN1RIOUhhZG55dTluQjR6SFpSSm5aeEcwQWd1WDhTcFBUcEt4NGxueklfUzVQRDhYb0NGT0JIWHR2NnZ4amNCV3ZvUU5kaTRmbzd1SUhiaw?oc=5",
+      "date": "2026-10-16",
+      "publisher": "西日本新聞me",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "辺野古沖事故の遺族と１７日面会",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aLUw3OUtpeWxYRHI4OTRBaUJIQ2tJa3FVSXl1NkVMdkNUTUNhcDd6VERYUS1VcnVZX2pJVEFyR3RQb1hLV1ZpMHZLaHEtVzh3NGt0VmNsYw?oc=5",
+      "date": "2026-10-16",
+      "publisher": "埼玉新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "辺野古沖事故の遺族と１７日面会",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ReUc3a3hhTzJ1YXRfS0MzMEFjakFfcVgwM00wTVhUbEhHcXYyMV83YUVrSkJUQnROYmdUZHFLbmxTMWlQUnAxb3pTUzJISGZ6WlpyUklrcUN3cDB4eHJXWW5iVVQtSjQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "カナロコ",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "ソフトバンク、日本シリーズへ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDRkdvNEpvVEpnZWtkQ1UxRjJPaDRUamdkbnRQRGRFTkZESHVOQ2lQdXEzMFphS1l5UGhCM2tsN1RQbjFUV0FrODgyekR3ejV6dFkzTw?oc=5",
+      "date": "2026-10-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "細野勇策が暫定首位 男子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10bl9Wd2pDdEh5VmRsU1ZlYXRCSjZZMmtiMFQ0Y1p6c0s1TFJpcEdnTHRJZ2xUaGc2eW1vV1plSnl1SzBuRVZvRzg5Y1gzbjhIaWFhNA?oc=5",
+      "date": "2026-10-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "誤発表を謝罪する地震火山部長ら",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hREY2bVN4bFF1N3Q1NVg3c3ROcWZFY3FjRzhkYVExb1R3ODV4VEtwaDctOGZadEY1QWwtTU53Q0lzaGU5SEttQWppSnpmWTBIeklGUg?oc=5",
+      "date": "2026-10-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "大阪城天守閣を重要文化財に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNjE0ejNBdjF4ai1zV0RNV19xTmVER2tCQUZhd3ZTUnhxNGU1RmpqdnFlU3lETXFkSjRqdEdYODFfYmNEUFpUSWpOY0Z4MHp3Rmo1bA?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "１次リーグでプレーする和田なつき",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oNzZCLXcxVjZGRXJwWFVZOTgyUl9kLV9VZjMzNnhrN0dmV0xEMkZPZmhTTUxKc2Rkb2lJU0lNN3ZkZ1UzWHo2NlF3RTVjc1R6NFN3Ug?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "杜氏農口さん、人間国宝に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BaDAwVEN6U3FkSkkwOUhsTGRWbmxFdlhuNnVKaExpbTVyb2Nndm5WZEZLeGppWnFNRGQyWjdZRkZsbThIcFh6b1VmUUV6Z0ZIYXJCYQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "車いすバスケ男子、初戦快勝",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWVVyU0VtX0QtZzdlVmxuOFE1aXVsOW9nUFlubXBUSjlLZmEyR2MwaUkwWm5GaWxWYjI2cEJIUWNGZUVvNmJlSEZfenNJbzdDdGhZZA?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "ＡｉｒｂｎｂのＣＭに竹内涼真さん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHY0o0M0R3NXJTZV91Z3dHV3F2ZVRzcVRwUVh1LWp4Tm0wTW5qSDdfRXZqTUpONnR5akdfNWxESlpXalRBQVNEdGFGUE9ndkp6d0xuYg?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "罰則付きのカスハラ条例成立",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85LV9LQm1JS3A4RTVLbjVVNWtTRDdkblJac1RnMlFTS2pxX0JJbkJ5Rk55dWE0REgyWGM2X3NoOURiTGd1WFhRMzI0TVkxLW9YNzFubQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "小学校で銃撃、子供ら４人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nMVh3MnhWZEZxRGJwYkhGU1k0UGtrbXowaHQ3WFo0dWY4T3lnZk90T0o3dWVrMEYySkswd0huS0pQcWx2alpNZ3R1QVVHbGNaV3pMWQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "ドジャース、４連敗で敗退 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lR2swR0ZDc29JbzAwa01qQ05GV2JpM2lOdnhFeUxmT0UwSkxPOGFTTkVMNlJHYWpzbzEwdXJ2NUIwbFprQXYyWk1mV0hSeHpfRUluNA?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "横須賀基地に入港する米海軍空母",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NTm5wMmgxNmxyQkRJQllzLVRzOHB2Z3BwTDE5ME9fd3ZYTmdPdGRsU3dOQkRwZldzSE5POWMwZmtCOGZ2N3ZjMWhlaEhRR1lwb3NzSQ?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "在留外国人、過去最多４２８万人",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzdUFwaWMyc0ZybFc5TnFUUnc2Q3JEM0xNQkJrUE9MVlJrQXdNZ2U1X05EWS15ckg2QzhCYV9Vdjd3M3JQeVJHdDR2Xy1RX2JiU0d6Yw?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "辺野古転覆事故、武石さんの遺族と古謝玄太知事が面談 17日、事故後初めて 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXNaNUk2RmZreEt6NUxUTk5lRmhaMHFGYXlmX1F1dXg2R2hQb2k3NG1OR04wV2p2QnItNV95QjUwTk16N3pubUJKam5jRUNrVE9qcmJ5UmFTVEk?oc=5",
+      "date": "2026-10-16",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "南野、１０カ月ぶり出場 サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ScnBsejNyUlFCRWkxT3RyRWdWVWQ5TDFPa0ZRWDRnaHFhNTc2VEtOWXcxWFRtd09uMUFCQXdUcjFhTkVlb0dUaU0zWG1EWm15d0dGUA?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "農水相に武部新氏",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04cmxqVWJiM0ljcFpxTElPNkRvUWswX09RZzZqNk5OWXVlTWp1bU5iU1htR0Z1cnVDMFotOTFmQS03UVVETE1KZlFyanV0bm1vdXZEdg?oc=5",
+      "date": "2026-10-15",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "希少な車やバイクが結集 名護でモーターフェス 特支学校50周年支援",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KNklqSEwtOW14a1pJQXJCYWhjWE5IdU5rODhTcHlGLUtvSFplOXd1LU4xZnFGLWgtQ0tRSmdaNlMxR2d6VjVPVk5EN0JxUGd3YlA4eXdNYUVGWjZ6NEE?oc=5",
+      "date": "2026-10-16",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "小野伸二さんがサッカーボール贈呈",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlU196dmFRUDhOVGpEclBkNWdRMGNQV21NYlhCdnh1clpJVlcxdGI4STlZM1Z3WHMwcjBpWTdfVWptakcyallBa1oxU09wNUk0R1lnQg?oc=5",
+      "date": "2026-10-15",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "ロシア製油所攻撃「再開」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOSmdMNWRHcVY0NUxfRjZ5bXAxbXhMcGdnWWxJOU5ldnNuWV9Xd2NVVWdQcjZIMmJEdXkwamFkd0cxdUNXUEp4RGJsdjJkdV9wemZkWA?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "武部農水相が就任",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84NVUyRUdKZ2Q2RmhScjJzSXN5S3JlWjhUakFXRGJxRU5NTVhlcENpai16ZE0yLXc3SDN0NWtTMzc1YU55VW0ySGN3eW1NZFptZC1meA?oc=5",
+      "date": "2026-10-15",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "工藤新監督「一番は優勝」 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kRlFmNzVrNUtyNEJYYzVCQzZkcTM5Z1Rab1BwQ2puU1VxbUtZclRiRE1hbkVjTDFLLTU0b2xVU1RYYk8xODQ0WG5PMkJwSzZuaGM3ag?oc=5",
+      "date": "2026-10-15",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "日韓、通貨スワップ延長で合意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYSVZtd29QY3NXMHFpWmFVODNkOVlYM3ZzNXI3Z3d5RW9MS2RSTGpPUmJkclY3Umd1T0RwR3kwdk0wRjA0NUozSVM0Nkc0MkxLbUdoRg?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "米大統領報道官に経歴詐称疑惑",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HM1h3Zkt5WVVfY2xuQS1Ec1kyM1B5VnRZZURaN2V2R2VmQ3F6X1BNaGdtMEd0S2x0bWRiS0hoTmFXWkhxOXJPREJfOFQ2TGQ0MmtOag?oc=5",
+      "date": "2026-10-16",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "コロンビア、エルサレムに大使館移転",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pQUdHa2xSblluc3hWbGlKMnhxcVp0UFp5VWxWTUZCNkZGN09wdUNHa0ZWazRSeHF5d09qRXF1bTFmMnpNZ2FfVmdpWlZXWlBhQUpJLQ?oc=5",
+      "date": "2026-10-15",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "title": "田んぼで出穂 白く可憐なイネの花咲く 沖縄・名護市の通称「ファーラブク」（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OOFZOY0UtU3oxVXFyRWVOTnpMLWt0Mm55d1d5U3J3UGxzRG5kVHhBSDRnVzVQVEcwYXNpbHFfU3pkSllDUVFncFg5MURlZGNZNUtEUjRxNGFCT2ZtWmVncGFkTUU4aDQxU2hETWFwVU52QktMckhDWURHNHpuS0U?oc=5",
+      "date": "2026-10-05",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-17"
+    },
     {
       "title": "国頭サバクイなど披露 県文化協、名護で首里城記念",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXR25ITVNoeVJkbjEzTHZmem1CWkZWYUh2djAzdzlVTW9wVVNuYVc5ZTNVNFhodndnWndrMWdER2w4ZTU5TVR4ZkRBNmZ3ZVd5TmFoaTE4ME8zVk5mb0E?oc=5",
