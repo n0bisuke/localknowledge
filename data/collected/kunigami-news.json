@@ -9,8 +9,71 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-16T23:55:29.163Z",
+  "lastFetchedAt": "2026-10-17T23:28:17.000Z",
   "items": [
+    {
+      "title": "沖縄・国頭村でまた給食取りやめ 水道水の濁りで 小中学校6校、10月19日も非常食の予定（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ENGFBWWR3LVpDMWZGZjcxVG9ubHRsUTJZRjVTWmJGeklLc0lFdmVrNGFKOV9kQ1NUOWpCN0ItXzJsMHR5bDJmQ3lwVzFReXNQNnFTZ0ZFZVZkcG5KVEVRTWNRa1lfWmY5SWFZMHRYOFJVeGRBOUVhWmdwVnVFa3c?oc=5",
+      "date": "2026-10-17",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "国頭給食 非常食で対応 ２度目、水道水濁り",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTWN0QW5URVZoM0VJOW42VnVObDRnWVdUMVJ3VnRZekpWRDZtX2xSRDVRaTZqaE1TYkJPZ25sN0FNR05pdHRHRHItSjNKYTNTc05EcmFGV19wUjlkRFN2TA?oc=5",
+      "date": "2026-10-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "沖縄・国頭村でまた給食取りやめ 水道水の濁りで 小中学校6校、10月19日も非常食の予定",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LSVRHcU9oOUswTlRrR0VoTWp0N1JKOFlLaktXcUN1cHJnNjhoY1JsbGQyOU9SLU56ZGpseU9BN0tqMDhLWFdoVV9pUQ?oc=5",
+      "date": "2026-10-17",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "沖縄・国頭村でまた給食取りやめ 水道水の濁りで 小中学校6校、10月19日も非常食の予定",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyYzVJaEFYU3VPSmQxdjVTRzNLNEh0bnN1c1ByZFpHSWJGZ2d0emI5aTlJdklOS2lKQ2d4cl9rTU5ia1Nkb05NR3Q4Z05ZMVRTczdWeEN4Vm9JOGwyZWQzbllMOEZETm5KUXo2ckR3?oc=5",
+      "date": "2026-10-17",
+      "publisher": "au Webポータル",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "「ポケふた」国頭、東、大宜味、北大東に寄贈 名所・名産とポケモン人気キャラ描く【アップ写真・動画あり】（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmSmptT0dVcl9SZHBOeHctTXJKUGZVSW9QaGI1X21CM3hsUm92Mk5iQ0Y0bHBUQXFCTGJFMXNsOWJSZVRfeUhHZ2tzNEpwbW1vcG1FNkpWZTVhNVgwZEpJaE5mUVN3Mk8xUG10TTIxMEk2aS1OZ0psb25qX0lQV3c?oc=5",
+      "date": "2026-10-17",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "沖縄・国頭村でまた給食取りやめ 水道水の濁りで 小中学校6校、10月19日も非常食の予定 (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2t0M2lOcHp6RGZEbXYwUWdOZHdtTGlkS0RrMmZ2UG5BajRxQUliV0NhYkN6dnFUREtGelFIaTQ1YjNmdWtrd2JHaW1IWl9URDdKX0I0ZlhzcUQ5SkFBcWRhRjhIOEV3TUFuTXc5RGVYOFNiV0puTWRiYWNOdktTRmRlZndxcWw1anFnT0RR?oc=5",
+      "date": "2026-10-17",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "野菜と濃厚チーズがベストマッチなピザセット クリスピー食感がアクセントに 国頭村・喫茶あがち森 (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3F1SUgzSU5yMjdFWG9CYXlPOXBMUDlpeGZQU21VbEgxa1ZMZDI4cHRWLWNLR3hLZ0ozNngwTlUyTUtUM08tRjNHeHZrbG9WdXItYTBVTElrSEdZNk5aYTV4ZE1yM3lyZnloMzRrbWhUOFZfNW5Mbnc3VjhOZnBBUW1yQTFsOVA0Vzc2M2ZB?oc=5",
+      "date": "2026-10-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "「ポケふた」国頭、東、大宜味、北大東に寄贈 名所・名産とポケモン人気キャラ描く【アップ写真・動画あり】",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXdDRMMWxoZFM4ekNoWEswNWFFRzZsSDFYenEtd0hjdTNwTGdaZW4zVk9uUDl4MnRLd1c3X3dMbXlGV2lOQnhPOTJYZmRxVnhzeDc5eUkxTTk0OWpZWDZydkNn?oc=5",
+      "date": "2026-10-17",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-18"
+    },
+    {
+      "title": "沖縄県国頭村との連携事業",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jb0dHTFU2VUNRQ09qUzY2MFVSRTlick8wX25XNm1wLWgwX0xyUGYtRG9MYTdyMzd1WUdVSkdIWUFha05KQnI1bExCMm5CejI4TWNuc0FaaXhuY3ptc0FIOWtpSnlSaWZzdXRYcXkwcFd2U1IzU1dr?oc=5",
+      "date": "2026-05-08",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-10-18"
+    },
     {
       "title": "野菜と濃厚チーズがベストマッチなピザセット クリスピー食感がアクセントに 国頭村・喫茶あがち森（沖縄タイムス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoREY3azlhMTlLVWVfdmhqX0N4Q25JODljdkQ4dFlMVVcwSGwtR2xTNEVBMFhldWdJTXdxNkVCbGMzYTBYdEg4VGMzNlBmcjRjT1dNemxqUUFJYnJtUTBRdjNCOG5USFRNc29ISGw3SUtNLWF3YWFsdWxQcUYzN2M?oc=5",
