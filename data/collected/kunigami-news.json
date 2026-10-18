@@ -9,8 +9,50 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-17T23:28:17.000Z",
+  "lastFetchedAt": "2026-10-18T23:41:23.070Z",
   "items": [
+    {
+      "title": "また給食が非常食対応 国頭村、水道の濁りで 9月に続き2度目 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56LWFKNlRPM0F4Wmc4SzJyR3VBMzJoLWNkM0NoR1laWUpRSjMtLWJNdW04S0lEV1NYMHdEMXNGWGx2RktBWXBTLXpkeGE2SGNrX19XYVBpWGJEd042b2ttbDRuUVotX1k1OWxQd3U0ZUVJZHVfU0JuUXVLbDNsX28?oc=5",
+      "date": "2026-10-18",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "また給食が非常食対応 国頭村、水道の濁りで 9月に続き2度目 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQVRpOU1FWjllaTB2S1A2WFFjc0c3VkNWVTdkU1E4UmExbkRtRXBkOHZWYnZyVWJOYWtGbFpEUlZKNzhPdHdHRUVVVQ?oc=5",
+      "date": "2026-10-18",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "また給食が非常食対応 国頭村、水道の濁りで 9月に続き2度目 沖縄 (琉球新報)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZENVUWswRVRPdjZ6LUF1MkxBSEV3ZjhZYW9FNFE4Uk8wbVZJd0JxZ0p6eGI4b096Y0hBVHRhQlBpNVdFWkhQSmNDdURteWFHdlpkcU5JRl8zQlFna2kxUTc2MldFLWJraGZSMjBkOUNiYkZlaFdLYXhEcnJTNzBJR0FMZDJId1JqenNhb0pB?oc=5",
+      "date": "2026-10-18",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "また給食が非常食対応 国頭村、水道の濁りで 9月に続き2度目 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM05aT0lGMHotTUdKSk1rX0RkR1RZd012M19FUEF0U3V3eXVuLTFSRzNWdE4wcGdkVmZWMmxsYVNxY0hoUU83c3p6VWxTQ1gyRjdjMWdaM05OdDJBT3czdVVtVVNxVHhUcUxGekhDVzYwUHAwN2dfQkRhd2pmU3A4OXBzcW1LUWk5SGt0MHlVNEZrU2PSAYYBQVVfeXFMTm0wVnBrTHdSRTFEbmh6dkZPQ1FZN0ZmOWNlLU54UmJEc0FXaHNkekIxVE0wZ0hQQ0NyT2hxSHcyYUVJY3VoZDBxczgzX2FtZlpYSTBLaE5nNVhuQTZEWlFkMEk0UDZFYkJfY0RqU1Nid0xib0JCbGVQamdxUzRkU1gtUU9CYWc?oc=5",
+      "date": "2026-10-18",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "沖縄県国頭村宇嘉のことば 夕のあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QeWo0OG4zUzZmXzZzLVJxOGt0TnU2bFEzc1ZOLUJHU3RtMk9DOUZCRDBzSFRndWlfd1ZKci1hWlpPbmxaZTBwVWpjZ1NueVlIS3M2VEszS0tNZUdEUlZ6bzdreU92Y2FzU0pfdg?oc=5",
+      "date": "2026-10-18",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "title": "沖縄県国頭村安波のことば 不祝儀のあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2QnlqdXZWV0ROamZ2SVNxWDRONm4xNlNLOWYwMjJzY2xrTW9pejJ0dWdpeHFxekpqaXVIejJ3amJ4dG0xYWpGQ0Q1d3QzSTRrQTZjYXJlMi13c21KaFJaaUJRanlCckdLSFBacQ?oc=5",
+      "date": "2026-09-16",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-19"
+    },
     {
       "title": "沖縄・国頭村でまた給食取りやめ 水道水の濁りで 小中学校6校、10月19日も非常食の予定（沖縄タイムス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ENGFBWWR3LVpDMWZGZjcxVG9ubHRsUTJZRjVTWmJGeklLc0lFdmVrNGFKOV9kQ1NUOWpCN0ItXzJsMHR5bDJmQ3lwVzFReXNQNnFTZ0ZFZVZkcG5KVEVRTWNRa1lfWmY5SWFZMHRYOFJVeGRBOUVhWmdwVnVFa3c?oc=5",
