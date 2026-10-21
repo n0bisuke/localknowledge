@@ -9,8 +9,50 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-20T00:42:07.485Z",
+  "lastFetchedAt": "2026-10-21T00:09:35.286Z",
   "items": [
+    {
+      "title": "鳥取・岩美町児童ら国頭村訪問 自然、文化互いに学ぶ交流事業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZ2Zsczh1TGFGUTRub0RKMGVjOFZTSjB2dW5DQjNBWklTYVJad3JfdXZQelB5NUZnSkF3NkRVTTFscEN0ekVlc2lVOFVzTmhKNkd4UjcxR2ZkbnJsaVE?oc=5",
+      "date": "2026-10-21",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "夢かなえ カフェオープン 「癒やしの場」目指す 平敷さん親子 国頭に",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5UlNPOXdiWTItaXJ0X2sxajM5bzVYR1g4bnpmaUxMOTlrVEx3WmhRb3Y4dVFzbE0xbWRYU1VTX2pwdGUyU2xmeFVoQzFvUmhfc0NoRHJkVTdfNUhMa1E?oc=5",
+      "date": "2026-10-21",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "リニューアルした「やんばる森のおもちゃ美術館」に行ってきた",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jYmFuTk54VkgwaHY1Tl84eXdzVUoybmlvdWRtV2JxT0JFdWxMenhzd211c3ZHLWFETFhtc1FXOFBjYW5FNTAyaGJwZkkyZkRleXpFeUJQcWtIT29QaXh4Q2E1TjNHQlk5RExEbVhn?oc=5",
+      "date": "2026-10-20",
+      "publisher": "DEE okinawa",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "日本ハム、名護・国頭の秋季キャンプ日程を発表",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VYzVPNFluYXlhNEZnY0ZBb3FWbGNleTBycWtyTEVCQ2IxdU5ONHQ0V0Z6ZFJ4QWNMNjM3ZW9nXzVWaWV1Qy04a05sZnM3RzkwNklCSC1lbVBpSWPSAVZBVV95cUxQMlhXc215SE1oMkhxVFhvLWtEUjdnSlRXT3EyVk1oV00zYlFPNVlNR2lLUkJhc00zNVVHc3RxOWtYVzk2c0xWR1VYLVNNZ3VRb1RYa2ZHZw?oc=5",
+      "date": "2026-10-13",
+      "publisher": "パ・リーグ.com",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "国頭村商品券、6月1日発売 電子は35%プレミアム",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93V0FtVFBMQjVNVlBGMzI3TVhFV1FxM2hBdWNjbkRVejFRSjdyMWVveW12VS1PWDZmYmhTTlpycHp3M1BRZVh0anFCZ3hSQmNoNTVDX0xrZmEzZ2lXMjJYbVpn?oc=5",
+      "date": "2026-05-05",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "title": "沖縄・国頭村キャンプ11日目",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcmZUN2ZhUktHS0FpWVNvU0NSenlhUW81NXA2Q0JZeVloRTlsaTJjWkVFeGd2QXhwNHlBWVhOQWh4RXQtYkd0VDNFSGM0UGxPUE1lT0dia2dLUQ?oc=5",
+      "date": "2026-02-02",
+      "publisher": "FC東京オフィシャルホームページ",
+      "firstSeen": "2026-10-21"
+    },
     {
       "title": "伊江村が総合７連覇国頭郡陸上競技大会 伊江、３年連続完全優勝 北部１１町村が熱戦",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rdFFtZHk0bXp2WFFFcVE1RHY3QV9LVEE5Q2x0Z2VjUVNhelg4WDJpR2NDblJ2ZmRSaGRRTWw2bEVtOGhlYkI1czdDc2EtcGVYdUZwanJIX0hWSzFsSWc?oc=5",
