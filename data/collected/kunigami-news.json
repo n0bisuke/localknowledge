@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-21T00:09:35.286Z",
+  "lastFetchedAt": "2026-10-22T00:15:23.245Z",
   "items": [
+    {
+      "title": "[2023年度]沖縄県国頭村との連携事業",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nbW9XZE55S1JnRFg5MFlQS2ZQYUx5OE1xVHJtZzVFbUVQNzJ6QXBzMUo4Mnp0a1g3aDRzT2ZvUUNrWHI1cHJyS1d2RmN2UnlSdHRTRmJ2UWVZTTk3b0N6cFNNS1p5TGtnbWZpWFdMejQ0VEk1T2dvNEpwRQ?oc=5",
+      "date": "2026-10-22",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "title": "[2024年度]沖縄県国頭村との連携事業",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Za3E4MDhHV3FYR1hfdTlQeV9WN2dqTE14VnhJenl3SlFzbUR0YmJEMEZlME5XS2prSEo5U1JNbUJHdkw2bGVmUFNKYXVtallYcF9UTGlpeVpCQWhta21kd1d5TG5LRkdmZkVYZHB5M00zTVFmaW1yNEVUN0E?oc=5",
+      "date": "2026-10-22",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-10-22"
+    },
     {
       "title": "鳥取・岩美町児童ら国頭村訪問 自然、文化互いに学ぶ交流事業",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZ2Zsczh1TGFGUTRub0RKMGVjOFZTSjB2dW5DQjNBWklTYVJad3JfdXZQelB5NUZnSkF3NkRVTTFscEN0ekVlc2lVOFVzTmhKNkd4UjcxR2ZkbnJsaVE?oc=5",

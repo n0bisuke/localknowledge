@@ -7,9 +7,8 @@
     "area": "国頭村",
     "url": "https://www.vill.kunigami.okinawa.jp/"
   },
-  "method": "feed",
-  "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-10-21T00:09:35.286Z",
+  "method": "links",
+  "lastFetchedAt": "2026-10-22T00:15:23.245Z",
   "items": [
     {
       "title": "【重要】国頭村乳幼児及び児童生徒等物価高騰重点支援臨時給付金について※申請が必要です！",
