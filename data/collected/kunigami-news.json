@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-23T00:11:36.418Z",
+  "lastFetchedAt": "2026-10-24T00:03:37.434Z",
   "items": [
+    {
+      "title": "安波地区公民館（国頭村） 名曲「安波節」発祥の地＜わした公民館＞213",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YT1pXbDJWSXJYeWRTVGszMHpOb1k5TWJHejFOM0hLZXRNNEptcElRSHlWLWtwLWF2TkU3THZRTHZYU0hBSGUyRGl2WW1YYUdlRkZWQWRyX0hjdFZWSUE?oc=5",
+      "date": "2026-10-23",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-24"
+    },
     {
       "title": "[2023年度]沖縄県国頭村との連携事業",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uM2FQaUVjN3lka2ZkWURVdUNyX1NmdEJyRGJCRFYtM1hZQV9vaWNyajZTdG1uSEpyODZSc2w2Wloya0pPNE44b05ZUEJOdmRYR3hJTjd5MFdIT0lGbTc1S0ZwVWtLZkJCUHAwaTd4dEp3U014QllZSFI2QjM?oc=5",
