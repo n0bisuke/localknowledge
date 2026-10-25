@@ -9,8 +9,71 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-24T23:46:01.741Z",
+  "lastFetchedAt": "2026-10-25T23:35:32.859Z",
   "items": [
+    {
+      "title": "25人集落 豊年踊り復活 8年ぶり 他集落や郷友会協力 国頭の謝敷区",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHVURXRlhLaDZia1BSN0VqUm16d0NiSmRCOVkyR0VmUG51bXNDVlpkeUlEXy1yYVVBWV9XUnplREdQTngxbHBXNmxHZXU1Tk14R2ctVk5wOTVURFh5WFE?oc=5",
+      "date": "2026-10-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "新100歳3人 晴れの日祝福 国頭 北斗園で敬老会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWWdnYmRXUEZZUGVRLS1CYlNQN3FkQk1Qb1RFM0xwSlhMcFdhV3VoWm9lMXc2b3hnNHhjZmVBYWZ1YTFJRXNDSklCYnRLeEd5OElBZEZlSEhDSmlhaVE?oc=5",
+      "date": "2026-10-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "国頭郡陸上大会で新記録 仲井真タイ剣人さん 一般男子４００メートル ４９秒４０ 小中学生指導も、地元の励み",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95Rl82UUtzT09wM1dJSmltdTRWeXg1ekQ1VjlCTWU2OTdvWTZIbWkyUG9ycS1tdFdZQXBvd05za2JNUkw5TGZYSW45Y0NDenJDNktQTC1Sbk93YVJEQUE?oc=5",
+      "date": "2026-10-25",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "パークゴルフ 鏡地A4連覇 国頭老ク連 85人参加",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUN2VTX0h6REVhekxBT3pnemppRmpESkFNdURSY1Q2RVdGSnA1cEpxSGdqc25hRFFBQVpLclIyYlExcHBrc2hsRGJWc2h4emRqNUU5b0R4aU5XMVpFRVE?oc=5",
+      "date": "2026-10-24",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "野菜と濃厚チーズがベストマッチなピザセット クリスピー食感がアクセントに 国頭村・喫茶あがち森",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3V4YnJLQ1hzWmc4X1VjYTViUXU1QVBwUHZueWpIMDRkajVHMm5senVKLXdNcTJhYUZDaGt1YnZlOUtFemNGMDZPblhzNlB0Vm5MYUM4SklvTnZOaHFwTVF4cXhCZnU4bURDVXRGSldiZ1ppcFdQR1lWazZPU2w2cC1Ma9IBiAFBVV95cUxQRGtxN0JhZEtjODhJSElBNmJTM1owc3FubURXRUhNWWVhM1VzUDNJSVdpalUzamQzNWFQQnFseEVQRm80RnRiZUZXVWlqWlB5RzVFZmZBYnRlNFlEeGFpWmNfZDNwcjFDT2x0X1ZESi0tZVVkYU1RaUJOVlhTZnZjOGMtekt0SUc1?oc=5",
+      "date": "2026-10-16",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "【地方創生×DX】株式会社LULL、沖縄県国頭村の地域活性化起業人に副業型メンバーが参画。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KNnNzUkVqQlNyYTZTX0RoRjQ1QTlGNE9PVUJWcUFhMklUTjU2V2pkeDk3NFFrRTJ2U0RjeEZMZDFoY2RnMVpaelhFTFlmbWRwTzd1bjVldDRvWUVLcEJv?oc=5",
+      "date": "2026-09-29",
+      "publisher": "シブヤ経済新聞",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "【地方創生×DX】株式会社LULL、沖縄県国頭村の地域活性化起業人に副業型メンバーが参画。",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FWUlscDhyMHFfQ3hEOGVzcGhOR240T0JUNUpRbFZlQVBSTExHWXBRdmRHZEhwMGtHeFc3Y0hnYzVsVnBSc0gtUjdfV2pvbDRPX3ItVkJXTVNQWmhLaWV2Rnlya2JsNUZZMm53?oc=5",
+      "date": "2026-09-29",
+      "publisher": "時事ドットコム",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "国頭村与那のウシデーク 家族の健康や五穀豊穣を願う",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKR0JXNm45V0VWNmdTOVhhVUNrMGd6TXE4V2ZrQmdzLUdscjRVQmhXYzBVN01ybVItV0lROXNRZm03dFJQMndMbVF3R1VjcWhXUXJIakpWWU05TGNEeS1kSXdueFZ3SHJMWHRj?oc=5",
+      "date": "2026-09-04",
+      "publisher": "OTV 沖縄テレビ放送",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "県知事選投票用紙を交付ミス 国頭村選管",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN3c5N3A0eFVONUhKbi1LUUszcGpPWlc1a1B6azlIWGNSRUNCR1ZiVS1ET0gzdnRMVFR6bzYtN3dnVkJRY1hWZEszaHdNUQ?oc=5",
+      "date": "2026-09-11",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-10-26"
+    },
     {
       "title": "国頭村19集落で 道ジュネー披露 青年団 2日間かけ",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MXp4MnV0WVF3blpudGtHNUVYanpTZXdwRTkxUDdMVlpZQ3RKMURZMlVpbXJTXzhNN3A5NXV6WXlzUWJCeEtGcXUxTTNQcFV6ZVdTazNrbUU3dGtwMFE?oc=5",

@@ -9,8 +9,64 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-24T23:46:01.741Z",
+  "lastFetchedAt": "2026-10-25T23:35:32.859Z",
   "items": [
+    {
+      "title": "大浦産マコモダケ 旬到来 わんさかパークで販売 名護・沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zNUktN2xMcTB3ek9HWWxmNElKSWR2dFNaamZKTHkyMGVHcml4MVpIbFFMS2preXc4b1pNTF9EX09VWXkzWGFCQnJXWnBuOVNQUkZRWHpkT1JLTVdpUXgtYVB0NlVNNW5mQzZpNnctQzdUMzh3dlJJRWU5T1lkOHc?oc=5",
+      "date": "2026-10-26",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "「琉球蓮根」広めたい 名護、ゆがふいんで試食会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NVlk2S2xSRUJYN1RSN1p5dVRGck42eDFEMlo2QzNLdGFYY2JCTmhOZkgtOFFLSlFkb3I1bWZ6amdUQjlfMjhMenJpSl93Si1QMzYwajlJa2c2blN1dVE?oc=5",
+      "date": "2026-10-26",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "「一獲千金を夢見て」海岸巡り 希少な香料「竜涎香」の実物展示 沖縄・名護で31日開催（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhc0VKUEgzVkhpcjk4MjVELVpOeFZPcDNFWXFWRlN3TGptRHlsOGJhcFhSMjBrOTdPaTh2d3pmSlVCOFZYV2loYXI1Tmx3RjZ2TUF5SG4yM3lRZTNhc0diX0psQ3NrX1N0dGh2c294WERuRVNVUVp1VGJpNGk1aTA?oc=5",
+      "date": "2026-10-25",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "作家招き絵本作り 名護久辺の小中学生",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zSUxwYUNWT1oyMS1qdG9ROEtuV1JTYjhPWVRUMGdMRUxtakZ1REZzMUNzeWxhWTZCLTBOWXhaNm1MbEVjOEhXTEJXSTBES0JhWWFsVURQVU5CY1UtNnc?oc=5",
+      "date": "2026-10-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "反戦訴えた生涯 長谷川さん学ぶ 30日名護 ドラマ上映",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LMkdUQ2FMX01oMmNnVkNXZVE0SlNDTXJlS1hOdzdET3ZPWXJPTHlfUC1EWGdLZnpRVDZtRFp0RFJwcWlieUxOelpuQm1fU2YwLXhaSWNiWFlJeU1IeGc?oc=5",
+      "date": "2026-10-24",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・名護市に発表 20:03時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92ZTlLSUJqNzkwVE1RWngwTFc5ZmNJRDNNOXU1Um9reVBCZzlfNzdZcERFd0gtZ010ckdsS0dxYXdmQmVULTFKRW1UdVNoaTh3SHNVQ2k2MA?oc=5",
+      "date": "2026-09-05",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "園児らがエイサーや獅子舞披露 沖縄・名護市で為又夏まつり [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50NG9xY1p5RGxmejF3ckdNYkpzNEx3UGNETDU2bzA2STBxQU0yUlJtN1gzNkVlRWZocmNiTktyT0EtOXhSQlBMQnptUzZPTmVNYVRvWENXd3I4eWhkWHVRbmpBcWwxVkU?oc=5",
+      "date": "2026-09-02",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "title": "米軍普天間飛行場移設問題 写真特集：時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4UTdjREUzN2dNZkt2Nml6NXk2OG0yVVZQWkdpbXJTcVJsUkRpUE8xUS1pdGhVYm9VNUZnY3VVQlZQcDdsMkRka1h6dUFyU0VWX3I0MndmV1d5VjczYU13N1pTOG8wSVAxdWVZTjdn?oc=5",
+      "date": "2026-10-15",
+      "publisher": "時事ドットコム",
+      "firstSeen": "2026-10-26"
+    },
     {
       "title": "評価と歓迎、疑問視も ヘリパッド閉鎖 着実な実行求める 名護市辺野古",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdzVUM2xlQ0gycE01SzZHbUw0M0VOYzRlbmFJM1pnOGtQbzZtMzZLWDJ0YkZWXzNDbVVKV3REcl8yTlRWajM3VDVmZVNMTENmOTd4UG5xRWRzNWVpYlN5OQ?oc=5",
