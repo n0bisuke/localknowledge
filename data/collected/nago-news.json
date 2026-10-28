@@ -9,8 +9,407 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-27T00:52:13.411Z",
+  "lastFetchedAt": "2026-10-28T00:45:42.698Z",
   "items": [
+    {
+      "title": "武石さん父と船運航団体が面談 辺野古転覆・事故後初めて 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ETVBFZW5LUVlFNzFrcnJhVG5ZeWYxM3dKZ0pzTTE0NUdxTEVGS1Z5OTNUeDJCb0lpNEVIQ2Q4TGVZMExraUF5eVFQbEpMUGhaQWVtd2xfSC1EaDZpZTNvdnpycmRvdzZWTFZTZWxEM3pVMkJ5YWxMam9ycnFlakU?oc=5",
+      "date": "2026-10-28",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "城区の伝統芸能 舞台彩る 若者ら稽古重ね19演目 名護 98年目の豊年祭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbWFvZzhjaXlYWlBFVGtKYlUydHpuUE9qVjRtRTBQVkhIWDVpOXlLVXo4LWc5OGIwVlo0NnJSUnNhbk9GNE5VT1dMUGpzbXlETExkNzdfQ3d6LUNvMnc?oc=5",
+      "date": "2026-10-28",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "名護市辺野古に隣接の米軍着陸帯撤去へ／小泉防衛大臣が発表／撤去時期「米側との調整」",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQnV5cnJxeEw5X1cySV9LTEZ3YXhUNjdyT093dUhtUnpVWG02YWNVMnNMazVfUVZQNkhab2FueURPN3R3ZVdhMzFTMTR1MHFsTlozZzN5SndjTTEtLWMxaGpzQ3l1Q3k5OHVlUnhDNHNqYjFhZWs0ZTFOX2N6em4xSTQ4X3NtTDlNMnJEV25jemtMc1dCemVNai02UU44WVYzeFBEVV9peTZxMlFvRUxwdWdQZkV0U0hEbloxYjhrZEhJbVnSAXNBVV95cUxNT3ozWWZwWUIzUVhaX2JWR3JQaXVFOWZoaEh0T05BUTY4OWwwZWtGbWxJVmNSczh1cE93dzFNQlZwLUdjZ21hZXpCYThqV1NBYWczR1hTT2dCZlFhNU11YUZjb012OUNjTDF3MllVTUFFSzcw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "名護で「こどもフリマ」イベント 子どもたちが出店、商品販売を疑似体験",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MHFpNlJXc2RWLXZ0dllVRDgycHc5UEI0UlVBOGFCQnJsbmExMG0zQ3FUOTFGaWhXa0cteTM0eThUVzg1WWdMYXpQdVRocHc1UlE?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "国頭サバクイ 勇壮に 首里城正殿復興記念 北部各地の演舞 披露 名護公演 300人出演",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BMUhhNHJZLVhoZmZwNWhVcy04MTZWVHB3UmFTbW5oek1ydXgzc01ZRmZ4R1BuNVlEOTNzSHhkWGM0R0RfV3FrdU82R1J0MXVfRTVOaWFpZjd2S0t3S1E?oc=5",
+      "date": "2026-10-28",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "出店者の商品",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95MTd6U2RWa2RtU2hoZEtETm16blFkQTJDOEI5cGlPdVVpTFUxOTUwb1NCUEM2MzVoa2wwdHlZMVREMzNyVU1MdXRKZ3BpbFBlbUVQSFdR?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "“浮かぶ金塊”どんな匂い？幻の高級香料｢龍涎香｣ よく似た漂着物も展示 名護（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SS2JfOTFlajIzdXFoOVZzeVZmaWVUR093NS00b21sNmtsV3R6bnczMC1KMlZPRXlTTGFoS1E1R2RNVUVmc0JFbnpxZ3hLbjlsWU5JMzJEdGpaakxFUHA1UEFBODhkMmhSR2tMZTBnMW50YmhrVGg4eWFibnN5WEk?oc=5",
+      "date": "2026-10-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "名護市辺野古に隣接の米軍着陸帯撤去へ／小泉防衛大臣が発表／撤去時期「米側との調整」",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aRV96UTBBZVpQRUdMaFQyVm56TDBEYm1YNldHU0pLRU9aWm9yMTI1UVpoS2x3U1FDWFZ6dTFyWmZNU1JJNWc0YnAtSDhZVVkzMkwyd2tsbEZOUQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "辺野古沖事故遺族が抗議団体幹部と初めて面会 「分からない」繰り返し、問いに答えず",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56MWZEOEZoWmdmMnJfcERDVVdlQjVJLUxoSlpELWRNMU9yTlVOeEJadkJEMENONHYyWG9MaHd6MlVHaHl0N3Y5R3h5WVJHdExsR3VERTMxY0wtT05tUWhoYTl2d1hwREpobjJaeVJuS0cwTG9NQlE?oc=5",
+      "date": "2026-10-27",
+      "publisher": "産経ニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "沖縄 県が辺野古資料の公開停止 名護市議会再公開求め意見書",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42YkJFaUZfTENudkpDbXVvaFhVd1d6ZlBSZ0pKSFNTa253dnNNM2VneDFYbGtxRUZvUGJGV2NCbFIxbHEtMi1nMzhkRnBObXo0X2xpWWJwdEhYOGlpYm9Z?oc=5",
+      "date": "2026-10-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "音楽や食、文化を感じるイベント「75番街」 Rude-αさんら登場で最高潮に 名護",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JaHBRajVGQzg4RmpTUmFDYU54RUxkdVJXTllKamJQblFTdHhMaGVraXAtd0c2WS1sMDljeVpEQ2hsQWpvSFB2REtudw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "名護で「こどもフリマ」イベント 子どもたちが出店、商品販売を疑似体験（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTGJTcFh0eUdzV0owSEdSeDUzMlcwWFhRenh5OUludGJ5cGpDU1E2X2Z0VHZmaENXWHRKZGJKUHRsR2NRR29WZVhQMWl2bXBOV1Zaa3VnQ05NU2NtTzdSZENBOFhZTDJXUTVIWUdFVHN3RmxaZnNjRnN3MUw4aTg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "【沖縄県内初※】名護市の運動ポイント実証事業「名護運動ポイント」が10月1日スタート",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13SVVaTnIySG94UUxWcDBsQndjU3VIUEJQSnRCOU56Yi1tM1hBSGZFdEtubkFUYnZpd0h5M1RoVVhYekNRNDJ1bGVNR2FySnhiY0oybDdMY2gxZzFMNXc?oc=5",
+      "date": "2026-10-01",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "来月4日に献血 協力を呼びかけ 名護ライオンズク",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85SFo0Mi1oZ3RDM2VnYlRjT1VtdnNkM3gzdGxJd3NveFEzWlJtbUI4TlpCdjRXM3Z0bUw5YloycFh5eGhvelNudjI0d3pUN0dYUmJJR3Z4bGFXNnZXTkE?oc=5",
+      "date": "2026-10-27",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "大の里「最後を締めくくる」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGQzdSRzMyMFFJSzR4WWVSYndmNDlFSFRiSVlDZXNJVTNuazBTd25HcGlXUE9RV0FYdFdhN2V0QkMwSzNOUjN2V05ic2dmeTVwZXFjVg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "Lime、名護市・沖縄JTBなど5者と包括連携協定を締結 2026年度中に名護市でサービス提供を開始",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdnRBNFlxZXZPbVNJeWJDRFRRRzE2bnZkM0hmUC1lOXQ2MGRyaTBJNTZ4QmViVzcyRlpGVF9oWHRUUGpsbFdhWWlIWXA2bXJzU2IxUGZzeERpTnpaX0E?oc=5",
+      "date": "2026-10-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "“浮かぶ金塊”どんな匂い？幻の高級香料｢龍涎香｣ よく似た漂着物も展示 名護",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZ05CSkN3V1Z0aTF1N29JREhpVjlWbEpVemJZOVJzYTZ6ZVFhamlaV19NZDVxOW1IY0xCVnM3bmJ5YXdNNGgxaGdMbw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "市長が深谷ブロッコリーをＰＲ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBY0NranpXRGNJU0NlX1ZhZmZlNTZ3dDF0aC1tTnJObjRYbU5WbXl5ZGpzdy1FSThXMThRNkV3bDMtOG5DRW03V0dCb29xQjlnZ2h5Rw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "世界文化賞の各受賞者が会見に出席",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KQWg5UVBzNkhWeWk1N3ctV2dwMFVMdFFrMnRlN0Q3Yi1SWHIteURyeE15YWRwMnRiRklFMG1ZX0k4ZUpYR3JHTWdpTDRUQ0s4S19FVQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "アンモニア船普及へ日本連合",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pamFjeXBOeGxEZUNTSEtMVTYzTDJRbmdiVmpicmpxTU1vZDBaM3JJYUFZaTZrUXU2Z1lVMDU2UXNTZm5zaEk4ZUJYTURubGhkRWlYbA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "自転車の子供同乗制限、緩和を議論",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tcGRnTFZZQTBiQUg5RUFxR1poN3V5bFdaSTZFSDZQRkV0Z21hUVRtNzBxOWF3SzktcnJLS3JNOU5zLU9pUW9iWmRMb19DWlpKdjR2Yw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "角田「１年目から戦力に」 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkUEJmT0RzajlZZWNEOHZOT1JUVTRvRGN5VHdyLUNYMVFDdlk3Z1BQUkVJeDRCM1hkNW5FZFNmbDBPcHVCQ25fRElHaXVzWURUQkpJSA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "明かりに照らされて",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6aWhtTVhOMTFvYVNrZ29maFctaDNjdTdZLUNrVkJvWHlWWktBb3l1NmNNZjhmd0d1anRfV2pBV2c1TkpVQ3hGb19OaTVPalp0SXJ2UA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "殺傷事件を想定し訓練",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00ZnJLalVnWUxVRGYtaGpYMXEyMzNxR0pIdjNwYzRDOUU5NF9BWDVjODJFSFk2QnRqdWFkM2FRRV9hek85SWJkNjVwV2lEYzdrRzFKMQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "辺野古新基地海域のサンゴ エルニーニョの高水温対策を 環境監視委 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Mmt1dTk4WjVFdklHRHVKdnNaQ3RqRkFjaXNzcGpXYWFoRmZQcFJjY2ladnp1NU91NF9uOU5iU1FlU0RxMFVTV3QxdmhudXRvREl6VXBqVk15cDA2eW5Xcg?oc=5",
+      "date": "2026-10-26",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "野口英世生誕１５０年の企画展",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZW9mTW00bHMzM0hGY0NSVmp0V1hNcTAyNklRQU1vcTVCMXhETDlTbTUwM1ByTnBxWU85RmZoSGE1R2l4UjdCTTUwNlh2Z3FiUjQydg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "やんばる12市町村「点を面に」 観光まちづくりを考えるフォーラム（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zOTQ4Snh5MDNDTmFGeGROZktJQXFfRVVsT2dXRUlFNk83QnF3dXhNVFd3X1pPVGlNNEdSZGVDT1h0UGs4Ty1DZHpSWC1PTTJpcTV1WmpKbF9lQTVyRi04V0FpMmQzNUd5NDhRcUw0d25EZVRlekdoX0VVaWs0UlU?oc=5",
+      "date": "2026-10-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "展示会場の様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UVhvWFJlZDJZcndWOFl0VzE4aGNhRk9keFc4cExBdGllQnVjRHhVRTRSeldVemE1cWFNbmRfUHBlanJKWkVoZV9PWGNHRnI5YXJ2R01B?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "沖縄スペース、名護市「あけみおてらす」にセレクトショップを開業します｜Infoseekニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZUlrNndDZS1JanZOZjZvcy1oSDFtUUxORUlxNVplQXhtcXRIZWhzWklUY28zcDFZRk9hblUtQjMxbmpQbUM1ampGYUR6ZWVrWVBsSl91SHBrWmppaXU5T2J3eDBnT3JXS0tTSENURFBTZw?oc=5",
+      "date": "2026-10-26",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "消費減税「転嫁されなかった国ない」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRW03d094YTFKTjhCQnZ1ZUEzVzhxUXpnUHlzQVFXb2NrdENlSGlWLTBkam4tYk5YTkIwZUxvY01QaGZ6TC15Z0NWOFBVTnpMaWFBaQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "オープニングセレモニーの様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IWXRWQUEwc1FEa2ExYU9YUUpyMU1sbjdldUFxQWFheEI4MW5JV1NBVkY4b2txQXgzN3Q3YUM1ZFJCVThxeEpNQ2xVMFNMYUF6Y1JTNFpn?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "中国外相候補の劉氏、降格処分か",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaaHVUWDVHb1g5UmJBTm9lTjZqck1sZUI1OVlBWWNHa2VSZkt6LVd5RklrT01UN2d1MWxORUlFeGtUNXEyNWk2eXdUYXZKZloyckdoXw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "イスラエル総選挙の投票実施",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRHRzc3JXclBWVndRd1oxVEg4dFo0eE85S1VRZGl1VmE3RVVPaE9TUVBvTlJOTU52eVY4OGdIbFJqbldPZGt3Q1A2Y01Hby1DbUFmQQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "ちばてつやさん死去、８７歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92Z2FFNnowdmVmMkVXbUpKVU1tSWp4RjJGNm9uU196ajFCY0xFMjAzVmlJV3NDRDU4a0Q2ZWFrMGpGTUlPMTdXQjlpeVpHc2NJSEJJRQ?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "クレメンテ賞にリンドー 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCaHZmTXN5UDdqWkxfVktXWTZPam5HanNsSjMyTlRocHc0RDJRRjdBbl96Z2pLZDFram4tNmxSdC1JaW94NFY3R2hvR0k2dHdUWlMxNw?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "ケーンが初受賞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XT1BnMXZSZ21yOGQyaUdPZ3dpMENReThLRE5QRThqOGp4NE1BWnFUX2k5UmRBWXRObkpLSy1zbFhUWGZxdjZ1SHBlS1R5cS0xeXBDZg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "旭海雄「目標にたどり着いた」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12blZzc3lOakpBN1pXbXpuVU1qOE50YUtHRjZUSmdIVjNKSHhjLXJUU3pwUk01a0lTcXpxN3FjTVFNeWpKNE1QQklocW0xS2ZNOHc1dA?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "内島萌夏は１回戦敗退",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ueWVlUmlxel9GcThFRGw0MFdEaEtRVVllYmUtbFZXcXJGcERBTmxwdS0zRGs5TFRzNUVQUVdDMnlWLWdfMjhOMkFMeVl3XzdiZ2JmSA?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "福田康夫元首相が死去、９０歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QR0tRUUl2NjhmcFE0a0RZdHRsb3hVcWxJanQtcmpuWnVFUC0xXzV3Q01zZVNlV3hidXpLLU4zOXNRbF9xSFhXZTV0TEFERUNlZU9OZg?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "田南部魁星は準々決勝で敗れる",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56NHJHX1lUcW5zZHB6YU03cFU4R0Q1MDkzUUoydUh1WjBENW5XTUROb0RwbGVyVUthbzN5MVhSQXNXUDRvc1p2ak0yd3ZHVGVJS1VpYQ?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "茂木外相、３０日から米国でＧ２０会合",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02RDZPV1dHQnd4RVBKTlVjdFpwd3dxdldMUU9iS25wc0VZbzFicUpXa2tESlFRSFdtZnNrZ3ljY0ZFZl9QZFNONDJ5YmVRSUZSQUNyag?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "日フィンランド、装備移転協定署名",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxSzVsSDhWWUdSTHR0WTcyaWpOTHNqZW1fSzhfVzhoV2dJMF9jNnpMR01QTkxkUTBWZjk3ZmVRZmNuMWNfNkppUTBjc0hDVk9ySTBfVw?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "沖縄高専近くの米軍ヘリ着陸帯、閉鎖 シュワブ内に集約へ 時期は未定",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VaENkelpJZm04ZTIyNUpNLTJpbFNfVHNOQjJCdjcxVEpWamFmV09pVzU2dkswWlg3SGx1NHdYYk9ReXFTekJqT3pwdE5pZW5IeGh4TW1GU3l3bUVIUjVOdg?oc=5",
+      "date": "2026-10-24",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "顧客情報公開「卑劣な行為」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ETVhTZHE2cEtuNHpzbW9IZERrcFpUbW9nOUcydWxCX1d6RGlQVzc4Z202TzFjOWIta3dybmtGSERuYjkwUUVwTm9CY0plb3hsSUdTWQ?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "ソフトバンク、３連勝で王手 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tN2dZbWp6YlV5QjRiYVJGYTEySDV1Y3lqcll1MWRqNVRWYzdqZEdCWGNHYWNXQUJFck5IekVkVmN5YTYtV0UtSUllUTh3RllQRlNiSg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "永野芽郁さんが舞台挨拶",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ONTFPdUxmQnhUNjNWR0d0LWVmWmlQeXVaSEtiUmNHYTBtR1F4NXZQR2wtcmI5WGozQ1ZlUDh0YzZzRWp2bV9hSHRHbFp6bE9IOFMtMg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "原子力委員長人事に衆院同意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yUUZoYndkbER4MXQyR2Iwb1N2YmNXQWlJR1phTUpCbW13RXB5ZFpSMEVNcGRNejNMa3NOYXBvMnY3bmFNZ3RsMVF6WlVFc1FsemxDRA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "特別委でなければ審議認めず",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4bUh2NEJLVjRubkR5cmJFdVo3Skw3SG5KUjZJeTFXY0ZwUlBkTk5qcHc1OGFhdzU2SHBlUDNMeHdKbVcxaGxEQllZNGVTUHdIcFlLcA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "自治体フロントヤード改革 モデルプロジェクトを見る 沖縄県 宜野湾市/石垣市/名護市",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MbFg2QmdGWDJJU2xaQUlOQ1BsRUVoUkxMX0NvRXE5ckxaNGxfNW5LdFhtaGQzS0poOGRESk1PZ2oyOUVxSXlMb2xqQURaS3prbnZMOHVpOWdoRXZzZjJFYW4xclpERGNDS2hN?oc=5",
+      "date": "2026-07-25",
+      "publisher": "総務省",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "名護市とトラストバンク、「もっともっと健康・医療・長寿のまちづくりプロジェクト」に関する連携協定を締結",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tal9XS1dIcjJ1NXVrejR2Q0lZdHJVSFpxQTNzSlVaR1c0cnFLaEhDUWRpVU5XUkU4RDNlM21nUndOS18xODlrOXVkRUdpTktrQXhEZkNkVnJodHJnNmNPNEFxLWU1OVpsT1B3?oc=5",
+      "date": "2026-06-22",
+      "publisher": "株式会社トラストバンク",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "新型ｉＰａｄミニ、来月６日発売",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JdjVrMk13ak8yYW5la29PRWxtdy1lOU9iTzBWYlZwUTFhTzZNTDJNZGtGdzM2RVU5SVc2MXZWamVNOGdsZHprckhGUjNPQWFxSHp5ZA?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "工藤監督と宮原 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SY21uMV8yd0w0QlJKa0s5OF9FTGhURG95UnB0bkVtOXZEeC1IRWxoS0o1Q2xGZGVudkhqMU5PRXJSY3M3VnFTTXJJR0p2TUF4ZkVVWA?oc=5",
+      "date": "2026-10-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "小泉氏、２８日訪比",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zN0pHd0hLemNKRG1ucU1PNTBDbWljRWx4OGJGSlQ1YXNNbXNBMjdYcDR5bDBidFlGU2EwSEZDd3Nickk1X0luZWpDWkZwdXZLVUpiQg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "【続報】沖縄・名護市の火災、プレハブ小屋5棟が全焼 市消防が鎮火",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FMllwOEZqMldnb2FlaEVDcmphVlJnc2x2aVVoUzRfX0lNRVpsY05qbHFKQ0VWTnFJQXRBdmFsek9CTVZ6M1pJVFV1c0twUnltZVlYQWtnOTItQ1k2SFE?oc=5",
+      "date": "2026-06-24",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "国連で東京裁判巡る展示",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1S1NoSkRFYWZHQlNhWUNvRXduOHdOSjJpb3NkeGRTcEZXN081UFcwSWk5a3Y0eWtpWGI0MGdMY0RNNnZlQ0RPZnhRTkpEWTB1bFJDeg?oc=5",
+      "date": "2026-10-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "沖縄県名護市の黄砂レーダー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wQVVsVVlSTGpLeWdVOEFHY2NLSC1zS2RDZDRfM3NydjczYVAydndkVnJISVNta2xzM08zU2hKNUt2VTAwUWVnWkotbzR6aEQxM0xaZjRzMERBUTVaYlE?oc=5",
+      "date": "2026-03-23",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "title": "【速報】米軍ヘリが名護市の球場に不時着 「走って逃げた」少年野球の練習中に 近くに公民館、住宅も【写真多数・動画、地図あり】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56bm8tTXd4SER3dzZ3ZEFqTDRLcWo0OGtfNEdud2tlZ21USUZKd0wwanFlMGUxblhZZHhkX3V6cl9jSmZIcjBwZ25IUGMzeEp3MkQyUUx5MFJEZnM?oc=5",
+      "date": "2026-03-06",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-28"
+    },
     {
       "title": "名護市に電動モビリティ 車持たない観光客向け ライム社 サービス提供へ",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qZnUzT2hrWXNZRmpQN1FoR3FMWXJIdWJnT1ZwX0pwQXVvdTZWN01wYS1keEgtZHRQcE9vTHE4VHd0dDByNjRUZHU3QWN1T3ZpRVYxQ3pldi14LUZSN0E?oc=5",
