@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-10-28T00:45:42.698Z",
+  "lastFetchedAt": "2026-10-29T01:15:57.348Z",
   "items": [
+    {
+      "title": "村営住宅（半地・桃原・辺土名・佐手・楚洲）の募集について",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_jyumin/%e6%9d%91%e5%96%b6%e4%bd%8f%e5%ae%85%ef%bc%88%e5%8d%8a%e5%9c%b0%e3%83%bb%e6%a1%83%e5%8e%9f%e3%83%bb%e8%be%ba%e5%9c%9f%e5%90%8d%e3%83%bb%e4%bd%90%e6%89%8b%e3%83%bb%e6%a5%9a%e6%b4%b2%ef%bc%89%e3%81%ae/",
+      "date": "2026-10-28",
+      "firstSeen": "2026-10-29"
+    },
     {
       "title": "送水管の洗浄作業について",
       "url": "https://www.vill.kunigami.okinawa.jp/k_kensetu/%e9%80%81%e6%b0%b4%e7%ae%a1%e3%81%ae%e6%b4%97%e6%b5%84%e4%bd%9c%e6%a5%ad%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
