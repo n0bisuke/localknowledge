@@ -9,8 +9,253 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-29T01:15:57.348Z",
+  "lastFetchedAt": "2026-10-30T01:21:37.333Z",
   "items": [
+    {
+      "title": "県政の方針に関わらず資料の保存・公開求める 名護市議会が県に要請（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QWG1IMVluNTZ4RXRQNmJDb2xKTGVIR2ZkRU4xUTFEUTBOLXNZbGpDMVB4ZWhLd3UzQ2hlVlo3MXF5alQwd2dsZmdFVGMzWXpQZW5fRmstVEpTUlFjQTVuVm1CcnN3QWZnMkdYSi1qQ1N3anJZVnlrVHlPWWRSY28?oc=5",
+      "date": "2026-10-29",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "基地資料、永続的管理を 名護市議会、早期再公開を県に要請 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWXhtN1gyNmRqLXg1d0pkQU8zWFc3Vk1kdkFLcXBSSnB6RUxHc1hsUUZsd1pDbUNZX3I1ZlpIS19vQmJTYVBUaHlrTUdmZXpWSk1NbUFpTF9CTTR4N3c3Yw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "県政の方針に関わらず資料の保存・公開求める 名護市議会が県に要請",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MOXdraFFFZVZHMUhGTzlOTFBJcXNGUHNBQW1uUFNiN25pbHpOeFo1RUpqUFNST0R1b041UzdUZkNfTFR5V0xmYzRjazNPUQ?oc=5",
+      "date": "2026-10-29",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "島田「最高の演技を」 スケートカナダ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11cnE4aDFPRWx1LWdaSGx4eGRlNUhPZ0V6MDk3NEdyVXhwS2lYNzFadGMzMk40OU82RlJVVXZlRW9KRFAxWVZ5QUF6dXU5NjlGSzdZOA?oc=5",
+      "date": "2026-10-30",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "名護に会員制コワーキング「ネスト75」 起業を目指す人の交流拠点に",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RZElxNlRFZF9nQXVhT3E1QXlTdXFBaktQeW9qNmNjMDZvb3pIS2tYNHRqSTB3NmxQQURpNEhyNUxXdUNsS01NU2lpQ0pubFBKQVE?oc=5",
+      "date": "2026-10-08",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "電気・ガス代支援、１２月再開",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4aFVQMlZMXzBsU05UbnhtSXBQWjMtcUkyZFNNN19qVmR6V1FKNHc4OFFneEd4TUVxa19iRXBodTFidFJYUWltb05fQXd2ZHA0S1lWaw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "「魔法の星図」スン・シュン監督が登壇",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HY21UVFBMLUVuRFJHcWdhd0h6X2J6OV9YQWQ3NDlBQlVGZUY3cE5NdmdnM1JmZ181dVBoRjByRDJZQ1piUnVKTVRybjRtTHlvVmx0OA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "日本公庫活用し資金供給拡大",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44NnhNOVhTRVZ6SVJhVU84UWdSVWhuTVJ1azlKNUhybTU4Yk9SMk4tdDg0TG5RVU5DVXpleHIycW40Z2lCZ1R1YXJDQ1Q1ZHhsU1ZnMg?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "吉田が準決勝進出 世界レスリング",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaEtFY2lKc2tpUjIxdHM1MGxYVVJHeTBFZ1NfRkFTbzEwdk1RbWhBTzZlTE9GelNldlJGVjVTa0VFc1RDWlNvYVFBQnBvUGdmX1gwaw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "山下美夢有が２位発進 米女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01a242S3JqWFdGUEZRVEtnamtlWi11V01ScG9YMUV5dFdTYXZWUzZfNVFnT3BlNC1PRjlmdnBMUFBjZUNBZ1JZSGJHSG5WMV8yMW56Rw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "汗を流す幕内玉鷲 大相撲",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vZkFHSzhWdjM3Nk1RQ0NBcHZzZGMwaDgxRGJrMjBFbXREWXZIenlJSVRaTUxwMUVQQmJONmkzY2dTOF9rdU1IdW9ldHNiakRwNFJ4OA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "スペイン列車事故、死者６９人に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0VGxaZXpnR1FOWDJOVlB6QzYxOFVYTVV2a1haU2tkRGpnaXhDRlBuVDNVTFpOWGhUOG9JRncycWhaT3BUZTBibnotTTBUczdYR21fSA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "柳、現状維持の２億円 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wQ0JIMUp3THp2OW9KZnd3eE1pMXpXSGJyNVMzWkp1YUFpNEdMQTJJYlNMRnowZThEdWlTaVJJVDhfX284OVpydWxlQlo0cHJOOWhzbg?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "池谷公二郎さん死去、７４歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uV3g3VmVtY3pVZ2JVT1ZENHJVSnFOR0xYX1ZrcFlWQU1YLXRVdkJHdXlkN1g5N1V2eHhwZzhJaXRFczczZ25vbWZYTHhpdkR6d3FmRw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "博多港でテロ対策訓練",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qRjRTYmJlYnN3Slk4SlN0Sll4eDQyVE5tMmkyLWRLZDZSYlRpOWUzRTRIZnZrWHhzSWlzWHdJYkI1Ym1tX3NFa3hxcmItUzhlRU9wUw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "木原氏、ミサイルで園遊会欠席",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiSC1Db19UanlxQ1I2VEM1c3BGU3NfVjhNZzExaWFramhLMU4xekxKLWVodXI3TWtWR0tFZkc3MmVfMzllUm5TeWxqSXo4aTZpc1JXVA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "「炭火パーラー ミッキー」店主・與儀樹生さん",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FYTV6ZHFtbjZGX3YyMDZrV012VlZOUGhFM216ZnNrT0l6RVVDcE44NkU3NkFlRkxGM0RVRWk5Y2pEM0FuQ2xMeUdZQ3pQd2FHenZnN3NB?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "高層住宅火災で閣僚辞任 香港",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FZzFubFVTWkNoc2k0S1o2UVhEZ29yRmtJMEVGWEZNWHhjamQzREc2ZlJ3YUhPbXJja0hLMndwUjdBeUpRTS1PeGFTRzNsYjdQQU9HVw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Ｑ＆Ａに知英さん、唐田えりかさん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qMVpTcmpRU2ZidXJaS01CZkV5ZWZaa0x0RXRlbHZSR0hxamZhcVFOWDRrVEZtUDlIYjZ5Sk5JRmtJZmNwZlBlSTJaOVVZRkxPbExhNA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "須崎優衣、３年ぶり世界一 レスリング",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80a3QxSXlCc3J3dVlfTVk5YTJrcEt6Q0h2bjVVVk1yaEtwZTlzZUlyTGpBWmZQS0pFZ1pzWkNCYVBmY19fclktcTdwbVIxUnRTczhKaA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "シャボン玉パフォーマンス「バブルショー」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45N2VwcWhGOVFsWE9uRzdwTnAtSnJIR0RuS3JwS3J4M2wzeTkyYUdDbXBtbGtjQ0lrYlphTTkzTlI4cmFZaFZyN05PQjJZRUpsNkczNHhR?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "医療用麻薬を紛失 茨城",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53S3E3dzR3UXdfUXFGQXFvVlIzWlRoRGkyaldpWWttTUItb3djdFYtS3l6a2hvRGZaT3kwTTR1V0ZKSHlmaXQ5eFhuWUQ5TU1aV3hKZQ?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "Ｇ大阪はドロー ＡＣＬサッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdTFNbUQxOHRod2Vnck1SUWZhY3E4RWtqckNEV0xCaWlzTm1mYjFjdjhWLXJOTzNaZjFnVFpLbzNkbUl1LVNEaFpsN2FPOUlDTXNwRg?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "しんやさんが闇バイト防止訴え",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Mc1NuS1hDVWJPdDRqV21yZVd4UkIyTkh5TGU1Z1BzVHRzQ0FDSWhXZXVSdnNnTms5bUpSOTlpZjJRY0ZnSzhlUVVDTEJCZi1Xb29Weg?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "小川淳司氏「やるからには必死に」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41RUI1ZjBHVHVNQ0JvYWtOVDNmZ2F0eFQzb1JEbksyb19DeS1sYzRmNUFjQnFJZW81VWNnUzdsWlZtMlF1MWxRcDlTZ1NfdjJzZGgyTA?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "スペイン高速列車衝突、６４人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtYU83RWptTTN1Q09rX1V4eVlzOUtGUF9kMjlubE5ybVk2ZnpWZV91Tlk0ZGJvSzA2MVp6NTVGZWVkdm5IdEV2NWV4SGRlS29PakdRVQ?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "バンス米副大統領、イラン高官に書簡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RNE1uN1VOMkZZWGJIV2x6VHhJNzRJVjdoSjFUR1dWRjlSYWtQNHEzMDVzYVdIclFSa0xWYmNUR19zM0l5d01Dajk2T1Z0bk1PUnQ2RQ?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "邦人記者面会「規定通り」 ロシア",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50b0lBLTZ0TzE3dmFSUl9XUS00NU9nZHAyRVhQT211RzJQSjhGVzRJMDJ2QzZQR3RtTHRfSHRsRlZPVzNIbllPeF8tSUVzUU5wN24tRQ?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "宇佐美彰朗さん死去、８３歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iRC1mWjhkSjlOVnZmYjZoY2toNi1waThNdE83RzFvSFZDOG5GVE1Jd212bWYxZ1ZTUTlGczFyQ1lWcDhFTFBXTTExRS0zMG05d3JkbQ?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "ドナルドのタイマー自主回収",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1dTBHMTYwS3dPdkptd01kb09FdEFFLU1BMXJtNG5DR1AtLS1qaGxOY1phSW5HRmt2Qk5FUm8ySFQ1MnY4QWw5M0FrLUhrb3lLb3JnWg?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "参院自民、特別委を容認",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSSkJwdnFVMmROY29fdUVjOTJhT2pLUWJES096bWp2YlJkZGRzRXJsQkxyLUQtSHdhZUVLM1k5bFJfQWFzVGMxWXdWUmRrbHIwdVVrVg?oc=5",
+      "date": "2026-10-28",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "「自由な発言」求め早期退任",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEY0MwUTFqRVFWdkF2NHVXbHVYcEMzZEJWMXVEVXo2UFJWQ2NBd1ZRenFNemJvOUxUY1JJeXlqQjZHWHQ2NzF4amtDUEJRRXR4cDh3Zw?oc=5",
+      "date": "2026-10-30",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "新型パジェロ、予約好調",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42U3Jhb1drb3VkQi16dkR3RDRQZ1B0X0hfSlA5V29PREsxaXhnUm45TTF2Y2ZmbmRrUVZqdjZkTjZYMlF6bF9iQnVVQ1BMSmVYNVVxbA?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "比例３１削減、自維国が合意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtOWpwY1BhZnlJeE1QRDFINnpKdDc3ZmxZeDFRUGlEcS1uZEgteGZXTVdjbUdFRUJIZjl3Tmd1bGkzVzNRZDBLd2hibTE2YXIzUjNvZQ?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "自維国「比例３１減」合意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tYVV2dndZM0YyOUlyR0p5Mi1Ga0VjdlhhYm43eWJBb054TWYzTzZxUF9pM3hPQjhtNXRuVmYxS2NZa2g3UXo1N1A2UGZ1YlhoQjlLZw?oc=5",
+      "date": "2026-10-29",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-10-30"
+    },
     {
       "title": "【11/1(日)ガンバ大阪戦】沖縄県名護市ブースが登場！「キャンプ地・名護」の魅力を発信！",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Famg2NzNNa2NCbGZEZDNJVUZNN0x0Mmt0dVBoRjR0MktRUU95aGNCY016VVpWbG9HQ1J5bkF3U2d5TDJia1hHc3MwTmRzNlRSRjBLcw?oc=5",

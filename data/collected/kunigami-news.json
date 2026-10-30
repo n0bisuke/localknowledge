@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-29T01:15:57.348Z",
+  "lastFetchedAt": "2026-10-30T01:21:37.333Z",
   "items": [
+    {
+      "title": "沖縄県国頭村宇嘉のことば 老夫婦の話",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SOGttM2I5U1A1M0F0YVlpOUVNMFpINXd2N1BUbzhYbXU5bHpQSmpfUmt1dmp5YzRqY2ZtZXBxWFplWmhJa2gtZHNjczBuRTFsSmdfWXJsTjNoODhpM2tTamd5MThvbzRtcjN1dQ?oc=5",
+      "date": "2026-10-01",
+      "publisher": "NHK",
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "title": "ヤンバルクイナの精子凍結／人工授精で絶滅回避に期待",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDRJejZhYjByc1h4N0VSSUtCSWxMdzZCbmJXY3NwSGlxQ0ZjRzFReVZGbm1paDNma2haeTFkWjc4aGRYWDZQQzdRWHQyZWVDV2xESzdVb0hsT2FVZUZoUmdJUVhULUhuUGw3RzVmbXVVeGozS0hTR2xhNVJaSzB1LWh1NUJ1RWl0YWtjamxuMjJPZ2JZMTFN?oc=5",
+      "date": "2026-10-15",
+      "publisher": "四国新聞",
+      "firstSeen": "2026-10-30"
+    },
     {
       "title": "謝敷区 ８年ぶり豊年祭 国頭村 復活向け内外から協力",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZVpib3kyR2xYbTFSQndncUJEcWpmV2hZYWJrNWNJcUxZTXdIRG45cFdEdVpxcDdfWlhqbkVmSlg0aVNFU0JDYmYzTFZLSEhneWpRX1Y5OXhIeFlVdWc?oc=5",
