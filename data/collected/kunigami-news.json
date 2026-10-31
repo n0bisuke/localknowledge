@@ -9,8 +9,36 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-30T01:21:37.333Z",
+  "lastFetchedAt": "2026-10-31T01:05:06.592Z",
   "items": [
+    {
+      "title": "おじさんらが“学習発表” 国頭村 ２０回記念、村内外から３００人 フォークソングやロック、ヒップホップ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iS29CaUJzSGV5djZYMzMyTk1ia1hqeDhoNE9ERHBZNWdxM3pLWUVZNVYxM2FMVzdQV2tsUUhYVzBmTHRTdjJuS2x1d0VUQ1pjWER3VTh4R3JfWlBlZUE?oc=5",
+      "date": "2026-10-31",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "title": "沖縄県国頭郡国頭村の熱中症情報",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HS2llSGhKTHR3bnNwRjRIdDlsMUt6WDVtREtFcXd3VmN2QW9kN2hndzdZZi1mcEtYUHFIenN5WUNJT0VXaTJPMEpjemx2OC16V0V5U1ktdjRQeVlsN1hMbUgtZw?oc=5",
+      "date": "2023-06-28",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "title": "国頭村の天気",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sSk5walg5NzEwZHVaVmh0UTNSU2tCdm4xODUtN3VUd2Q0V1NmbmlLTkduc19aWFU2VVkxN2VqQ2ppM21fM1Qya1lHY1Bpb3lSczU3My00cUkxWjhBMEtvNk5RM2YtcHFu?oc=5",
+      "date": "2017-04-13",
+      "publisher": "Yahoo!天気",
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "title": "国頭村の1時間天気",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5MDZNbGxXX0Y0ZUxrWm1hYlVZRW9ETzRqOUhMM1gxTkJMeUJNak1tWFhBamh6d2NReGhIVklwdUtwU1BoQXlzRkU1N2VfXzFIVVdnVjMtaFktemgxd1hGR3VsSQ?oc=5",
+      "date": "2017-07-07",
+      "publisher": "tenki.jp",
+      "firstSeen": "2026-10-31"
+    },
     {
       "title": "沖縄県国頭村宇嘉のことば 老夫婦の話",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SOGttM2I5U1A1M0F0YVlpOUVNMFpINXd2N1BUbzhYbXU5bHpQSmpfUmt1dmp5YzRqY2ZtZXBxWFplWmhJa2gtZHNjczBuRTFsSmdfWXJsTjNoODhpM2tTamd5MThvbzRtcjN1dQ?oc=5",
