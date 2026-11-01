@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-10-31T01:05:06.592Z",
+  "lastFetchedAt": "2026-11-01T00:26:43.956Z",
   "items": [
+    {
+      "title": "「沖縄の産業まつり」中止受け国頭村で出展予定者支援の催し",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hX1pwbFFGa3IybHRJRkw1OEtVb0NEQV9sSXN0MjdOSXA2YTlBSlRIWkpMYWJJS3dIN0JmdHZuMENhcHlJODlKclVtMmdVa0tRblRtSXZnQ3JuR3RLR0Y4?oc=5",
+      "date": "2026-10-31",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-01"
+    },
+    {
+      "title": "守るべきシンクロニー 宮城 英誉 国頭村教育委員会指導主事",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYZDNYQ1RRQTlWbnpFaU80UDR2RnF6Qy1XOV9UZkIwanQyQ1l6MHpjQVJKcC12dHpQV08zRk5ubzBLWEo1VUkyV3llME15N0lFdXlrUzNpTTdHUlpMQXY5Qmd3?oc=5",
+      "date": "2026-11-01",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-01"
+    },
     {
       "title": "おじさんらが“学習発表” 国頭村 ２０回記念、村内外から３００人 フォークソングやロック、ヒップホップ",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iS29CaUJzSGV5djZYMzMyTk1ia1hqeDhoNE9ERHBZNWdxM3pLWUVZNVYxM2FMVzdQV2tsUUhYVzBmTHRTdjJuS2x1d0VUQ1pjWER3VTh4R3JfWlBlZUE?oc=5",
