@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-01T00:26:43.956Z",
+  "lastFetchedAt": "2026-11-02T01:02:36.251Z",
   "items": [
+    {
+      "title": "【11/16〜募集】令和９年度くにがみこども園及び楚洲へき地保育所の入園申込について",
+      "url": "https://www.vill.kunigami.okinawa.jp/i_kyouiku/%e3%80%9011-16%e3%80%9c%e5%8b%9f%e9%9b%86%e3%80%91%e4%bb%a4%e5%92%8c%ef%bc%99%e5%b9%b4%e5%ba%a6%e3%81%8f%e3%81%ab%e3%81%8c%e3%81%bf%e3%81%93%e3%81%a9%e3%82%82%e5%9c%92%e5%8f%8a%e3%81%b3%e6%a5%9a/",
+      "date": "2026-11-02",
+      "firstSeen": "2026-11-02"
+    },
     {
       "title": "豚熱・アフリカ豚熱の拡大防止にご協力を！",
       "url": "https://www.vill.kunigami.okinawa.jp/k_nourinsuisan/%e8%b1%9a%e7%86%b1%e3%83%bb%e3%82%a2%e3%83%95%e3%83%aa%e3%82%ab%e8%b1%9a%e7%86%b1%e3%81%ae%e6%8b%a1%e5%a4%a7%e9%98%b2%e6%ad%a2%e3%81%ab%e3%81%94%e5%8d%94%e5%8a%9b%e3%82%92%ef%bc%81/",
