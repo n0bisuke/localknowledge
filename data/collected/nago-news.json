@@ -9,8 +9,260 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-02T01:02:36.251Z",
+  "lastFetchedAt": "2026-11-03T03:05:44.683Z",
   "items": [
+    {
+      "title": "名護市羽地で二期作米の収穫始まる（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdGF5UmctdFRKQTF3aDFRSjNtczNTakpiVWJCcHRkMDRwU3RsWEM2ZzU4TldkenRLRWl6LXRNbmswdnM4OG0yRTFobVVNYnJEbl9wdWFiVXJILTFmNnhlOEI1YkViekpRU3lMWGktY3NUclQ4QW9kQThhWk1fX0U?oc=5",
+      "date": "2026-11-03",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "下水処理場のバイオガスで発電 名護バイオエナジーが開始式典 市内の住宅や企業に供給",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94NEpSbk5MRVNWOTFXR1Z5ZnZyRDVNNF9TREkzcEhjaDhIbVFYU3U0a2ppbXVOSlhEMmxFZU0tbkNqXzZQX0g1ejFGVEloZml3OHlpOG51T2xScFNrT0E?oc=5",
+      "date": "2026-11-03",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "渡り鳥カワウ ダムのフロートで羽休み 沖縄・名護市",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiazJ0QjFDMUs2ZVcxQ011ZEV6SmNYazJCRFo0TlFfazlFXzcza3EwWkZpWFJuTnNtMUhzMnpIbEpTaC1aUjhvRzBiRQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "歴史ある豊年踊り 区民一丸名護・仲尾次区 炎ともす「谷茶前」や人情劇 １８９０年に始まり第１３２回",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vM1Q3ZjZpVjIzT0hsQmdTN0oxZHpXM2RlLS1mc2pvNmZwcEdKalNxWC1pcnNxQzRHdkFzVjVJMF8xNHdDbUxfZFgtOUtEX0RUNVVxQUtDMmNOQjQ2OVE?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "「早くもクリスマス気分」名護の夜空を彩る カヌチャリゾートで点灯式 首里城正殿をイメージしたイルミも（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QVVFpdExJV3RHZ2dSSWZHV3Jzb2lNaE5PSGtST1BoMFZTaGloOE5fV3JkT1Y1Q3Rsam9ZdVVCUEl3Y2ktSnkzRlpoX2hEb196TllsWk52aHc5bWQwWUtib2s0MHJIR2x6M0RpT2YtemJ5SC1xYmpCRHIzVGFXeVE?oc=5",
+      "date": "2026-11-02",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "誇りの演目 会場沸かす 名護で北部老人芸能大会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZ2EwcnVPWm5rQkEtLVNKNW4tX2U2aVNkbTFVOE9wSkRkQzlBSjNlckVwRy1MbVIzeWo4TVI4MXdhbEhQZEVCSktQR1lIYTdSc21NQU91VkdRWWJveHc?oc=5",
+      "date": "2026-11-03",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "8日本部町でバレエ発表会 名護のTida教室",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FVXhHcUMyNDRRVThPRks2TFF4MVFoNUlGNlRJZy1XaU93NXc5QTRtczJocmZTdVVRLWE1Z09UempTUE5yS1ppenFuMTlTUWtVcmdUc0toOUk2RGhFMnc?oc=5",
+      "date": "2026-11-03",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "渡り鳥カワウ ダムのフロートで羽休み 沖縄・名護市",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4teWdpYkpFMjRndzdydkllY25HekxMalplbno3SG03S1pzN0Z6X0RIYmJqSGU3UEhWR3h2RnhFVWM3YjRCemlFRFhGSkRmS0Nnb2lpWWJ3YjZWZ0FfTVBSTWZnVktKRFF4RFlCNGVzamJrbnJJWnFreQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "汚泥処理ガスを再エネに 名護でバイオマス発電始まる CO2年間880トン削減へ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwS25FcjRNay0yNlpLTzQwUkpZNi1oaHplTkUxU05paUVsdUZZeTRJSHVDSDBxcmxFSXMxazZzVlY1ckNrM3R4Tk1UWXdKTGhiNTVfdFo0aHNqVEttNVBMZDVR?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "車が歩行者はねる事故相次ぐ 81歳と75歳の女性が意識不明（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oaFRtYjhQb1MzWmp5dE1rSGZQR0hNQkNtOXd5NzlmRjBKR0xaZ2RyZ1lLdG0yNlNCS0dUUHFsanhXQkM5LWxJRU5VdGNfSk1iQUQ3Rk44cnVCbHB3SG5qWkRrcmF3NElKTWNwcVctZUxoeEE5SnJvMnZvYzlJQlk?oc=5",
+      "date": "2026-10-31",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "「少女の頃の初心忘れず」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05OU5keUNySnBBbFVpdnhJN0hWb1JIY0FYRkZFalpSVklvZzVia284X3BlUEFwejhnQUV1SjB3SVNWS1ctTDk2bkxzeG1Tdzc2cDZNeg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "北農定時制が２回目「夜市」 野菜や花苗、芳香剤人気名護",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NVUx2eGdOcThXUWxfQUFKS3VuaV9sajJfaVpPRTlyN1pocE15SVpGdUlkb3JpQUdMdTRMVVg5eWxtWkpsam83cW1sWGZnZFBhdVlLdXZ5enEzRUltZkE?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "皇居で文化勲章親授式",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iS0hBV3djaXVmZEVFQXl0U1NlcDZzMlV1bE82cktKczdPRzJRTDBEdTNpUzdITm82RW5SVWd4S3NHQmVVX04yXzdBZDgtWDRiZ0J6Sg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "実行員長の金城さんと、実行委員監事の新城さん",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTEN2ZmFNQURmVmp0dVlaa1RRS214QlRCQUdxMFlKMWxPcU1adVp5T3liQkoxZmMyYlp6TW42c0lnZVVwX0xZYXdhWkZLc2otbGJmalFB?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "「一番重要な中間選挙」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WkZaZ2dkRzA0dzBWTVFLcmlrc2liZkNsaFRuZlVibUpOWUlQOGRfQkRGR0RyRkRiZ0dJNEhIMEFLbHROV3lSNjhHZkk5UjhvT1VqaQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "教員の働き方改革推進 関文科相",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zWko4ZzE0S1VacWdKNTVJd3B5WU1SUUY0Wk9TOUxZTmo5elc0b2VwLUxRNkNNVmJBMXREZ2NabzZubFN2cWlkb1FFbFBYZ3pOOFFVUg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "井口ジャパン、３日始動 野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50RndvUGpTWFpPa0tkUmRNQU5iS0RyQjRoWnpxVU5tT1JWZ21mSEEwMXhFcjVZODgyV25LS0VhZ1F4VHk5b1lSYXBlLURPRzViNGk1NQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "三の丸尚蔵館、３日全面開館",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QMklZSFUwc2ZPN1hRdjRsODFndDM3TlNLYjM4OTZzMVl3M1l6M3dwbmpQZTMwNmQtOFN2UUxHcndKak5sWkdFVzUwenpsNDgxWGUzMg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "年賀はがきの販売開始",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBleWlsbXlSNDJVeVo2M1l2Nm1OckZPdkE0b3F5UlFxRE5fZG11aWdMNHJTelJJTXVOWFJwTS1XOS1nUENzZjNWNF9kWWdUS2M5MkI0UQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "熊谷社長、不正アクセスで謝罪",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GazdZVUFtME54RGllRFNjRWRtYVpSUS16TlBtRTNpZzJRZGhGckJLVkhfT24wMFBiTXRrZXBpQ05tN09ubUxCSGVNMEtTU3g2blhuZA?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "細野氏、備蓄を緊急要請",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MODBRcE5ldjZydm5LbTdaS2FTdkRySVFjOUJscWc1eV9UQi1BZnQwVDRvTWtBRFNXWHY4TDFxVURuWVZxdkR3alN5YWtHZlROcUExYg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "「犯罪被害者への理解促進」訴え",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wNVM3OVlpSHEzbWVObDBncWVweXJBMDdRdVBCRnk5bDRzQkQtNktJRWNUSlprbDNmOW9sb2pZZW12djVHSlFVMkpoQ19ySWc2NjhmLQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "沖縄の田んぼ、黄金色に 「ひとめぼれ」二期作刈り取りシーズン",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5leEQ3TDlaS1p0U0g3WUlKMXRLLURmZDdZc2xvdHFtM2NGZi1DMDRDY2ZtSDRNMGsxc0dpdFltWEVWUmNMZnFVUmhtRWlrMTVYZjVTaHI2aFB4SDJqVHc?oc=5",
+      "date": "2026-11-01",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "親ロ派の現職ヨトバ氏勝利 ブルガリア",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1OGNzX2ZWVTdkUWFZMFBnLVY0RXc4eUgxb2k5b0szazhwY2thSFlKRGpLUC1QV2pTSWxDVVltdWtaWjVsU19qTVlsczZlVWtZRl9Fbg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "高市首相「国民の命守り抜く」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50S1Q4LWp0d2ZIYzh4T3hBeVdzRjFVbjVWYXY0QWM5YlMxdnluQzJUOV9MUDRFNmtyRmtvdE1DUDBpNGdYeWJkNkREUUM2WmhpSnI5Vg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "中間選挙、３日投開票",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1THpXQTNxQ0FLSWJoRVR5QXJtdXhmNF82Qk5fQzVTNWE4SGJBcXBUOXI3R2VwaHZLaW92OEJxUS1ZWVhlc2dUdl9rekZBNlhJajR2Sg?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "列車事故、邦人１人死亡確認",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lZ3ZTWjRRQzlmVUFoNWYtQUdvZ3h3N2ZTZnhoYWhZbFhrd1FSSlk1ZWhpbHllRnJPWEJRUzR0SnFQclhyQlA2djRXOWNHQnRjRGw1UA?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "Ｇ２０外相会合閉幕",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhaFhOSjFBcEZqTGhCd1FkbWRRVUVWcS16dXMyNVRKeHp1Tl8zNm1ueFZseExmNjBHOEU3R0NVTHdKZE42V0FoOXcxandCUS1ybEJQVQ?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "岩崎が単独首位 東海クラシックゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CWEdSVHgzS0FHbGtNMDduU0x2YzFyVUtBUndxOTgzSUtITk8xTEpFeWpod1lIS0dNa0VadEdRZDUzcnFqcVJVMEFzUVFrTlRNaDBfeA?oc=5",
+      "date": "2026-10-31",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "元島民ら、北方領土を上空慰霊",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSSGw5a2pDNzhac3gyWTFjZENUd2NmMWxpMnYtYURrVjZRTG5FbVhiMkhETVR5dFNiS0JWUWxZU0d4ZktvTFpDMlFTQm5VQWs4NDZqUQ?oc=5",
+      "date": "2026-10-31",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "米中間選挙に流れ込むテックマネー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xR0wtVzJyYnhfMmRuV2VRTzdXTGhSMGdfeGJLQXp3Q1BrVlhuSW5wRmx0aWZBM0xqV21vWlN6U0JjMFhVTllfZVJDWGNMRlJWZy1XTQ?oc=5",
+      "date": "2026-10-31",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "茂木氏、ロ外相と「率直に意見交換」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90MEtBenpDWXduZXJpVG5DZjFYUDBVYXZmelZLNi1lVTJHXzF2VS1DQVVwNHcxVC1FWlhudlZMTUxXUUcxTVh2ck1zbElXUDNTaFR0Yg?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "島田麻央、女子ＳＰ首位 フィギュア",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yMERQVE1neEZwQThVRFpTX2o1d3dmd0R3dXpRZXU3aUhZd09NOGNRWkVvS3JDajZLajhONmtRWHFjX3Z6OTJfSUhEdFZWVmg4YTVLdg?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "島田麻央が女子ＳＰ首位 フィギュア",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DS2lBXzFyWHhOalFCTU1QQnBxRnZpWVNzeTlpVGNXUERVZ2xLeHdFd3FOdjNIZ3k5eG5ic3hvekpvNWgwdWRnVXR3MS1GSUNCQmRBaQ?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "北朝鮮、クラスター弾実験か",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jYVNpQnNjMzNtMDcyT2tWN0hvYWZ3TFJyd0IxR2I0NTlSbVJqdTBGZ25oTHA2cl9DWUh3X19HRG52SENSZE9aQ0Y1b0xZWTI1eU44YQ?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "沖縄県名護市の雨雪レーダー【予想6時間】",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92VVlmUzBhaEIwakh3bVBLcXRuYTBoNno3eXFtaE1EXzFNam5TTVJoZVpUMlROdWxsb29GanMzcmRtaEZ6bVhNRzcydDZHd2xfY201cDJrdzRmQXRwRnRXMkVqcw?oc=5",
+      "date": "2025-11-06",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-11-03"
+    },
     {
       "title": "「早くもクリスマス気分」名護の夜空を彩る カヌチャリゾートで点灯式 首里城正殿をイメージしたイルミも",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWk5X0EwVGszVktxRWoyNDZRRm1ONWVCdWtVVDJ3d0FiZUN2T05qRVNrQzRZQXFsdnFmSGphVXdZaXpmazZxX2RwbkRQVmF3OFhMMjFuOWhxaVNaSUVLTGs2YmlIUjU0UGZ1WEJlSFA3U0dPNnQzYk9kM081VFNBdHJld9IBiAFBVV95cUxOLWFvOUJBYUVIM0d3ZHlIMzRRX3BKQ2ZfM1FoZGlXUjJYQ3hsNGlhbGVuYlh4MVpIR0JVUUljWW81YTBZc2dqWVd0dzlZVTlnN3BwaTV1T0o0MWxBazg5R0pYR2tpNTNTWm9aenFHMUV6TEdWTVNOZHA4UFhxbVNoand6al9SR21L?oc=5",

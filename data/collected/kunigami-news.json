@@ -9,8 +9,36 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-02T01:02:36.251Z",
+  "lastFetchedAt": "2026-11-03T03:05:44.683Z",
   "items": [
+    {
+      "title": "村出身戦没者を慰霊 国頭、４０人が恒久平和祈る",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJR2UwdU9yRmNjVUEyQW0tUTdXX1lJTWU2RWlMeV9aQlBfWmZKejY3alJ0SUt4LWRNVk1CR1RMZW5RdVJZRFB5SWhuRUNKVGJBWHBTUWd2SDIyOFYxcVE?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "子ども議会、中３生１０人登壇 事前学習し再質問、再々質問も国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IVTJEdFJwR1ZxcnhjZFBPNHY4X3RhYVVfUTQzVHloS0pPanJLSGp5YUlMbVFvV19kSlhqdlZCVWtnVzR6YU1yc3JuN1Q4cW5NUk1oLTJreVdMNnVaNHc?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "昭和歌謡で大盛り上がり 村敬老会、新１００歳７人に祝額状国頭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GRTdvcjFLeFdvZklBOTYxekpUdnMwWmFYRkkwS0hjT0JmandlXzhaMkNTTWwxYWZDZmc2blZGNjhlbllCUk1qSmFmUWFjdmNMLUM1Wm1zT0YxdVlqZ2c?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "title": "沖縄県国頭郡国頭村の乾燥指数",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZVnpVVmloZWtTMWtUU1dqRnFrQmVTbzJGVVF2VDhvZWRZYzFQaUluWkk0UzZhR2NWbE5ZZnpEQnMzaWhhSDlUM25YLTluNUdPMVBwMDhWcVNpUQ?oc=5",
+      "date": "2023-11-16",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-11-03"
+    },
     {
       "title": "多彩な余興で長寿祝う 国頭で敬老会 新100歳は7人",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZ1FDWEQ3b01BMEozbjdOYVZfT25DbUhuVFdUbXBUVEs1Y3BQVnBkOVI0cUljTFNEb3RoNUVyb21wR1ZVeVU3VzZGWTZqOHQ4dUdOUnJPTldwMDhoYUE?oc=5",
