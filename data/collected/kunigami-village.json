@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-03T03:05:44.683Z",
+  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
   "items": [
+    {
+      "title": "『北海道日本ハムファイターズ』2026 国頭秋季キャンプ（11/4～11/11）",
+      "url": "https://www.vill.kunigami.okinawa.jp/ecospo/%e3%80%8e%e5%8c%97%e6%b5%b7%e9%81%93%e6%97%a5%e6%9c%ac%e3%83%8f%e3%83%a0%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%80%8f2026-%e5%9b%bd%e9%a0%ad%e7%a7%8b%e5%ad%a3%e3%82%ad%e3%83%a3/",
+      "date": "2026-11-03",
+      "firstSeen": "2026-11-04"
+    },
     {
       "title": "令和８年１１月【マイナンバーカード申請受付と受け取りのための臨時開庁のお知らせ】",
       "url": "https://www.vill.kunigami.okinawa.jp/k_jyumin/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%91%ef%bc%91%e6%9c%88%e3%80%90%e3%83%9e%e3%82%a4%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%ab%e3%83%bc%e3%83%89%e7%94%b3%e8%ab%8b%e5%8f%97%e4%bb%98%e3%81%a8/",

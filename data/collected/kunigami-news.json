@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-03T03:05:44.683Z",
+  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
   "items": [
+    {
+      "title": "国頭村長が 職務に復帰",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94a2NhaUFCRVlla0g2UzV2MXk2Y3JXMjVqSEhDRFZiZUtxR01SQVNJdmFHc3BWb29wd3g3dUpyWjlXaVNaTExxWHRqN204ZUdpY1Q0WlJzZUFIMmF2QnJ2Rg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "沖縄県国頭村で白骨化した遺体を発見 身元がわからず警察が情報提供を求める",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1ZmdyamlHYmpwY1ZYUEQwaU5NRS1tUi1iYXJ5M3pVYUsxVjZFUUVpV2FOYUhLbXFBUXlwcW9CazZVRHNjUHJWVVFjMERIRnp1NVlzYTRPSlBBNkprSlYw?oc=5",
+      "date": "2026-10-21",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "［沖縄days］「こわもて」な名前の赤い実 沖縄・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01cUVtdnhKc2Z1b0tkWXpjcGVYZHpaUE05c0xpZ25ZV1VTXzFjQUIyZTQ4akk5SHVzZXpoRFNMMnJNRmYtbUN5elZrNGhLOWtvTVVXa1ZxT1NvTGQxMnNhX19SRWRzRUsyTHBPYTlXVXQtUHBraXBlVw?oc=5",
+      "date": "2026-10-07",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-04"
+    },
     {
       "title": "村出身戦没者を慰霊 国頭、４０人が恒久平和祈る",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJR2UwdU9yRmNjVUEyQW0tUTdXX1lJTWU2RWlMeV9aQlBfWmZKejY3alJ0SUt4LWRNVk1CR1RMZW5RdVJZRFB5SWhuRUNKVGJBWHBTUWd2SDIyOFYxcVE?oc=5",

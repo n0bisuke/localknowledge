@@ -9,8 +9,190 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-03T03:05:44.683Z",
+  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
   "items": [
+    {
+      "title": "ヘリ基地反対協、一般向け海上案内を停止 辺野古沖転覆事故 生徒遺族に伝達",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44MDZYdjFTNDhHNlNwaTNGb01iS3I1anA3X0JOeURzSFZ2M0lkNHo3TlVJTjdPcDByaldGUHZHeV9GMjNVc1VtaW5kaTYwai1XWThDOTdjbTUyWTY2Y1E?oc=5",
+      "date": "2026-11-04",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "国民民主、消費減税法案の賛否協議",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHSnMtd0RRMlRNQTR3ODQxYVQ0VXZKeWU3Y292OXMxSU9zVjlUbXUyYTAybDNKTml2aWttcGdsTWtqQ29oTk9BbkdTZklLaGQyU3pTVA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護市のリゾートホテルでイルミネーション始まる 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNWRRZkNYUHZHWlpiOXpHVG5EWkpwVklhYmhWQ1lKU0tIblYyMVVweUROcHViVUNLRWgyY256eGpoblhsQ000YVVMRFRwMzlkVkJZN0NSUFJFN2pkMFpEWnk4blR1bGJwaTBlSzZHd0RZamJFX0EyRGtMMTZ1NG8?oc=5",
+      "date": "2026-11-03",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護市羽地で二期作米の収穫始まる",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lMUhFcWI5U0JJMGxOMk9GMjBvV3BPVks2U3BZRDVZeUxTcTVaTFhMR0ROanZKZjJtYkpYV3hGZUZucE0xRVVNRHhtWEVIQQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護が2年ぶりに花園へ 読谷に競り勝つ 全国高校ラグビー沖縄（毎日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82THlnZWRxamxQTmY4ZGtHVzJsOUE2M1dnNDBqM2w2SGRUTF9pOFNkSHlrNmZSOUFTbUZjeldhRFIxRkFoWFJBZFdWSHl5YVZ5NFY3U1JBa3YtR2ZBaThPUUZzeXBIRWRpS0dHMWRYNlNuWUtRMTBxdjR5TlRCUXc?oc=5",
+      "date": "2026-11-03",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "渡り鳥カワウ ダムのフロートで羽休み 沖縄・名護市（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQ09xcTdwclJQOFNQVHg1WDJUd3dQWjF3UWFzbjQwUkZhZ1BGQllUbzFSYXFJdXVVa2JtTEw1R19OZFFKV2xJYTlZNjFPbjlZcXdhdlM3dWFNYzEzTmNITU1hYzBXMFBsZVU3NGJheGNNRjV5X25tZEItbE1zWm8?oc=5",
+      "date": "2026-11-03",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護市羽地で二期作米の収穫始まる",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NDhuQmJhXzVPN1FrNlZDeWFQRXB6Z2pkY0FENGxtODJqck5NcGEyVGtGblZsSzUzUk1ZNk5UWDNGNU1zWkpJZTZ3U25DRG1UZlFCUkhHOUllcXZ3bmxCcHBIS1BJWlZvUmtjLVd3?oc=5",
+      "date": "2026-11-03",
+      "publisher": "au Webポータル",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "沖縄・名護市のリゾートホテルでイルミネーション始まる",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOaDZQYjdDMkxMM2pTUGRrX0l2VHJpQVFheVR1UVV0MHlZb2I4cFRUbFZUNWg2Q1VYXzhMNjlJNlZTQlY4enNoeURQSUJJVWhjNmFadnFRZ0Rrdw?oc=5",
+      "date": "2026-11-03",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "沖縄 名護で重要無形文化財保持団体の工芸作品集めた展示会",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SVVRXZXFzTmJvaDZnQ2U2Ry1Fck0wMnBxbS1TRjNxMWRGZlFwNFNYZndjUDh2RFREbXZYZk5iSTFHUDdSWnJyQ29iSk9FME5zM1BrcG5XaG5RMXZSaUg0?oc=5",
+      "date": "2026-11-04",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "沖縄・名護市のリゾートホテルでイルミネーション始まる",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FYnhDdno3NVh6WWVqX2ljblYxVW1fRnUtRWVFQWRZTDBjSmZPYW0wWHBMbnNwY242YnFqSmVMQS01cGxFb0V4eDRzMWxSUHFybnJxbjhMQ0tVYk12M1MwNC12SG5oTExSd29HUVAyZnBVVzDSAXNBVV95cUxNRWJ4Q3Z6NzVYelllal9pY25WMVVtX0Z1LUVlRUFkWUwwY0pmT2FtMFhwTG5zcGNuNmJxakplTEEtNXBsRW9FeHg0czFsUlBxcm5ycW44TENLVWJNdjNTMDQtdkhuaExMUndvR1FQMmZwVVcw?oc=5",
+      "date": "2026-11-03",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "沖縄県名護市のボート転覆事故 文科相「十分な説明とは考えていない」 法人対応を要求",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uVG1jZVlnYU1DcTFBOXZleXQ3MS03V1pYUS10Q2ZLUmh0ZTlWMmpYbldDak5kSGJ6SWdfeHV4dG9EcmtWaFlGc0IwaUo4a2VLME1ydkZtQVQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "京都新聞デジタル",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "「米国と向き合う必要ない」 北朝鮮",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ld0RXa0pZZlhEdWtzOVJSZVBuWWFjWVdvWVdobVFQWFNpWTNvRVBqLV9VN2NnTHlDVzlhYk91LUtzc2Q1WHNiM0otQXhKR01hTHAtWA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "「弥栄」が提供する弁当",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xbXY4NEQ2bEV3eGVYdXRIbFNnWVpIMVBXVzZGd0NfdzYyOVlwUEtJcklVNy1id1lDTEs5NGlqVmJaRnBtc0lvZzVQUXpMa195TWpoX2hn?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護・宮里に「エリンキッチン」 看板メニューはチキンオーバーライス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FM1BDemk2UVByX0l4VHgybzlaajhqUDRKSUJNSTZrM2tZNTJUcTZZTFY0U040bWZvR29vVFQ3bUFsOWc2a0J2Vm5kUGFjQVB5Z1E?oc=5",
+      "date": "2026-11-01",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "旭富士に化粧まわし贈呈",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zaXhfMHJTSHJEZ21zRzhFRDdVajVTcC03akVzRXdLMWV2bnB4TkFDdmd5SzFZN3piZ3dPd0plSVNIdzFxR1QwZGlSQlFlYzljWVprXw?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "名護が2年ぶりに花園へ 読谷に競り勝つ 全国高校ラグビー沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QamNWRGh0WVNPNkJDUFAtVF9wcjZlYlZhaTFYNXBmWVJCckxOdGsxTWxrX3dBZkx6MXZHaDJkRHQxTTY3Wm41V0Nwc3hURDExaXdJUlN5aE9JaE40eXFybmtBei1QaWVF?oc=5",
+      "date": "2026-11-03",
+      "publisher": "毎日新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "松井監督、熱心に打撃指導 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kWWxCZmFlWEJ1MFpXUTZaUlB5S1R1VkxOVzlYYV9MdG1KRGRPT05pc1FqMEFFUm9BZVlRZjJaLUc0ZjRidnA0Q2JvUVFFdnJfTzF3Rg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "渡り鳥カワウ ダムのフロートで羽休み 沖縄・名護市",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemU0WW4tNzFiMFUyNzdjWk9JS3JzU29LVS0zd3Q2ZWluRkhrRFBkRlJUX0lUMko5czhkM3JNaHA0alF1end2TXdyeW9ZWFJKUTNLR3haY0Y1cHc4TFMwa1k5SFRiMHh5Q01fbTdSblJZMjlPYmQ1VWZNMUQtbE80QXBzX1RJUEkz0gGIAUFVX3lxTE56ZTRZbi03MWIwVTI3N2NaT0lLcnNTb0tVLTN3dDZlaW5GSGtEUGRGUlRfSVQySjlzOGQzck1ocDRqUXV6d3ZNd3J5b1lYUkpRM0tHeFpjRjVwdzhMUzBrWTlIVGIweHlDTV9tN1JuUlkyOU9iZDVVZk0xRC1sTzRBcHNfVElQSTM?oc=5",
+      "date": "2026-11-02",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "オリックスの宗がＦＡ権行使 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XcmstcVNhZXVxcFJyeGYzQXdubnJHVFBpUFZTZEtVYlNYeUtQbTFyYVFGTG5vQmZOOHViY0xWelhicjlVcnBld1NQMW5QUFROaWJvVg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "保有契約高、５０兆円目標",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91VER5bnE3VFprUWNsVGhPaWsxbmpzVmFZTHhOTXdyWS13NmlpNVRJRS1neHFNRmNGY0h3YzM0WFA0UkRTdlRzRkZ3OUhPR0VGWU5CNQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "遺言書作り無料相談会 ８日、法務局名護支局",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSTlLb3I2RmlpTFIwdkRMR2NqVUtoc0NPRmFVV0dMaXB5SHNjdUhQbmVKUEN4STljdEFranVCaUhkY2RoUkNiWjl5YlpoTjQ3djU2LVhxejlBd05pRmc?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "「エリンキッチン」が販売するマフィン",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6dnlDbDRkb1BGMnJLYVRGajVQMktsdWRzM21SN2RnSFNxQmFWeVlJamliNzhpM2FzUWVTV2VFZ3A2NUp6dnZDR2o4TndjUjVMMzF1b0hn?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "アントネッリが最年少総合Ｖ Ｆ１",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MREcxa2c5bnBMMWxWdU1FQzVRMHJCLUtGNnNxckFCal9sOHZfdTQ1YWJKN3U5M3Jha2lsYmwySUFtN1pFOXJqb0RYWkx0MllQaURSSw?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "自動運転、早期の社会実装を",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xRU5yYUo4Sml4ZzVuNkQ1LXFCNFZHS053azQxdDFhYkVwSmF1X1hOQXZTekhFQmZLZm0waEtLVUdLdUZxd1oxbWNCVG9CRjVqdFh2Sw?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "ベルギー首相が辞意表明",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SbGh6WFBlZTVsel8yaFhkaThoanYxLURSRkIyRElORzdPUlRBcTZ6RldEWjhCOERWamdicE15RDdZSTlSY0JYdU9aSFRGMGVOTExYaw?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "title": "小島和哉、ＦＡ権行使 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOTFsWGlBc3UxLWhIeURPdUtaU09uVDZWcU13UmVMeWVVVGlrNFVoYzhSdU0tVjh5Rm1FbjVxZ0JyVDlSUHktUlVPMjBVdVFMM0ZaNA?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-04"
+    },
     {
       "title": "名護市羽地で二期作米の収穫始まる（沖縄テレビOTV）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdGF5UmctdFRKQTF3aDFRSjNtczNTakpiVWJCcHRkMDRwU3RsWEM2ZzU4TldkenRLRWl6LXRNbmswdnM4OG0yRTFobVVNYnJEbl9wdWFiVXJILTFmNnhlOEI1YkViekpRU3lMWGktY3NUclQ4QW9kQThhWk1fX0U?oc=5",
