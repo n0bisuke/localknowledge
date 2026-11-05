@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
+  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
   "items": [
+    {
+      "title": "【国頭村公共ﾗｲﾄﾞｼｪｱ】ツール・ド・おきなわ開催に伴う一時運休のお知らせ",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e3%80%90%e5%9b%bd%e9%a0%ad%e6%9d%91%e5%85%ac%e5%85%b1%ef%be%97%ef%bd%b2%ef%be%84%ef%be%9e%ef%bd%bc%ef%bd%aa%ef%bd%b1%e3%80%91%e3%83%84%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%89%e3%83%bb%e3%81%8a%e3%81%8d/",
+      "date": "2026-11-05",
+      "firstSeen": "2026-11-05"
+    },
     {
       "title": "『北海道日本ハムファイターズ』2026 国頭秋季キャンプ（11/4～11/11）",
       "url": "https://www.vill.kunigami.okinawa.jp/ecospo/%e3%80%8e%e5%8c%97%e6%b5%b7%e9%81%93%e6%97%a5%e6%9c%ac%e3%83%8f%e3%83%a0%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba%e3%80%8f2026-%e5%9b%bd%e9%a0%ad%e7%a7%8b%e5%ad%a3%e3%82%ad%e3%83%a3/",

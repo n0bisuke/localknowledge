@@ -9,8 +9,337 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
+  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
   "items": [
+    {
+      "title": "ギター大城さん 平和主義を語る 名護で教育講演会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NTC1YLXViQk1OX1NhWWZqNC04RDI1WWlZQU5KWlkza2doMXVYYkI3b0JxVW9uTGFwdEp3b0tXMG1DWklMVS1vY3ZvdzdPNTFHYWgxQkdHeUl1VXowX3c?oc=5",
+      "date": "2026-11-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "子ども中心に「やがじ祭り」 名護 オリジナルカレンダーも好評",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TT1FXVEplc29fcTBiUlZRX2FsNDIzNHdYaExzVmNUbjRPOE1Fel9mZkpZXzFmS2tlcVFsM0JSLWNiYVBHYzd2NlQ3MHN4M0EtSUNWSjFxRkx1TVlkZXc?oc=5",
+      "date": "2026-11-05",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "名護「ティーダバレエ教室」が15周年記念発表会 異文化舞踊も",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbDlqNmNTSnU1alZsQVd3SXRPZTFrellqOVhEX3ZfS2kxRXdUaWdQRGpta3hqLUxjTUhYdUQ2WDgyVkkwc0Rrb1I2V0hWcU9BSGc?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "沖縄県名護市に「琉球アルファドライブ株式会社」を設立",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQRGNnLUJrckZDY0hhQWV5SDF3R2Q0SkYtRkJGd3JnQkdTVmNsd0pRY3JSNVIyS2FVVnAyb3FMSnpud3RZWHRrLWRXVm5UaTlNSFIxOU9yRjR3cGJSdDdPcmNiUEhDSzF6N3c?oc=5",
+      "date": "2026-11-04",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "沖縄・名護市21世紀の森公園「あけみおてらす」12月に全エリアオープン！森の棟にはA&Wやルーラーズタコライスなどが出店",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5McVBTQmJscnpYZFNYcWptdmxlcGoydWw3ODNDVHRtWlFTSVJNSlhLYXI1eUY3dUN2Q0NRTUxPVjBXUFRuZVNXUkpXZw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "ガジェット通信",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "為又区 12人の長寿祝う 名護 最高齢103歳 比嘉さん笑顔",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQ2V6ZHdwM2lrSThlRVFfSi1fcE9xZUIwTXhLb0JvRVMwYXRwQ2JxTXE0amxzUFQtUFlQQXhIb0plQ1NiOGpIYjU0MDVnbWZVenJ0dkg1cEI4MjBLM3c?oc=5",
+      "date": "2026-11-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "【速報】名護、2年ぶり23度目の花園へ 読谷を17―7で破り頂点 高校ラグビー県予選",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IRDFMQkNSb1FucHlaMnNZa1VJZ0hua0szMnZURWd4eXEyb0dRMjZTVWZhWk0xNk5wV0tqemlqQmhEZWo2RFFleTk1MlpaNGFpTmh4dW5MbnhjYnh2d2c?oc=5",
+      "date": "2026-11-03",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "名護・東江のホテル建設計画｜消防跡地に9階建て140室・温泉、1km圏は9年で255→694室",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXpZckh3b1lXLUYtNmJmU2JNd1psUG9QRHA3WFZkcUgwOHd6UVJfeE81RlY3LWV2Si1PTC03TnVLWktWM05BYUxQdWR0YTFkekhBaGR5S0JUa3V1dm5DWmN5Y0ZZcFlrQnR1VUp6QWFtMGxrMUV4SnZTbXhwSjFxVTA3UDM0Qmh6R1pSSHhWbnRyZHVPQ05zVUQ0SmR5VXNKejNDd1R1OU5CV0U?oc=5",
+      "date": "2026-11-05",
+      "publisher": "HotelBank",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "沖縄・名護市21世紀の森公園「あけみおてらす」12月に全エリアオープン！森の棟にはA&Wやルーラーズタコライスなどが出店",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZHVRZm9yNVVKTjljblE1S0QwWHRPM05TeXgxRmVHdGFZeDZ4SFV6RGRiSUw0ZTB4NEdXZU42aUVOSGJNMzh4cXNRb0dpaHNPWTY4?oc=5",
+      "date": "2026-11-05",
+      "publisher": "STRAIGHT PRESS",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "瀬喜田小校区を紹介 名護、ＣＳ実践発表会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqNll4d1FTbGREN0hfTk1XQ0h6SFY3UHpUbDBFSXhJUWdOM3pmZjlIenNaa2g1NHg4cTJmZVI5Sm5BTXpVNjdEcGRWbmR3QXFwTGFYVzlsR3lpOUV2TkE?oc=5",
+      "date": "2026-11-05",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "１４歳の関「打撃で活躍したい」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lRTlmOU1SbXNSNjY5d2ljcy1NR2trVG9aVEhKendpY0NBYWVZdW9qeTdwY3pSbTdiR3hnZ3luXzdoMDMwTUVRRmhTVXZSbERlZmtxSQ?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "観光、産業、人口減で広域連携",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14X2h0NHYzMDRXQ2RPR0lpc1JTM1VBVUpOVWl6YmpXSFd3UFFtX1FsaXh2U2ZRR0RnYmVtV2F3eHYyanlHeE1iQ3V3VjExU2ZmRVdNag?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "堀島行真「勝つ姿見て」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ReEl3ZW9xNTl5ckFMS1BuRWF0a2lzWHlOZFJiQ3pWaWI0WEZHM1dwbWE5LWJUMVlhOGx5Z0k2ejduYnFTX1lBMnlkQ0hqUUpWcDFBbg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "最高賞は「妹兄とマンホールの蓋」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fblhuREJiU3F6TWk5RFlLSTAxZzFCekFxUW0wYWxmdTdlb242WnhqaXhRaEMwMjVWeFBNUUQ4bzRWWDloNkZZNTc4aklySUwwSzM4Vg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "維新がサイバー対策提言",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLaW1nTFdQWmpQa2YwTV92OHhZOERmV0c1VERuZTRITUpUZy1HMUR6S2J0d2JySE1rZnhPVXlHWlp6cXhUbl9QU3lsZEpjcjhnNVRTSg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "正力賞にソフトバンク小久保監督",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MVjdOSmtoazhiNWJHR1hkYjNJcjBzVHQ2Ri1BYnhTT29JYXZyZDFFME8wR3VrVWVpLVpFUzlxelkxMUE2QV9kUElaWUE3QWJJMlZqbA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "ゆうちょ銀、松井証券に２割出資",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pcHdqc3V4Wkx1MW5JejdMWklYMHJKcjNDQnVVRkhIVzRFNzNjNllCY0xpdnR1YTJXZDM2eENPc2k0a2k4d3h3S0xTMjhPaDJaMy03ag?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "サンタクロースの門出",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OUEFhcFNNS2ZaT3Z3bzFCSllzXy1CNGZ5SjRsQzZGZDJheVdSOGo4VWxHM0ZaNDFnOUFqMHpuVEdEaVE1OTFfSTVvalBMNWNaNkN6Yw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "広島の森下暢仁投手、国内ＦＡ権行使",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wWHFRNUR2MGxjY282UUNQSW5DNkZJSmJVaEVMekx2ZWFsRHlORnpNdDVPbUs1VkV0WmpBWnVoX0xkS2x1ZVpOWWhiRFhNdFFNMEx6dA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "高橋宏ら投球練習",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pa0t5OE1DalAyUTEtc0hxVUdINXJxYmtjUjg4UlBtdG81MmMySXdXTzkzbU5ndTdCOWVLai1uY0p3bndtakRyY3Y3TVZQSmE0b2dnVQ?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "名護2年ぶり花園へ 高校ラグビー県予選",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43RFFzc0dsN2thbl8walRZUS14UnFfbWFLNG50MXJVNzJzTU4tdXh6OVdEUG9PaFpCMnBjY2FCU050YkxmdEZyREJXOVdwTVFOQlFmajZwQllVQ0ppOGc?oc=5",
+      "date": "2026-11-04",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "鈴木彩艶のアストンビラ初黒星",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oRXVwRlNtRGNBamJGZzJZeFhBdmFrVEhxUTk4THRTLUUycHJuMWU3MjdyeGNqYzRvRXpMak9XYnJ0SW9DSjY0LUlxeUZSU25sa1VaXw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "「けあらし」の中を進む漁船",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zLTMwLUV6cndmcHJhTkRJY2RwR0JGM192UEN5WU9tbkVhSGl6ZzNreGthZVJ6QzZ2ckdNVnVPVGRucll4S3NRSFlBSjEzcm5abmY0Wg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "献金見直し法案の先行審議主張",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3aFlaS0NKMC1JaUR2QklCalJMVGM3aUtfb1EzdllfTlJFVTNQbDR6Y282NFFoV21GaDBLUC1GYklxbWgxX2dEdF93dmR3VlpFX0duQg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "鈴木亜美さん、薬物乱用防止ＰＲ大使に",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GREVEZHJlenZUUHBJLVlMWDlHcGtUclhkOXZTMGdHTjU1bHk0VzFHNXJfMC0tSHdzQ1NrZFk5TGZuSVhoZkplZ1dvLVVhbTJ3N0oyXw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "「弥栄」が提供する「スパム丼」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aYW5YZzdhM0pQb3NLY0NCS3dhU01ZemdPcnlybzJxY3ZLc1pxTTB3eERfd1VVLTdNanNRMXc0d29hRFp0V0UzN2Z0bGZYZi1vZjQxVFlR?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "バルーンフェスタに８５万人",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OTU1QcncycjVGRlRUZmVHTDh3akVaXzNubDRCRmg3c052d2lnU2RwaWdpdV9MVk0zOElOUG9OUXIyRXRpNDZxZ2JxMl94NmZ5cG5oSw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "全国高校ラグビー県予選 名護が読谷突き放しV 2年ぶり花園へ決意",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85TjBzRUR4cDdhbEZTMDc1dVlGa295bWwwQmxSRXFoa09FNktmcmNjdUdwS0dpNk5tQVpocDVSQnBDS2dqNUZpTC1SdE1uemNaaFNIckRNLVIxVmRMNUE?oc=5",
+      "date": "2026-11-04",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "国民民主、賛否判断先送り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yTk9tdTVsclN5aGRZb3JMZnlGWnRob2wwV21DMm44T2N5Q2o4NXllSWkzWDk4WmlpWWZFd1puOWRMYXliQ2c4R1pkMUl6MlJrQW82eg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "そこに交通安全はあるんか",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iMkpHQjJyY3lZd1FmZmk5UExhM08ya3pwdVJfbXZnRUhBQnBia0pvRnd4RkYxTGtWVEFPMmd5WTc2WlpBWjRuOTJFck00NXdKcU5oRA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "柏は２勝目 ＡＣＬサッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WXd0NGNldlRjQ0pqVkVMLU1xcDNLYmNrWjh0QWp1RVlST3Jpa3V3Wm5UNGpxN2Y3VHlIMWktbHlyVTVWNEJLTEZTMWQtb1NlWXUwRQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "神戸４連勝 ＡＣＬサッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yUkZYOXdBQVBBWTdMbUZiUUJJMmdteW5GUEl6ckt4eGRORWxSdnRub3dDRE5zQjQ5Vmp0V0FQYUdSZUc2bEtacDNxUjZ3QTRCTTN1eg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "米崎海岸から臨む夕日",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vSW5KaDR5NE1lRXIyeXU5emNRNTJielBtTG93c3NqNGVNYlUxYW5FZ2xIbjQxWllVaG9pQ1VsQkdVb3E4ZFpKV09UWHVHWEU4VG5va0dR?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "倉本聰さんお別れの会",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbzl0cWhMWnBCZEhNM04zU1BIQThGU1Nnb244dzRWUUNpOXZTY0tCR3hUY0FqVTQ5b3o2cG11eE10TEN0Qy1jTlB4QTRVY29wLVl0bg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "華やかに彩るクリスマスツリー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96Y1VqMl9FXzVRRV95Y2tLRnBkTnJ6MkRPc1I2TXFiYXlsbnNScTdQVUZpYkJWRjMxcm9CNjl5aW16c05Ca1VuRHFyU2o3QVdyVjNmMQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "ラスロフ監督と呉美保監督に黒澤明賞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kRl9EWkxIX2Z3SDZGcnZCLVcwUW1QMWx1ZlpaVXZtTFp6d09lVzBGRzVQUWJaT1ZJR1NTdTV3Q0w5ZTQyNXNMMUs2UENvdldCdlhMMg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "楽天に移籍した甲斐 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1naHFkWHJpeWp3dnpTWERQaXpyNEpKd0pKNF9sVGJ6aEtmay1OVTVkeHdNYlYtTHM2UmtjdlIxbWZ5MFFROFlJRFlqenFiZV9RejlrVg?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "松本コーチ「責任感じる」 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0TVRzb0d6QVlXdWtKbXpORW1jaXN1eW9lbkRvUzJsZFo3U0NZd09yT2xlX1FPdUp4dFZCNzE3cnFnU3RXUDVqNWEyWjJaek5mR3JXMQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "九州の９酒造、ＮＹでＰＲ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhd1RuLW96ekM4VzBRWXY2M0JFdkJEdmlXMlJUTUlxbEFxbTdOSlEwVUNEQVVPdmhnZC1TekFnU2UxQ2htZUZHUFNhTXo3MG5WRWM5QQ?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "米中間選挙、投票始まる",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRV3d6eUw2U0c0bEhDZzNwWV92UkY2anVXVG9KSkd6MlhxZ1luUGI2MkpEU0oteElBU2lRb2hhbHNEdVRLRzZtOG5jYnAxVUt3cHg1Uw?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "運輸相、列車事故受け辞意 スペイン",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ckpuY3l2eXRXMy1Zd0dEY1c2dER0VFk3dWRoVzltTEZ0LTV0WkxrZW9EeENvNnZ4VnFhdzg3SXEyTjNUVVRHLXRISHBmN05JUjVJUw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "中田が初制覇、女子は末永が４度目Ｖ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14X0tOV1Z6cjEwS0c4Y2xBQ1pzR2FxRXRBZ2xlTmtRRUNWWEpBQ0hkM3dtTlI3bE14VFVidnliQnhKMjRVMThkNmxqSU80dXJDeHRkaA?oc=5",
+      "date": "2026-11-03",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "カキ水揚げ、１カ月遅れ解禁 広島",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWSUZqTno3Y19iTHM5UFlNSzlnSmZKSDVWbmtzRVMyVUJodEtZUE1ZVmI2bEJyeFFNUTFxRzZ1UkwwdU5yelhGT1hQR1BPNkhnYWxPaA?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "米中間選挙、開票始まる",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96LVhpNlkwQ1ZCbzVZSUVCR2c1cDFiamE2S20yZldIMC1mOVB5MkZSdEx6Y2wtdlk5eTk5T3hocVVPdWxzZUZxTjQtNi1pV0k0T2R6Qw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "茂木外相、米中間選挙を「注視」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wdjR0anlIb0lETmZ0VUJuSEpPa0dUdUVEOEdabXhFSGo0ekR1Q0czSDhsQzZRbmRUc0R5c1BIeWtlQ2FfSmU1Q3FSNVo4dnc0M0l0eA?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "ミシガン州で民主議員が共和支持",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nRUtjY3V3dVpFdFV0VGRRTmNEVzZ3R3VfRU5DYlh1SEk0ZVVaZDlfM1RiV3h0YS1KbFVtRjNmOF9MV0tXR3pSTV9qYk5Kc1pTNW1hSQ?oc=5",
+      "date": "2026-11-02",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "辺野古転覆、運航団体が市民乗船中止の方針",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3ZrNW1XeHBJeGF1X195LU00YUZSdnhQNHVsRVNpV0tncjRwakx0LXk0U1JDSGxFeW5KWTlmQnhCQmFCQ3I3Z1pCalNxZ0p6dEVIaE8wZktTWTlueDBrdzlMYmNhSnBWMDlld3Bqb2w1WGl1T2YtTWUxbmFhaGJxTw?oc=5",
+      "date": "2026-11-04",
+      "publisher": "UQライフ",
+      "firstSeen": "2026-11-05"
+    },
     {
       "title": "ヘリ基地反対協、一般向け海上案内を停止 辺野古沖転覆事故 生徒遺族に伝達",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44MDZYdjFTNDhHNlNwaTNGb01iS3I1anA3X0JOeURzSFZ2M0lkNHo3TlVJTjdPcDByaldGUHZHeV9GMjNVc1VtaW5kaTYwai1XWThDOTdjbTUyWTY2Y1E?oc=5",

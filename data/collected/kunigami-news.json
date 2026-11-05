@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-04T01:41:46.747Z",
+  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
   "items": [
+    {
+      "title": "［沖縄days］小ぶりなでキュート 沖縄・国頭村（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90ekw4cW9UcFN1V0xsSUFUMDVoYk1HaFdOMWVCeHpPRlFUd1MyT0ZrUlBSZ1oxU3VTXzRKUWZDcHJOVS1rU3R3SVlwYVB4MVFabDlqems3MDhvTXZmYnpuNnBhRzJGU01jVHBwaGJLM2JRWmlWODlPME9TRUFzNVk?oc=5",
+      "date": "2026-10-28",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "畑で採れる“米” 水田を使わない乾田直播のおいしさPR 14・15日、道の駅国頭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BTWdJTXlWalRJMXFwOTBDUHFSYkdqZGw0czFOYTBLX1VqSXRaNjVSbWJMVTVtSkNDeXJxb3plRVQ4M2FGaHk4ZjN2UjJmOFZIR1NfRi1GTmZCZS1aaUE?oc=5",
+      "date": "2026-11-04",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "title": "国頭村の熱中症情報（WBGT近似値）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nNFlyQW9vTm9GdTM3cmVmS3Bqb3lteXc1am9pQ0NseUl6M1A1NFFzUThjd0h5N3dkOGd6bFBzUmZLMGtFWWN4TzRsa19ldU5YZ2FYNDZtVW0?oc=5",
+      "date": "2017-04-02",
+      "publisher": "tenki.jp",
+      "firstSeen": "2026-11-05"
+    },
     {
       "title": "国頭村長が 職務に復帰",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94a2NhaUFCRVlla0g2UzV2MXk2Y3JXMjVqSEhDRFZiZUtxR01SQVNJdmFHc3BWb29wd3g3dUpyWjlXaVNaTExxWHRqN204ZUdpY1Q0WlJzZUFIMmF2QnJ2Rg?oc=5",
