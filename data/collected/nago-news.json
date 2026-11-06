@@ -9,8 +9,190 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
+  "lastFetchedAt": "2026-11-06T01:50:28.430Z",
   "items": [
+    {
+      "title": "池江璃花子選手が参加者にアドバイスする様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzOXNWa251R3pjUlZuM01sRWh2eUhQNTBxU1JacEJpb1VUQ1J5TndsenlBeFlSak5vbnB3dmxtTVBGS0NGcDhuQ04xVlFKMkljOW96NVdB?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "熱い勝負 汀間の大綱引き 名護 「メーベー」に軍配",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82cGdMVTl3Z1A2WXZWWDdsbFJSVlUxZ2dkVkI2cHpHcnMtYWlzZTcwYlBPM1JHZWppWWwyM1NzMExwNVlzNlQzQktSbXEyS0NvMzVBajhaLXl5MmhzV1E?oc=5",
+      "date": "2026-11-06",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "舞踊や劇を区民満喫 名護、旧大兼久ムラ豊年祭",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zdEJzRG5WYk1xUjhFSjBHOUVEMWJYU2NLN0FtdjUtYkFYa3BmYTJSeF8yTURhalo0cWJ2S18tZlpyQWZoMWQ5dmM1TERTODRlT1FsR00zV251N3lEdGc?oc=5",
+      "date": "2026-11-06",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "日本高野連、学生野球協会に処分申請へ 謹慎中に部員と接触したエナジック・神谷氏 (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3I5ZnF1elpFREszck5OOE8tcGNfeGxUa1oyNU1jYXVkX1hwQ0JQQjZQajI1X01wMnlZLXRxQ3doSk5za1NJQXAzay1Xc1hRdmU0RXFfRHVNc2Z6bTRXTmV3bUFvTU9ucTVxVGpMRkNHNl9mbkRZbGNxazRBVm43aXh1OHlQVDhHU1pGN0xB?oc=5",
+      "date": "2026-11-05",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "手本を見せる池江璃花子選手",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1maU1janVIb1pvTWh4SEN5RVNORzd4SjJiMnhrZHlIckZNVG43T05DU2pLbXZ2S3VBZ2x3bm1TRnBZYVdEMURScGQ4dE9kakswNHpRbFpn?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "池江璃花子選手によるトークセッションの様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YRU1kSjl1UGpQdVFrWnBBSlNjT3M2a2VLdmhFNnc1ejcwVG1YV3J3WWZfaWpDM0lJM2xyQ05RTmdDSWZSWUxFRG5WV3BEWE9SMlFYSXhR?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "ロブスターや牛フィレ肉で聖夜を華やかに 名護市のホテルでクリスマスディナー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EcnFTZlF6RDBTRUZpN0xwbE13YktzdHBsR2huWnJ3dUJoQjhLaXBRQy1qNFRMWDh6RFlYT0dJZnVQMlRGRDNhR0R5N0VhcUxDRGtyeUFMX1NjNnFjT2c?oc=5",
+      "date": "2026-11-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "南国の旬でクリスマス 名護 コートヤードでイベント",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iY1NKOG1vY3JZNmFLd1cyZ0pHNWFnM2VMZXlhblRUck9LSk5ZbEZVaWF6Z2tzQ0RBN09LUEhSa0JHWmlXdXJaSV80Qjd6MGdpLUw3RlRUekx0WkVZNWxmZHdB?oc=5",
+      "date": "2026-11-06",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "名護で池江璃花子選手が水泳教室 子ども50人に泳法や食事面のアドバイス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3NDBEd0Vyc0h2TVFLSlNHN2pVV25Gd2VhYm1nOGV0bjJ6dkFkdl9YQXB0OG42T0NQUHhtdUxCTUoyTFpUZXk4WXRINFNLYUlpR3c?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "ロブスターや牛フィレ肉で聖夜を華やかに 名護市のホテルでクリスマスディナー",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xNHMzemVudC13bmpBWWMxWVMtWk9RYUhlWG81aWZROGhvc3JiYkNoWGpxT1RmTElfY2JEeFZSS1RHaEhPWDBud0lERQ?oc=5",
+      "date": "2026-11-05",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "名護で池江璃花子選手が水泳教室 子ども50人に泳法や食事面のアドバイス（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DWlRwc1VHaGFqbjd1ZXhSUUtaenNfbVlIV3hkWjRtdWJaYTE2eklRSlduMGVBeGlPNnE0STNGRGZNc1NkeGV1ZHpnbllpS1hYU2lFV3BJRWpKV3R4UHk1ZmhvTFlzdGZtTEhqVGhYRzVlUzFUN3FHVGtEVTRGNTg?oc=5",
+      "date": "2026-11-05",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "池江璃花子選手による水泳教室の様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nS25jclJXRHpQeGdnaVZ6QnJFOGFqN2lwVkZ6bU1mdGtMT2xPRTZ3Vlp5X0p1em95U1VaV1BjVHRpenluNE9PVUZBMzk1N0pKOTNBRTB3?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "シャキシャキ食感 やんばるで秋の味覚 マコモダケ収穫（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVkNGalI5NG5KbW5uS0l6LUtfNUtYUzdjSVNyak9jamVEVUZBZ0xHeG55SnBWRF8tMGNzUmFwZWFTMmcwRWV3UEk3WWVvaG1EZzByb2t3emJqTUFCOG8wVzVXVl9lU1R6VE1ZTWlhdFhWdWc4U01pYlhTdDBRck0?oc=5",
+      "date": "2026-11-05",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "岩手の農地集約効率化を表彰",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54enNaRWhRNXdlbDVJbXJTVlpfXy1nclZlT3JwdE4ySFpncUFuZTlpdFNKWG9yX2ZUeUFPbTZLNEYtYnEzSjZtNHlrbHFHaGRMV1A5Mg?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "早紀江さん「死ぬまでに１回だけでも」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ldmk2TWtXUEt1b1Ffa3NnaUpJMW1aVVlYeC1wakQzRTIxempSdTlzQ1JyQlZ3WGRIOUVRSWFRalYxTHpWb0lGbGgxZHdldS1vcjFQMg?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "蔵内勇夫前議長、金銭授受を否定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsVHNCVVhEZmxya3E2YndlZ2l6OW02OE85UU9EcTV3MnVKTHRvN2xqc25UcWMtbXpxMEt0czluX3A5SjVlLXN4MWExVGoyQ25IaWFCeg?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "東京体育館に記念プレート",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4eDVVNV9SY2xySnpOR2RyTmZ3d3FweDMyUHVKWTRWcE93UzZzV2VDMTZGaWU3YTFzdURTVzNZbEJtNHUxQUtDbE04OGZfTC1udHhWSw?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "「書道」無形文化遺産へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GRThHNUtvejJ2WV9iQ0xwekV1c0ZfSVE1SzJuUFR6eHJYTDY3b3dKYnNUQXVkSWhTOWpnNmU5Y0VCUU9sT0xlZkY5ZGlrTFNONmVDNQ?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "自民、条文起草委設置訴え",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rTUFla2oyVXNBRHBTbC11cDB3dHhWWnpGRlk5bEdkcTdFMHNkS3lfY1FBUjI0eHl1UXAzR3hlQ1lwZXg3d1NMTlVyNGhXWFlpbEJZeg?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "地元園児が「交通安全宣言」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tRG83cllXaVBrZC1NU083SThwX012WWlWTDdySXU2R1dwN2xEancxdTZySHhHdUs0SUFQYVVHMC1JX1VfNnZaQzZaeUpHYi0yU3A4TA?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "「Tidaバレエ教室」の練習風景",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYd2VLSW1ueFpuSVo5R0llRTU1SE16bmZHSFRoektNMUJmWE01cmtGZHNwZmVWbXVHRDJVVjFsWENtM05zYnR6aEhyUmdvdjRncDR0T1JB?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "「Tidaバレエ教室」の生徒たち",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81b0FxZUNyNWVqNGtERlM3TWFpQzR2UHdCN2RQVjVMM0ItXzJ0TGpiM3AtdXp6VkhUMGJ1V01BUlN6cUEyYzNTOUhFay16Qk44TUl5UmdB?oc=5",
+      "date": "2026-11-05",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "お歳暮商戦が本格化",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tdTYzZ3VNVkhGeGJHX2JlWndBcVVvb28tUUJscmNxb3NqYUlyZ0E2cm05bk9pOUY4SVdxODFnVUFSclhDaHkwNUtyUnBkdGUwZHkzcg?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "民主、上下両院で多数派奪還 米国",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YSGFLVGxBUlRBYkh6eFhDSzBEOUdWRWNjSFEwWkFGa3g5NUplR1RhRlJreEg3aDE2YzZtSEJsSnB2SFJOVnQ2c21DX1ZtcVltYWtsOA?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "民主、下院で多数派奪還",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53VHU3cWdyVndJRGxUUFYyeGxTUmRudU9tWmZqYlJ6czVPMXZNRTUxbHRTUlRHMmY0V2JNVXV3YmpYaTlGQ3V3Vm5iamxRUWk3X0RNWQ?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "与野党、高市首相出席で合意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSGliUENnbUZHclRhdXg5MlFCUmJJM0hub0h1cjlCYmdFUXZjZVVhRG84Smhhci0zWF81NGpudjhuRWlteVc4Y0wzNzZFRTJoaU5yOQ?oc=5",
+      "date": "2026-11-04",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-06"
+    },
     {
       "title": "ギター大城さん 平和主義を語る 名護で教育講演会",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NTC1YLXViQk1OX1NhWWZqNC04RDI1WWlZQU5KWlkza2doMXVYYkI3b0JxVW9uTGFwdEp3b0tXMG1DWklMVS1vY3ZvdzdPNTFHYWgxQkdHeUl1VXowX3c?oc=5",

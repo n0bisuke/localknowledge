@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
+  "lastFetchedAt": "2026-11-06T01:50:28.430Z",
   "items": [
+    {
+      "title": "【公認ガイド スキルアップ講習会日程確定】年間スケジュールの更新について",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e3%80%90%e5%85%ac%e8%aa%8d%e3%82%ac%e3%82%a4%e3%83%89%e3%80%91%e5%b9%b4%e9%96%93%e3%82%b9%e3%82%b1%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab%e3%81%ae%e6%9b%b4%e6%96%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "date": "2026-11-05",
+      "firstSeen": "2026-11-06"
+    },
     {
       "title": "【国頭村公共ﾗｲﾄﾞｼｪｱ】ツール・ド・おきなわ開催に伴う一時運休のお知らせ",
       "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e3%80%90%e5%9b%bd%e9%a0%ad%e6%9d%91%e5%85%ac%e5%85%b1%ef%be%97%ef%bd%b2%ef%be%84%ef%be%9e%ef%bd%bc%ef%bd%aa%ef%bd%b1%e3%80%91%e3%83%84%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%89%e3%83%bb%e3%81%8a%e3%81%8d/",

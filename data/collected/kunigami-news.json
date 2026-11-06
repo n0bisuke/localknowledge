@@ -9,8 +9,64 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-05T01:49:44.971Z",
+  "lastFetchedAt": "2026-11-06T01:50:28.430Z",
   "items": [
+    {
+      "title": "沖縄県国頭村安波のことば 山仕事の話",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVVhWa01iUXZVMUZlVER3bVNGTFlEUXFLMENMeUlUZFdXU1Y0MWtSTkxQQm9YaU9PQVMwdVlxekhKbk9KVkkyZzdlVUpXMmp2VjVNcUR5WXg1Ry1MOHF3anE0eE56b0FpVUZIaA?oc=5",
+      "date": "2026-11-05",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "国頭知花村長 療養から復帰",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nQ1lRbTJpZGVOTkNocVNzZGZGdE04X1hOMXFUeWVQZ281NUdzV1RlWGVHZjVITHhnSWZsSm9KeElrRW1oUnVmYU1LWGdRM1NpRGZyUDd5RXI0aG5KQlE?oc=5",
+      "date": "2026-11-06",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "沖縄県産キノコで総菜4商品 セブン10日から発売 国頭の児童ら食育で開発（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdmZ3REJ0bjdIVkNISWxWNGtSS1BtdWNYOVdIOTltRFZpZkNYSG1MZnp4bzhYTS1yYS1mRG51UktZYmJnYXhMTlJ0dXhtd1hYNVlIa0hlMktLaGIyZFJwS19vRGRkT3hybUZRRWE3bk1oZUw4emEzUW5PUVVpRWs?oc=5",
+      "date": "2026-11-06",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "鏡地Ａチームが４連覇 国頭村老人クパークゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWVENyTVFNV1hzSnh2MGRPMWFDaC1MTk5IaXJSY0hubDU1N3BNZ2x4OXp4Mi1UWmtONGdzb2RzN3Z3MDNXMTlmNjVJNjVzM1NLbXhsdmlqYk9CM0ZpeWc?oc=5",
+      "date": "2026-11-04",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "現役陸上選手が小中高生を指導 JALアスリートアカデミー 国頭村で12月20日",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZ0xkMzFEdXFwcVFvdDRvTS1QNU9DZ0dqaGJWOEVMdGZIY2ppbEF2SHBMYkhjazlPdzVkWl8tTFRuOWxBMkN0S2RXOA?oc=5",
+      "date": "2026-11-05",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "沖縄県国頭村宇嘉のことば 祝儀のあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01emIwb1RSUFo3SjVZYVJ1OExJSlZtdEUzWnNDdXUwQjQ4WEpCTW1rbENFV1VzRVZ4Z2F5alNfRUZReVhvbnZMZlQxNXlZSlZoTGE1RllzUTNtM1V0TjgwTExkT1NtTWNzY2Nkdw?oc=5",
+      "date": "2026-11-05",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "現役陸上選手が小中高生を指導 JALアスリートアカデミー 国頭村で12月20日",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5icUxKU09mdmxna1NzcnNHbTlZWmtYdUlkVTViRDJmX1hjWF9LVEpTSEE5QUN4eTB4ZXlPRjNwYUQ1Y3BHWjVfQk9OOFVFcGYyWUtfeEV6U2hoU3MwUkE?oc=5",
+      "date": "2026-11-05",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "title": "沖縄・国頭村キャンプ最終日",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CLW9Hc0xNdlprODhkNHhIM3RoVzkzdTVpSHRSNl90bGdBWC1QbURrZndlSmlaLXZTbmdUbVoyRjFScGxxT3dsZEZPN0tpXzd1anZobm1GYlZPUQ?oc=5",
+      "date": "2026-02-01",
+      "publisher": "FC東京オフィシャルホームページ",
+      "firstSeen": "2026-11-06"
+    },
     {
       "title": "［沖縄days］小ぶりなでキュート 沖縄・国頭村（沖縄タイムス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90ekw4cW9UcFN1V0xsSUFUMDVoYk1HaFdOMWVCeHpPRlFUd1MyT0ZrUlBSZ1oxU3VTXzRKUWZDcHJOVS1rU3R3SVlwYVB4MVFabDlqems3MDhvTXZmYnpuNnBhRzJGU01jVHBwaGJLM2JRWmlWODlPME9TRUFzNVk?oc=5",
