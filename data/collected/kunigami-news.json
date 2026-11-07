@@ -9,8 +9,36 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-06T01:50:28.430Z",
+  "lastFetchedAt": "2026-11-07T01:15:21.098Z",
   "items": [
+    {
+      "title": "與那節（下）（国頭村） 険しい坂舞台に恋歌う ＜ウタを刻む 歌碑でめぐる琉球芸能＞20",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1STVc5bWpsTmpwM19ibWtEVExra052eG1RM0JKYllycGNkRG1rbi1XNElJVF95LTZxbzd1QnBXTHJfb3o2YnZFclMxSjBGSWZSVW1laDctRXhWekRKOGNB?oc=5",
+      "date": "2026-11-06",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "title": "現役陸上選手が小中高生を指導 JALアスリートアカデミー 国頭村で12月20日（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xSXpvS0sxcnF6cmhmWFkyMWFLeDRsSmdjR1BHQURsSDJBa3Z3RUV6cDlZdUZMMTVtS1NtaGhqNU5sM0tfZEQzekg5T2JZdmxUaHJMUjQtcHphRjRZSldLY0VoZGYtR1hnWmNZa3dXNjhlWGRaQTdUaVMzWi1EYmM?oc=5",
+      "date": "2026-11-05",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "title": "[2021年度]沖縄県国頭村との連携事業",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qQmI3NDRVNHJMOVRrSXJFbHN4UXVBVnZCVE9WTS1wT2liZzBveXpYNDVtYi12cWdmX2EwbWhfWDlCQlhBMFlfc0RMOXFzZ1RiNnVodVgwcTBrVzM5M0ZnSWxncC1XYkRqMkpUU252MjIxREVhSTl5dm1WQQ?oc=5",
+      "date": "2026-11-06",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "title": "沖縄県産キノコで総菜4商品 セブン10日から発売 国頭の児童ら食育で開発",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MblM0Wk1TZXl5TXZkRlV4eDlNcHN0UUxkQm45V3JlajhHWl94a25oY0pZX05KWWg4UEMtV2Z2WWVjVkZvbkY1VmFnVGwwemZRWW9OMmtVSWp4QWhJSTNtcG1R?oc=5",
+      "date": "2026-11-06",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-07"
+    },
     {
       "title": "沖縄県国頭村安波のことば 山仕事の話",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVVhWa01iUXZVMUZlVER3bVNGTFlEUXFLMENMeUlUZFdXU1Y0MWtSTkxQQm9YaU9PQVMwdVlxekhKbk9KVkkyZzdlVUpXMmp2VjVNcUR5WXg1Ry1MOHF3anE0eE56b0FpVUZIaA?oc=5",
