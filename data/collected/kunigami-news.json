@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-08T00:55:45.137Z",
+  "lastFetchedAt": "2026-11-09T01:14:25.123Z",
   "items": [
+    {
+      "title": "北部豪雨２年 助け合い行動 犠牲防ぐ 枝川 莉沙さんに聞く（国頭村比地） 被災経験、大学院で防災研究 「コミュニティーの力高めて」",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iNU5Lb190VkY0UHZ4eWs1OUVlYUZLS0pxdVp3ZGRwMS1KNXJFYzBIUlk5MXhMNmctV0RLWFJ0VE5mcThHaUt0SkIxbHA5Y3lrdTM0dWg4Q01xNDVhN256LQ?oc=5",
+      "date": "2026-11-09",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "title": "比地大滝キャンプ場、2030年度再開へリニューアル計画 北部豪雨で閉鎖中 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xeS02TkxWR1pWU0ZPSmV2SURrZkdCQ001OWhjUEJOeUdWZTBWZDFCSEFabldqYjBJalBEeEYzWS1JbDZDUU9ESGtfNA?oc=5",
+      "date": "2026-11-08",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "title": "現役陸上選手が小中高生を指導 JALアスリートアカデミー 国頭村で12月20日",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFpuaFlsUnYwQmJYWVB6N25qczFCUmQ4Q3ZtYWNQTGhldXNldUZWakJ4aXVDUGtibXY2MWE2RzF5Ri1taDV2UDdpaVZ3Z284eEZkZ25Cbkt2SnN2VzdSVXJuQlFZem1QbTJvSE5OUEkxSUJ2eDhTeVBXUGN2bUVRWWw0Y9IBiAFBVV95cUxQWFN5a2hhcV9BNWwybUhHRHd3Y1BzN25PS085QWJ4QlVrNVZmQU9yVEttZEl6NTFSR3YtTlZfcXB3b2t0dlQ5Q2dNak9EUXJzTHZJbU9STXpkTFFGLXVWUHI2cGZyY1lKWWVSaWxWRHdVMEh1VHNEdF9YR21zOHZBbjBaWFA0NzMy?oc=5",
+      "date": "2026-11-05",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-09"
+    },
     {
       "title": "国頭郡陸上大会 伊江村が7連覇 3年連続の完全V",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tY1puYWlkdGw3bkJDejByVEVoZlVwcnBpY0xHTUhxNDB5Mk92RThiOEtFem1STlp2Njhod2RfQnVnLUVpdUZLd0xEVnBKblV5TWgtckVLWXpadDlsQkE?oc=5",
