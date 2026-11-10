@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-09T01:14:25.123Z",
+  "lastFetchedAt": "2026-11-10T03:49:19.020Z",
   "items": [
+    {
+      "title": "北部豪雨２年「人災だった」 地域連携で目指す復興 沖縄・国頭",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwQmpDVkc3VHlDZFlneTJwcVlCajR5Q1VMSjRSX0QzVWJuQlZVRDl3Wi1pSjMyM3RoazdDU3FpUjNhWWV0eWYzT3pLaVBmOTFxaVdNYi1jNDJhWmQ5M2R5Ng?oc=5",
+      "date": "2026-11-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "村内２業者が受賞報告 国頭、国頭椿と命豚ファーム",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wZE9fSkF1UHM0dWJMRW9jeG9BcUxnaXdURjdQZnRvcXVSSTAzbTY5M3VUdTlHVC1Hb0RjSDdvbVBxODI2bzlKRjB2SzBMQml6TEZNNWM4cnJEUE9LMFE?oc=5",
+      "date": "2026-11-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "title": "「リベンジ」で旧盆道ジュネー 国頭青年団協エイサー 台風で延期、期待応え",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odjd2RlZyTmg2MFNRVGtpZHJyczJnRWZuaU9ackJXY0ZZWkhSVGFEM1J1WTVjMGEwUnI2MVBVa0JsaHhYNzNrOU9SVVNaaXZ0RFFpYlNUQ2VyTHlMUFE?oc=5",
+      "date": "2026-11-10",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-10"
+    },
     {
       "title": "北部豪雨２年 助け合い行動 犠牲防ぐ 枝川 莉沙さんに聞く（国頭村比地） 被災経験、大学院で防災研究 「コミュニティーの力高めて」",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iNU5Lb190VkY0UHZ4eWs1OUVlYUZLS0pxdVp3ZGRwMS1KNXJFYzBIUlk5MXhMNmctV0RLWFJ0VE5mcThHaUt0SkIxbHA5Y3lrdTM0dWg4Q01xNDVhN256LQ?oc=5",
