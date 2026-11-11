@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-10T03:49:19.020Z",
+  "lastFetchedAt": "2026-11-11T01:29:28.729Z",
   "items": [
+    {
+      "title": "お菓子ゲット！ ハロウィーン かわいいお化け 練り歩く 国頭の英語塾60人",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uMHlxNVhaMDFWdElsWGlYNUhyWGJPSHJTXzIxR3BfN1RXUml0RE41S0pKcDc3bGcyQWxCS19EZ2lWOE5IOC1DbjRaczl6SUw0MzV2N1pHWFJ6d2FfTnc?oc=5",
+      "date": "2026-11-11",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-11"
+    },
     {
       "title": "北部豪雨２年「人災だった」 地域連携で目指す復興 沖縄・国頭",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwQmpDVkc3VHlDZFlneTJwcVlCajR5Q1VMSjRSX0QzVWJuQlZVRDl3Wi1pSjMyM3RoazdDU3FpUjNhWWV0eWYzT3pLaVBmOTFxaVdNYi1jNDJhWmQ5M2R5Ng?oc=5",
