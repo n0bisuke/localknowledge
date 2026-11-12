@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-11T01:29:28.729Z",
+  "lastFetchedAt": "2026-11-12T02:32:14.472Z",
   "items": [
+    {
+      "title": "難しい言葉や漢字を文章に 新聞記事を手本 国頭村の奥間小学校 子ども新聞「ワラビー」記者が出前授業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85aWk0UHk4VnBIMnQ1elZPd3QyUnNrUWR1WmJPQWVYTnpZVjVBb0F0cWlRMjBTODJfb00wenN1X1o0Y0dPVVJFaTZfTlFsNGhWNkZUM19zNDRVelRIbXc?oc=5",
+      "date": "2026-11-11",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "title": "難しい言葉や漢字を文章に 新聞記事を手本 国頭村の奥間小学校 子ども新聞「ワラビー」記者が出前授業",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3UVlvR2cwRnRHX2VmaWE2NlJWVXJDZC11dWV0bWUybXBEdXF3eDRNaEZ6bS0yTkcyY0lLQ1RqT09Zb3pvMWVvd21Raw?oc=5",
+      "date": "2026-11-11",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-12"
+    },
     {
       "title": "お菓子ゲット！ ハロウィーン かわいいお化け 練り歩く 国頭の英語塾60人",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uMHlxNVhaMDFWdElsWGlYNUhyWGJPSHJTXzIxR3BfN1RXUml0RE41S0pKcDc3bGcyQWxCS19EZ2lWOE5IOC1DbjRaczl6SUw0MzV2N1pHWFJ6d2FfTnc?oc=5",
