@@ -9,8 +9,246 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-12T02:32:14.472Z",
+  "lastFetchedAt": "2026-11-13T02:09:42.819Z",
   "items": [
+    {
+      "title": "未成年に酒提供か 容疑で経営者と従業員を逮捕 名護署",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOWjBseTUwWUw3d092bS1BaW1SYXJwcVAyOVVKRGhxOXNZRm1vQzNKQTJaajNOYkcxX1oxeFM0VUNxSEJsaFBfeEVYQWxiMnZEdnV0aWtWemVYVHpDZXc?oc=5",
+      "date": "2026-11-12",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "パインチョコちんすこうやビーチグラス、限定Tシャツも！ 沖縄県名護市の名産品を12名様にプレゼント",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BdHRRRFhVTzZfMjhEaXAxdTJ5WHJuNHlDUEJYZkd2SDRZVFd0bkpkdnhBS045a2hxa0ZTS3lBNWg3Y3JBRHprRkt0aWExaEU2UFZ3VlBTLXEyNUZzcmJJ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "JAF Mate Online",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "シークヮーサー収穫で学び 商品製造・小売店 名護で体験教室、料理も",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OVzllSVJ0bnhIc2hQaEs3OTNGMVY4aTVVT3BKMDU1UWx2ZC1jUC1MV0ZTcmVYU1R3TVE3dXFSU00td0FObk5FeHdSMWVqeUFGbVVZd1VYUjB1NUxaODMybnp3?oc=5",
+      "date": "2026-11-13",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "同じ女性への傷害容疑、釈放後に再逮捕 名護市の20代男、一部を否認",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1azNDS0VabDdxTlhfRzJvbG0ydHdEenRhamd2RUVKRVVQM0NpWkhyR1ZtLTY5aHdkUDZURnpucTJENVJLUGhlSWxycw?oc=5",
+      "date": "2026-11-12",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "沖縄ファミマ プロジェクト収益の一部を名護市へ寄付 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rLTlBRm04V0l5SGItb3cyOXljWjZXSTNhRkhSanVYSUkzM1VGOFQ0RGViZFhxTjFlUjFJTXNlRjM2QlRyQWkzNlJmQUFtcEgwcWRTN253a1BNMFY4U2hQanpyMDFHVDNaNENNTEo5UnNVNUxYNkdxNmpXR1R1QTg?oc=5",
+      "date": "2026-11-12",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "名護で「ハッピーハートバザール」 就労支援事業所が雑貨や食品販売",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aMUVoOVNHNFV3SnAzelZQemVXY0pwOWhCbUVtNlhYMm5LcjNxa0xDb1lkTThMX0RCWU1TT0kwNkVuOUJ2ektRd2YxTWFpT0k3eXc?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "【オリオンビール×ゴリ】 コラボ商品が名護市のふるさと納税返礼品に登場（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01M09Ocy1wNFV6R0NrZnpoMnFwR0hMdDZRMUpaTzRNZHZUYUJjcmVVdjFxTVdyOF9oV1ZtWXp6UTBsdnBIdzJKS0VYa2RPN256YlQtZEdta2NNM0xDWHBLQ21ISGhha3haMnpPckV2ZkdoWlE5SnYxTDFuM0VBUzg?oc=5",
+      "date": "2026-11-12",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "元名護市長 比嘉鉄也さん告別式（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13a2VEZ1NScnY1eFhuS0s1XzJLemZQb2FnVF9VTDRLcTNseUlrTWZCNG1wcjZCUkMxV1MtNkJtME5EcEVxVG5KVWRHU2Y0cTk5a0Q0YUZDWUZXOGxNU0JTVXdFZ2hUNXBUb20xZXFDaFMwV2xTaVNPQ1ZmaWwxOUU?oc=5",
+      "date": "2026-11-11",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "前回のイベントの様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kelZ6Y3B5bllsWFFCM2J6ZTJVbHZ4X3JfSUxJYVBlLWNrRHY5MWF1TWp1OUxuNHRibzUtVWxxb29Hb0lWY0o1TklsMEg1NV9PQmJTZlhn?oc=5",
+      "date": "2026-11-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "沖縄ファミマ プロジェクト収益の一部を名護市へ寄付",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERnlvLVdKV1UzMDNvS1RnMm83aEYzZzFpMzFuNGI3bXNYVnVZUndXSU1QVDNhdmx2MTV2bnBPM0tSc2o3ZnZxYnFEbGVHQkZFYWxmOXltam80dw?oc=5",
+      "date": "2026-11-12",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "女性に傷害容疑 ２０代の男再逮捕 名護署、元交際相手に",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BSVhpdTVRVFdlRFFkX29xUmtzVTRfMUM1cW9VOHBTNVJNNWpmX1BtaThjNHkxNTNvTUlDMzZBdXJxeUZGZWx6dHU0dHQxMVpubWp0SFhVWXFiV1VuS2NCXw?oc=5",
+      "date": "2026-11-13",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "名護で「ハッピーハートバザール」 就労支援事業所が雑貨や食品販売（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VUF90ZDliSHJvNm42SldQZGYxOUpTWE1wNDVfWVkyd0cwa0plSjJ5Q1dPN0NJYmlSY0M5U0tLMElya2NuY3IzOWx0cUozaWI2UEdzVmEybDFHVmlmc2V6T2huZXFROVVmQUVQRDJsMHhkQk1xQWc4Z1pYYzFvUW8?oc=5",
+      "date": "2026-11-12",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "約1億2300万円所得隠しの脱税事件 貨物運送業者の代表が起訴内容認める（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRFhMSGdSd3VPZWVRckNIS1BpN3dEVG1Td0RRTFhkakExUmJXUW5OalBSdE9jR3E4YmRFY0c3SWNGMlJ5X2pYc2c1anZLVTZBbVA3VGVKN0dwR0JHTmlNYnlhMjcyak5ISlk4NWVpc2k4U1ZJVGlRcjFaZlF4bDA?oc=5",
+      "date": "2026-11-11",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "勝みなみ、６１で首位発進",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJZUl3YklNTDlPSVFBX01lNVJaenp4S3pXcGF1SkltUmRRbmR1cTlJbldSTzZUSEh0LW1XXzNIeVBaMkdNcTJmNXhmZDN4cGxFRFpOTA?oc=5",
+      "date": "2026-11-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "米首都中心部で銃撃、１人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmcmRfZFNCRVVRWUpFYnludkluMHk3LVZrbVZUTVhoWF9QQ2N3UlNUSGVZd3VyM2I0NHF0WDdUYlh0YVJMaHdDblQ4a2xjZk9udFk2Rw?oc=5",
+      "date": "2026-11-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ガザ病院犠牲者を悼む人々",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aVpJVkREeHBVWE9nV05JLVR0ZEQ3ZEZkdEtOQUl5STNuNGJ1T3FZWUFhWllTRUR1MWloUDhKTFNPbEhTSWJvNjhwSXlkVUN5SlBfaA?oc=5",
+      "date": "2026-11-13",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ハンズ渋谷店、１５日閉店",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93QlVZWEQyN1NlczVJMHlJOV9NcjFxX1QzaEZ6bkRsZTlXa3FkOTJfSmJGLW1mZHAzel9wN2tuYjhOY2ZrQUR1MF9XRExCd3pobnBZZg?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ミジオロウスキーが初受賞 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wQ2h5R180MVN6TmxXcVU2alI2NDQtWGhCYlZoeWJuYV9ZZFM0c0k2Qlp1aXZCMEZiZk5QLTZQenlrdHR0YmxVeENTZVVwODlfUGM1NQ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ローマ教皇を彫刻で歓迎",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XV214T09iLUdGa05NaDh3OEJvZkhXd1A4V3ZjQzVlSjN4cXhyWm1pdEhvLUFWajgzUlo1Z2I5RjFZeE11ZjlwUWItT3lFNTM2Qnk5SA?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "被爆者団体、安保文書改定案に抗議",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZN0k2N3IwcDB2RDlkR1poTkROek9pamxCa21LMF93RExsY2xCTHFjalZPSGdrT21oN3Y2OHRGVmVIOHowanh5cnYwd1pyaXhXUlJTVA?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "不要なクレカ情報削除せず 良品計画",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jQ05wZ0I3a1Z1bUdiSy04XzFERTNOaTloaTZmNHZDWUtwVTgzV0pUS1lpM1FJb3JuU0ZoaFBPeG04Nk9vMHQzZUkwdURhU3lRcVY3VQ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "今季初の鳥インフル確認 京都府",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ySHlIWnBadndPdkw4MFJRRHhIWnRMUnpVbWJnc285M3dxWlp3ZGtJRlppbUNhNFlhaGxqZllXWWpfQm1nSGtpOVVfcHRfOUlfdWQycQ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ローマ教皇、「第二の故郷」ペルー訪問",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80eS1faGt0N3JDeG9JVFFSaV9VOU1IdWQ4cm9ja3lkQnBWVVZ5eFNzYlJnNUcyQTZzd3NLUXc1ZUcyb3IyWm03MldtcnpOUk01MUstRQ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "ビル崩壊で２人死亡 ＮＹ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OLW1oU1V3V0xFcWFpTDdhT3VRcjFQU0dwTkpQaEtfTDJVSERQNmlQaVRRSEZ2cVhpNGV5OEQ1eHJRU1h5Q19GTTFVMGN2bFpjWjhoMA?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "畑芽育さん、今年の漢字は「動」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbXBIY1BKQWVtcVBjR0xFa1EtcFdWdmNsT0N5UHJsNWcyeHdPV29sd3M0bjNWS3B0dmxkS0ltbl9hMUJQRDVVNU5ySktLWG8xOEp5Xw?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "衆院憲法審、９条巡り集中討議",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JaTFmVkp3OGRiaFZYUk1JQVBXcEZ1MlZuMFU5by1UaFA5cnVvNmo0dFBvSkdFMkZmNk1vbUR5T01tZjdLMnF4WjNtNTdRaEJOcXlZYw?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "オリオン「75ビール」に限定マンゴー味 ガレッジ・ゴリさんとコラボ、25日発売開始 名護市のふるさと納税返礼品にも",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HckJ3TWdUVVRRUUFVOFZJbmhsVDA4Q01zdzUxQ29SckRKV1ZMRHlDVXJVMkhtbWVWM05pdDJ4SnFYWWhoZGZiczRRWQ?oc=5",
+      "date": "2026-11-10",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "自維国が定数削減法案提出を最終確認",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uV2lYVUlBdWlGSGp5STloZDE1MEhuMklCckN3NHhWTHRqZ3hDNS0tRF84VDNwVTRmSWdZU0hmRmp5bEZWN3M0UmVzMXUwckpfa0E5UA?oc=5",
+      "date": "2026-11-12",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "同じ女性への傷害容疑で再逮捕 名護市の20代男、一部を否認",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1NIa2E4bG45aURvZzNHZEh2VzhpNlc3RmZnMXVRSWlqZTV1eXAxcy1TTkE1RGFyS2VUSUVCeGJ2amxEYjRPaUNuTER4a0Z5RTZudUx1RnBkZWVIa1JzWjhIY1pSbmZmX00zZGZVTk1rZUFUcm1mek9rclFSQ2NJSQ?oc=5",
+      "date": "2026-11-12",
+      "publisher": "UQライフ",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "沖縄県名護市付近の天気",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qc0Jfamt1azJXUUM1ZzdDSVppYUR0aE5ia1lIdFpUeVU4VWoyZUdzb2U2NXNIUXVLUVhIN21NLVI2UFJZU1BlVFY5U1VlZWRS?oc=5",
+      "date": "2024-02-27",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "トップ 放送文化資産 戦争 名護市 沖縄武田薬草園跡【戦跡を歩く】",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcWF2bUtnbjdiTjVtMHRhVnpkVU1zampnODBDRlNONkNmQ3ZvVndRclhDLUEwd1JwZTdidDdFd19mTk9BYVVSbUVCbVZoRWVSNlZoM0NLSjNpUnRpcUpGQ1Y3LWstTW1rQjgtdw?oc=5",
+      "date": "2023-04-10",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "「名護市庁舎」が更新検討の基礎調査を開始、「画文家」の自分にできること",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Zd2FoSjJIYXRFTE14T1VtZDNQLUtHazcxU2MzMkdtY2U3TTNEdjlYUWRvOXdfSjhiUGZ2VGlGN1hMSlFuMGc?oc=5",
+      "date": "2022-06-27",
+      "publisher": "BUNGA NET",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "名護市辺野古崎沖合の長島における 鍾乳洞の詳細が明らかになる",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIT1NuMnV4VDg1YkFSRDhTdGdzekRmbXpJNmRCbjZGZUFldzdTOWN1MHRxSUFTa1FSTzVxLXVUaW9nd3Fwb29laUhkWUJTOU9Xa292Z1NwUQ?oc=5",
+      "date": "2021-08-03",
+      "publisher": "自然保護協会",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "沖縄県名護市の天気予報(1時間・今日明日・週間)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jSDk2QVlFYkVJVzZKYVlhUkY2Z0ttWXF3MGI3b2xub25aQnNOdG9NeDZhYXJ6b0N6UDZGVnJCazBFN291WU1DQk14Nm1IVjF4bGpwOENGNEhUWS03NUlR?oc=5",
+      "date": "2019-07-31",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-11-13"
+    },
     {
       "title": "釈放後、再び女性に暴行か 名護市の20代男を傷害容疑で再逮捕 容疑を一部否認（沖縄タイムス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CV0FDTDE5OTBZZG5hTUdnYl9UdFJmZG9Hd0xncjJjLVpNVUUzeVlfdnZKTDhjc19oTnoydVVLOHA5TXR4S0JrWnJROW5UM3Zfc0l6UzJBOVM5Tng5dW5xUXJITExobU90MkVNa3FoSk04TGlEemxqTDNwX1Z6V3c?oc=5",

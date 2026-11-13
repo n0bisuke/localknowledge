@@ -9,8 +9,20 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-12T02:32:14.472Z",
+  "lastFetchedAt": "2026-11-13T02:09:42.819Z",
   "items": [
+    {
+      "title": "｢国頭村辺土名地区定住促進住宅整備事業」 公募型簡易プロポーザルの審査結果について",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_kikaku/%ef%bd%a2%e5%9b%bd%e9%a0%ad%e6%9d%91%e8%be%ba%e5%9c%9f%e5%90%8d%e5%9c%b0%e5%8c%ba%e5%ae%9a%e4%bd%8f%e4%bf%83%e9%80%b2%e4%bd%8f%e5%ae%85%e6%95%b4%e5%82%99%e4%ba%8b%e6%a5%ad%e3%80%8d%e3%80%80%e5%85%ac/",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "令和８年度 国頭村産業まつり『地元サークルコーナー』について",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_nourinsuisan/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%e5%ba%a6-%e5%9b%bd%e9%a0%ad%e6%9d%91%e7%94%a3%e6%a5%ad%e3%81%be%e3%81%a4%e3%82%8a%e3%80%8e%e5%9c%b0%e5%85%83%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e3%82%b3%e3%83%bc/",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-13"
+    },
     {
       "title": "～里親募集中～（26102302）",
       "url": "https://www.vill.kunigami.okinawa.jp/sekaisizenisan/%ef%bd%9e%e9%87%8c%e8%a6%aa%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bd%9e%ef%bc%8826102302%ef%bc%89/",

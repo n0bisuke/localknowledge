@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-12T02:32:14.472Z",
+  "lastFetchedAt": "2026-11-13T02:09:42.819Z",
   "items": [
+    {
+      "title": "沖縄県国頭村宇嘉のことば 朝のあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZGFQU1NDNkt0Mm8zXzFac0QtemtVcTE1eHphdVJyWHVrc25RRE5KRWV4R0RzQzVJV0FqLWRCT2hibXl6aFpPQ084dlJuMlRXM0dxLVJwQUEwdkYyb0RMcHlfdVJoeHpVMjdmbA?oc=5",
+      "date": "2026-11-05",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "title": "沖縄・やんばるの森に生きて 国頭村観光協会の比嘉明男会長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wWVdfX1FadnVOdzRsTUJxQ251MHpzUGZyNjExbVZOck9uUDBKa0FUd0EwUGtvQVdDdjVrdG5Vb1dpeEN4bTRFMGNGVmYzTEx3OGNud2pmWk91OHNpeWZ0UUc4dXh2cW0tUVRFZA?oc=5",
+      "date": "2025-01-31",
+      "publisher": "日本経済新聞",
+      "firstSeen": "2026-11-13"
+    },
     {
       "title": "難しい言葉や漢字を文章に 新聞記事を手本 国頭村の奥間小学校 子ども新聞「ワラビー」記者が出前授業",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85aWk0UHk4VnBIMnQ1elZPd3QyUnNrUWR1WmJPQWVYTnpZVjVBb0F0cWlRMjBTODJfb00wenN1X1o0Y0dPVVJFaTZfTlFsNGhWNkZUM19zNDRVelRIbXc?oc=5",
