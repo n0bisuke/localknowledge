@@ -9,8 +9,50 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-13T02:09:42.819Z",
+  "lastFetchedAt": "2026-11-14T01:50:25.709Z",
   "items": [
+    {
+      "title": "比地大滝キャンプ場、2030年度再開へリニューアル計画 北部豪雨で閉鎖中 国頭村（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ObXhIYWtzeTRNa1dIdnNOMjZ4UnBXcVJzWnpVMmF4RU9DeEhvM3U5c3dCR2wtSW52dXJyWHY4Y1Q4UG5hUFN5cGR3V29oWkJFWVJFbm9kTGZLenZwbllRbXEzeTZFMGtnZUZlUW1yOGg5TlFOeVJYUDBSQldGSGc?oc=5",
+      "date": "2026-11-08",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "title": "難しい言葉や漢字を文章に 新聞記事を手本 国頭村の奥間小学校 子ども新聞「ワラビー」記者が出前授業",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3RteGNPd2o2NkktanYtTVJ3ZEREMFlSXzF6azVMZUkzVWpIdVdoUkN5ZUFkNFUzM1hkZUxlU3dmR1N4MTAtOEl3S0RVa2gybDdaSjBHLV9ONVRQMzBPbTFRQWo4bGtMYjZTQzJ0NHVzUURXelBCT2luVzZzdUV2MEpVONIBiAFBVV95cUxONFhqX3YtcTlfQWdybjFyb0w2dFZZbFRzblZCRmxnOXEyWjRzRk9CdTB0T0w3OWJqWWduY3kyUHllaUU1RWdzZzZQZDBkNnloZ1pfYktqNjVITnhiX1NBMzd3eW54LTlob3ZBN2RlSndqbjZWenA0M3dCMnpZVEhNelZPLTR2eGZi?oc=5",
+      "date": "2026-11-11",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "title": "沖縄県国頭村の道の駅、太陽光とレドックスフロー電池を導入 - ニュース - メガソーラービジネス plus",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIUllHU3NIakdDZ3VXSDhSU2swV05xeXlRb3BCbnh1R2dITzR4WVlYTC1fRTFsVld0V2xaUmNLa2swa0RHNV9RT3YzRkdGRjVHTlpPMlBHdDVCMGlZRThqYWhaM0RSN2haUldFeVF0Q2d1RVdV?oc=5",
+      "date": "2025-07-16",
+      "publisher": "日経BP",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "title": "共同売店の存続に危機感 国頭村で住民ら議論 [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KamdpSmFENU1pZUx5VjZjWXJGUnNKakwxT1FwRV95VUhoMzdRQVFEdG1HM09BM3F6bnNCaDRVMHh1Y2hxanJERHBqUUZ3a25GRTY4Vjk4MUhCLWNDQjA4Q1FiWktlQQ?oc=5",
+      "date": "2024-02-06",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "title": "バス配車、AIが最適ルート提案 沖縄・国頭村で6月から実証運行 [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWXBzM0xNcVVib3NCOWhad053czdaemhvRTdPLTZ2WGpsYlk4d1M5T1lSRGVfaDk2V2tlWUVIMGlOQzdWZDBwV08zTTUySE5LTWFLTkNQcVZ2LWZsNGRHUFE5dFdPclE?oc=5",
+      "date": "2025-05-31",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "title": "国頭村の体感温度指数",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcVRVNVJoOUI2Mnp5TzB4Y1pzcW1lM3dyWk01QXdGUGZydEhpY0J6RXZwOGhXWjIwNFNwVnJ5OUotdXhIZ3FfLU96aThaTjlwMUhoNlY5TWV4RTh4X3BaOERB?oc=5",
+      "date": "2021-01-21",
+      "publisher": "tenki.jp",
+      "firstSeen": "2026-11-14"
+    },
     {
       "title": "沖縄県国頭村宇嘉のことば 朝のあいさつ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZGFQU1NDNkt0Mm8zXzFac0QtemtVcTE1eHphdVJyWHVrc25RRE5KRWV4R0RzQzVJV0FqLWRCT2hibXl6aFpPQ084dlJuMlRXM0dxLVJwQUEwdkYyb0RMcHlfdVJoeHpVMjdmbA?oc=5",
