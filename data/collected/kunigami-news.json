@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-14T01:50:25.709Z",
+  "lastFetchedAt": "2026-11-15T01:20:00.858Z",
   "items": [
+    {
+      "title": "沖縄県国頭村 「地域活性化起業人制度」による派遣に関する協定を締結",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWnRaTWtqcmJsNGhfdFRDWDRBVHRmMTdWbGVRREJ2UGNRZjNPWWFTa3dpREtPQUEtWVV2VEppbUVUb2dhdW5pY1JWMlU1dw?oc=5",
+      "date": "2021-10-21",
+      "publisher": "www.his.co.jp",
+      "firstSeen": "2026-11-15"
+    },
     {
       "title": "比地大滝キャンプ場、2030年度再開へリニューアル計画 北部豪雨で閉鎖中 国頭村（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ObXhIYWtzeTRNa1dIdnNOMjZ4UnBXcVJzWnpVMmF4RU9DeEhvM3U5c3dCR2wtSW52dXJyWHY4Y1Q4UG5hUFN5cGR3V29oWkJFWVJFbm9kTGZLenZwbllRbXEzeTZFMGtnZUZlUW1yOGg5TlFOeVJYUDBSQldGSGc?oc=5",
