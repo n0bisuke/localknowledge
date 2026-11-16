@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-15T01:20:00.858Z",
+  "lastFetchedAt": "2026-11-16T01:25:42.523Z",
   "items": [
+    {
+      "title": "２/1(木)ファーム春季キャンプが沖縄県国頭村でスタート",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sbDNZRjdmS1p4NGY1aFdDQTZqcUhPcXRzVlExbVJSVVluU3BRcDhKUHRzNElqNnM4Q0pZbmU3YUlCcHJuUHcyZ1dwRnhKbGV4STYxUGlhVms2ZHUxYkFLUlFB?oc=5",
+      "date": "2018-02-01",
+      "publisher": "北海道日本ハムファイターズ",
+      "firstSeen": "2026-11-16"
+    },
     {
       "title": "沖縄県国頭村 「地域活性化起業人制度」による派遣に関する協定を締結",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWnRaTWtqcmJsNGhfdFRDWDRBVHRmMTdWbGVRREJ2UGNRZjNPWWFTa3dpREtPQUEtWVV2VEppbUVUb2dhdW5pY1JWMlU1dw?oc=5",
