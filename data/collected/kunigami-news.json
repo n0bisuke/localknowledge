@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-16T01:25:42.523Z",
+  "lastFetchedAt": "2026-11-17T04:12:07.365Z",
   "items": [
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xb2JKWU9DY25sWlpOMUpMWUEwR0dMWFRWUXZiaGlRNmRLd3dZZ0dOMEFqdDgtWW5PWVc1NVM4NDN4LXZNN0Vmc3JGdGx4eEIxQVhXTGd5QzgwYWRXYmRzOWMwdmtEWkhTSlE?oc=5",
+      "date": "2026-11-16",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-11-17"
+    },
     {
       "title": "２/1(木)ファーム春季キャンプが沖縄県国頭村でスタート",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sbDNZRjdmS1p4NGY1aFdDQTZqcUhPcXRzVlExbVJSVVluU3BRcDhKUHRzNElqNnM4Q0pZbmU3YUlCcHJuUHcyZ1dwRnhKbGV4STYxUGlhVms2ZHUxYkFLUlFB?oc=5",
