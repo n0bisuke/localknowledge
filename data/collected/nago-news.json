@@ -9,8 +9,239 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-17T04:12:07.365Z",
+  "lastFetchedAt": "2026-11-18T03:08:56.740Z",
   "items": [
+    {
+      "title": "ひき逃げ相次ぐ 名護市大西と宮里 小中学生けが 沖縄（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdUp6TjJjWEcybHlpMHlSZDA1bDNlXy1EampWWWhmSTg4M1diS3phTHZMdnZONkxDVGFva05xUWhZdjRlQlVuNHhjWU56ck1aRlBIY0RLNDFkS0hEbWhqc1FkZmFsVjkzUzBkZUhaLTRZdzdSeG8zZ1UySmxDbms?oc=5",
+      "date": "2026-11-18",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "25分間にひき逃げ2件 沖縄・名護市で相次ぎ事故 小中学生が軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43ZGhKREU3Z1dMejRYYUxBVTQ0eU1keWszSS1oY19kNFJCRFZfRTA4SjNvcFEzdTlkZ05wTFZ0dWNSLTRuUW1ZYnpvN2lQNW1LNnlFLThXT3F3WkZCRnc?oc=5",
+      "date": "2026-11-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "県民スポへ４００人気勢 名護市選手団が結団式",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pdVZzeEdiYnl4YWQ3c19rU3VfS1ZkMENsR3J2bzZfRHI3UW5yYk9aaDdxSm14ek9fSVo1UVhlN3c2ZUlOMUZTdVM4ZnpqM2k3SmUwZlZzakJaQTlOSEE?oc=5",
+      "date": "2026-11-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "ひき逃げ相次ぐ 名護市大西と宮里 小中学生けが 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jSnNfUmx2ZEdoaHBweUNDZjJSQXlJZWdhYS1RdUs0SnVUaGpOUkZTcTNBYXdtWlhaMTlLLTN6NXpjRmVxSDctb0I0MA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "沖縄平和運動センター、辺野古・シュワブ前の座り込みに今後参加せず 「継続は困難と結論」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYXVxbU9fc1lRczRGNUdwZnRZeF9TSVRFRlFqeGlPcWxXZERqeTY2TXdCc09lVFlhT2lMeTUySzdlX3BGaVlQdUpqMUdEdllNaTRXbUNMem5HcnhWMVE?oc=5",
+      "date": "2026-11-17",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "市民 琉球史劇上演へ 名護22日 今年は「モーイ親方」",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKaUJuVU82U2VjT3l5TDJSamlRSVpPclFSS2VhejU2NGRMZVg3LUhJNnNyMUk0N3hxSzZnWDc0TzZKQmFETmx5NnVNaXZKZUVBY25QU01CeWdkQWJVV3c?oc=5",
+      "date": "2026-11-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "写真：名護市の建設会社と代表を書類送検 名護労基署",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fRm9LRjIxdVVHUXIzV0hDb0xoeWV3dzJ2U2c5eUJ3QTlhM2lLZ1EweGEzbmZFNmVTZnVYczF4Zm5EMWViX0FtM3JPRVdsam0wV3Y4Y0VqTUtMUTJTZXRXSm5ZUXRfZw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "「多くの人に見て触れてほしい」 グラスアート作家・堀木さん、名護市で初個展（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRUdvV0lNX1dyZzJNOERlMFVYNjFRbzBGWkd0T0JmRk1lQ1RhOXBHdzRYdmZLTDFpaVg2RXVYVndnelF3clNEUjBZUlViU0lRWTB5U2J5X2pMaS1MYXpucjhJRkFtWWpxNkR0TjNZVWdwaV9OWHYyNDBQb3lweGc?oc=5",
+      "date": "2026-11-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "呉我集落の移転290年祝う 300年祭に向け思い新た 沖縄・名護",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZVmU4enp0bEE1UXZTZ3dEV1BSZkktV3Zwb09EU3FYRlVjV0F4Tk1lcmxBd0l6THZDS3dCVDRyNmVUa3lRbVdERlp3d3N0c2htSm8xTl9oNmtiTnBSNXc?oc=5",
+      "date": "2026-11-17",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "名護で海洋研究イベント 無人探査機操作体験、宇宙・南極トークも（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OakhFRzllcDJpbTdFWHl0RTFQbEsySTlZakhBTVlWYnkyVzRRZXRBMVpWQldzZDFJbGJMLWRHYW41eWc3bmZqMk9oaVBWX1V6T3A0OUtYM2FzX3ZmZjR2TWxjOWNHd3BLUzlPTldGU0ZrYXVUei1yZG9HUHZRc1U?oc=5",
+      "date": "2026-11-17",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "名護で画家・鈴木靖将さんの作品展 日本画や「ごんぎつね」絵本原画も（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13cTdfUEVtRUJ0aGRyM0ktWEdOQjc2b1VvWnFhUjJxbGpkRTJMNEt4TEVMYlBiNnpLaVFybFY5ZFMyLWdEZnNSNEx4b2MtNXVRaXU5Q20wd3lRLW8yN1Bvb1lRVnZ4SzNJakhOV1I1anZMM2pqYnZ4c1VGYmFGcTg?oc=5",
+      "date": "2026-11-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "25分間にひき逃げ2件 沖縄・名護市で相次ぎ事故 小中学生が軽傷",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xSzZLdG5RUUtCVFBqcVFmMVJZcFRLbDlyMm9ETXhrZGRQSlVQZmJHUlhUZlA5SDZUMVRfcGNZZEhjYllsbElvaS1Ibw?oc=5",
+      "date": "2026-11-18",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "25分間にひき逃げ2件 沖縄・名護市で相次ぎ事故 小中学生が軽傷",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tODV1aFZxTW5lQ1NWVzAzelJDLVJhekVUNzMxODVIengzX3BuVGpkMGppUTZjQTRKUXVkWk9ObHBGcXFyaEhiRnktVHBmRXF5alZMZFdWd3Q0cllEMGdBSGdzWXZ1NFhJajdnMms2SU9ONHNaNmdnTA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "ひき逃げ相次ぐ 名護市大西と宮里 小中学生けが 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VG5wQUVhM3hNV3YxYnlRSVYwZGo1R1YwZnAzV3pMaE9DN1RkNlRsSHhtRnFTa25QUVZiUktmeE9uVTdhaENiakR1YTJvWFloT2V6d0xNMTZqaG9UQko3bw?oc=5",
+      "date": "2026-11-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "名護で海洋研究イベント 無人探査機操作体験、宇宙・南極トークも",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Cd0VKY0pmQm1LLWFXaGhjak4zSk02dmpCdlFjQWt2dEFkOHdLc0lKVm1uTVZMY0R3bUtQVG45eGNNSmFZem5mYlhFcHZ4TWJaNnc?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "前回の「GODAC一般公開」の様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqQTNjWmlGMi1qNjZXR2FOSGlDOVBVaVRoRk5yTEprMFZmUE9yLTh3U3hzalh5SzJWMW16WU9odFlBS0l1Y2xLTG1PNGo0R01sOFpSeUh3?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "平和運動センター、辺野古の座り込み終了 組合員減など「継続困難」 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03SjlLbVZSWVRhZjN4TWRwZUR4dmpRa2d3VnJaLTFkcml3VlFMNV9oQ3JGTGNTZS15OEFkNEdCa3B4N0VkMGZLcmhqbmNDbWx0QmpBQmNBTXk5dGpLN3E2Mg?oc=5",
+      "date": "2026-11-18",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "晩秋の空に映える大輪 サキシマフヨウ 沖縄・名護市",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0a21xUWZXNElpaTZXUGdnLWFaYjl2c1ctM0RsQ01pMW8yV1NLM2wxRW9oZGVyaDFJTzgxVEJWYldKTlludE9uYmxUT0NwdnJraEJfSGtDME1DRHZuOUE?oc=5",
+      "date": "2026-11-15",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "太極気功で病気知らずに 林さん 21日名護で体験会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RlRFS1AtRXc2dmRyRWZOQ2JuN01CZW9ndWljWGRKdmpHX0Q0aWlHWkd4WVlnUkE5emVvbjlXeEQtN2FfTXlBc2RSZHVaLXlRTVBBa3MxMGlaS2lCU0E?oc=5",
+      "date": "2026-11-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "［ひと粋］最年少で棒術を披露 大城諒佳（りょうか）さん（7）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aaEY3QXhta2dFYjBkWUhGUDRHbmVhWDBFcTkzOHZOMUYxQVpkTnYwLTdqWnBtWnFPSnF0LW9OZzlpSE1aYjQtNkNvT2tDUFdPdkJJQ09FUURtSk0yVmc?oc=5",
+      "date": "2026-11-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "タイのミャンマー難民就労支援",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91d0hLT1NZd1A1MUl2cUdnTFFvaFJPS0lYbWtXd3hEQ0xFTHhGMXVzcU5FQ2J3OUxiMWZNemxRQVB6b192Q1REV2lTaGNmcW93RVROSQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "森保監督の最終戦飾れず サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50eG1VZW5ZcFR2Wl96Y21tVjhzQVpUeUFjN1k3SUNsZS1UeUNqdkx2SDhpOXd6NUpud0NRa1BobkFJNjNfWDVvRTFHb19mUDNOcDh2aQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "矢野らがトライアウト",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GMXUyeGJTSjM5RVdyNnltckxpemlNMm5FdkJOSlpndFRRMmt0eXRKODRoOUNxbkVLYTctOGEydnplTG5SemdaMjlESU1LdkJFaW84Uw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "アンモニア燃料船を公開",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54aFdUdGpxZ19EX2JzZkRiNmJEOHF6eEY3QXVXZXpYbXJRZmdEQ3czd0xIQVdCVEFpMDhqNHZPUWh3cm9YakhOVHZ0UDJfU1N0OE9Oeg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "日ロ首脳、中国で接触見通し",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yai1uYXpOajQzR1BHRjhuMDFsRG9SUERRNVFKall4UXFJUW4xdWcyTVZPOWU0RHJfbkIxdjQwRU9Tajk4bjJ0ZFlmYjlBVTZkeTUtUQ?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "モンゴル大統領が辞意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5odUx6TW9WQU9iQXdzczhYX25WSTB0RHVVcmM0ajNUZF9nM2dCNHlRaVVQSkY5UW51ZUxNdk93bF8zUlVBRWYzZTh1a0VTUXNrcldWLQ?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "ＡＰＥＣ開催地は厳戒",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15V3NmS2FDdzlaYkdGR25wOHJvNFJzRFVuTFZKN1VEY0Z2OTRuVlZfRUlhaXpMamdsV19MOWtreTBhVzNabGtVYl9KTndiMjJvNU1NNg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "風太２３歳、ギネス認定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xeEVVX1lWODZDQkhhQ2pWejVDdlk4RE03ZzdXNlpJUTkycU14Zk9fNE5XbFlUeUZyVDBLN3dUQzByQURhT0l5T20yTG44WHNiS2s5Zw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "カボベルデ大統領が再選",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxQlVheTRmZzZRZFpOeGI3TUNMbXF5SGlmUktSLUg4OHpDUEhCWDdCUGYyT0JMSGFLVURhVzk3ejVpOWNhdW9OTnFjSlZHWm5wMDUxUw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "米中ロ、共同コミュニケ発表へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91dW5vRng1MGRxRDBtc2JvWlBCTXJLSjFMTHFRVDZsZ29TazZsQUtXaFhFODBlTXl4V0dlZ09WR3h0T1FnMGN2eXdxYWx2cUoyMURfUg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "７代目ボンド役にパティンソンさん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fTmhrZ25kSmc0NzRPMVROVDVBRFZQcUdfaFB4SWJXVmJPTTA0NlpnNE52bDQ2M3ZzQkFYc2Qta2ZIYTlVb1BBWmdyRjZLZk1yVTlqNg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "沖縄県名護市付近の天気",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqblBlc2lycUtyOXppSmxhZWRKaHFHTXdQV0xmMnJOclV3VmxkU0hkT1A0cHdTMnY0bGhVcGhPUlQzamh1SHRfT21IZlZJLVFKdnFlRm15bW1ReF82Q3VEN3NzSFIzTjhvb2MzdEY3Zno?oc=5",
+      "date": "2024-02-27",
+      "publisher": "ウェザーニュース",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "title": "「名護市サッカーキャンプ実施についての記者発表」に原靖フットボールダイレクターが出席しました",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CVVBCdTN3WHl0aXdmOHo5eUFDQ1d5bkJZYVM4T1RTaWtMQXFsSUxsdy1KMDRjQWtvSi11ejh5SEZQQlZ3dnBXTUNTY1djNUoyd1JtUg?oc=5",
+      "date": "2023-12-08",
+      "publisher": "町田ゼルビア",
+      "firstSeen": "2026-11-18"
+    },
     {
       "title": "小中学生が相次ぎひき逃げ被害 名護市",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TeTRJUk9BUGQ2ZHphSkRYM0l0WGc4Ul9xLW9oSEFvb2k2U2FiaDRxZnczT19RSFFJWmpNbWJKMWNIQTBDWlE5VndIUk1hdzcySklUODBhVQ?oc=5",

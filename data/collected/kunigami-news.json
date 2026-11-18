@@ -9,8 +9,15 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-17T04:12:07.365Z",
+  "lastFetchedAt": "2026-11-18T03:08:56.740Z",
   "items": [
+    {
+      "title": "辺土名小児童 ポップ制作 国頭 セブン－イレブン、食育授業",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcm5xMFNwcGRkVlowTHBMYmM4Sl96S1hxN2Z2QjFWMjdNQXJBMjNINEhSZzZQSEh4OWR0YS10U3ZIZ0pLR2laOE8zeTNua19qRTkyZ2dIWWZSMUVsWGc?oc=5",
+      "date": "2026-11-18",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-18"
+    },
     {
       "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xb2JKWU9DY25sWlpOMUpMWUEwR0dMWFRWUXZiaGlRNmRLd3dZZ0dOMEFqdDgtWW5PWVc1NVM4NDN4LXZNN0Vmc3JGdGx4eEIxQVhXTGd5QzgwYWRXYmRzOWMwdmtEWkhTSlE?oc=5",

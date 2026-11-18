@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-17T04:12:07.365Z",
+  "lastFetchedAt": "2026-11-18T03:08:56.740Z",
   "items": [
+    {
+      "title": "第57回 国頭村新春駅伝大会の参加について(ご案内)",
+      "url": "https://www.vill.kunigami.okinawa.jp/event_joho/%e7%ac%ac57%e5%9b%9e%e3%80%80%e5%9b%bd%e9%a0%ad%e6%9d%91%e6%96%b0%e6%98%a5%e9%a7%85%e4%bc%9d%e5%a4%a7%e4%bc%9a%e3%81%ae%e5%8f%82%e5%8a%a0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%94%e6%a1%88/",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18"
+    },
     {
       "title": "第2次国頭村観光振興基本計画策定に向けた村民アンケート調査について",
       "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e7%ac%ac2%e6%ac%a1%e5%9b%bd%e9%a0%ad%e6%9d%91%e8%a6%b3%e5%85%89%e6%8c%af%e8%88%88%e5%9f%ba%e6%9c%ac%e8%a8%88%e7%94%bb%e7%ad%96%e5%ae%9a%e3%81%ab%e5%90%91%e3%81%91%e3%81%9f%e6%9d%91%e6%b0%91%e3%82%a2/",
