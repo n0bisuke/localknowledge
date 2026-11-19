@@ -9,8 +9,155 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-18T03:08:56.740Z",
+  "lastFetchedAt": "2026-11-19T02:50:16.186Z",
   "items": [
+    {
+      "title": "子どもら野菜植え付け 名護市親川区、２０人が参加",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpeHFRby02R05vLWFwUzZVY0V5S3hqdHpRYl9ULXBDREVFdU9jNTVQU3dqV3UtYUU1SjEtSDRJQktKQTgzTHo4SThOYXB5bUprUlBmdF85QWpNV1RTcGc?oc=5",
+      "date": "2026-11-19",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "【名護市内小学校×FMやんばる企画】屋部小中山分校の校長や先生に聞いた、小規模校の強み",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PSGhnU29jcDVtbkN1RGxMQUVJWFhzU0ZpYjg0M1hObUVlZi0yaldEZWcyQ1BzV01WU0pYUmlRSXZzeTRuWmRQSmNQOU5hQQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "通話、メッセージに特化",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTmtBQjl0eG12aDR0TTllYUpPZ3U2c0tueEVtaHF3WVk2dno4N2FpcGJDZnBqakpVbG1mX2d6dldpYUphXzhIRm5CMERxN3N5dENHeg?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "名護市でひき逃げ相次ぐ 小学生と中学生がケガ（沖縄テレビOTV）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3JHMlhlUUJkVUV6dlF2c3hsd0IySHRzNnNWWXJsOXJkTkJyMFJzeHFUTW9DemQzaTQ3ZFVxLTNUX0dZWFRjNTI2Ui1xR2hWa3N1UlFVTEVvMzJrdFhKODZibEk0dzRla1NlUFVMV2ZEQ0Y0R3FydGpieWtaZ0k?oc=5",
+      "date": "2026-11-17",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "小中学生がひき逃げされる わずか25分間に2件発生 沖縄・名護市で帰宅途中に（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mUWJoTm9sQ0NTQjVQdWxFN1MySG5hNXhxUmtvRWg3SmIyX0ZQdTFUWDJjWHBoQndLY0dnbWlDM2ZEMk9CNXZfc0I3STVfVmZDRTVmLWpYMFZfaVZMSFJ2VTlFazAwV1NqQmtqVlo2WmR0Vm5xTHc4MnJFeVpMRDQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "晩秋の空に映える大輪 サキシマフヨウ 沖縄・名護市（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LenZWOGRDVnZhcjVWYXdzeFVlRDdMMWlmaFNsYW9MeUpZT3BVZE80bEtnei1XbkpYSE9USm5HTW1RamxtbmNSc1l6OFFvRC1QWDA3UUtNcWNtd0ZBTDdwT1dIVjYzbDNmVUg1U1FlYW9zUFhWMTM4b1ZHQWVmb2M?oc=5",
+      "date": "2026-11-16",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "ジェフリーズ氏、初の黒人下院議長へ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RU0VGNTJjeTRyMENlUEdiUnJjWThKTy1FTGRQekFjRWhJd3BoMFRfLWhlcldJOXZJUGNHWWVmc0RJOXA3alh5OVNpS1h0UDFIWkRzZA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "■名護・屋部親水公園で２１日に秋祭り",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LZTRTNzkyZnRWNXVkWG4tNGdhM3pZTXNqRXZuZ0xJWFlheDdGMUxrUnJPdFVWVk9FdXVyOXJjYmlMbmlFZjRpc2p5bnFmZWZYMm5BMW1YREZEdXNFaVExNw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "欧州へ、ぎっしり",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IUVJrbTFDWUJna0hBTV9CQ3c0NmlTeHlIdUhCbTNfRG1fNUpVRFhOdXJKMFlNSnBPcHIzZWxxNjh1RFJENzdoWFlkWXkweW1Pc2c3dA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "挙手する関文科相",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kUzdtV1lYYlhsbTBYNTY2RXNieG5ZQXI0cVNxcUk5NUpaN25vYm5za0NNU2taS3JWMkdCa1RiUGwtdVUyMWJNeWZlOGFNZFpaaTh5Qw?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "ＥＡＳに参加した首脳ら",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wSWZxbFI1QlJRZG9NQkozNGVqbC00YmdDSVVNeFZFa1BRQXlnakZscVhHNXFUeXpLS1NrRFQwaElOMWswYVltcGY1UFRvbTdTYi1PdQ?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "会見される愛子さま",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CMmxRRzMtcTJzMHNqYWV1QXItM3FqYWlQQ3FKY1ZFS25PNHJjVmticEhiRkJtLTZ3WW1KUG56RHFBaXZiRGh4eFJWTmg0eHFGdU9OMQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "国民幹部、文科相の説明不十分",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzbEFyd3gwdFBWV0JKR0dVLTB4S2U4ZU9kN1hhLU5xQlRNcS00NzBrd2lCaXdTa2lEbjdiRm9xY0Rqdmdka2MwUlFId3d4R1luMVZlbA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "記念撮影する日米豪印首脳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01MjZnclYwZHBib1JaREI5N0xBLVhZaXBnam1mVUtlQ3c2djNkbzRLNmNHWUVyWkpfNjFRaURMMHpDSDZGMTZwdEZvcTRvbVhST1lkcQ?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "豊昇龍の突き落とし",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yeTZUUWh6dmN4dXBfbTNqYjFqVmV5T1NkNDhCamlDb0xCczBCVHpHeDVNdHNOTHRrakMzWERSZGNDQWp3aXYyRTE0c1VRNzZtQk9NRw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "熱海富士、大の里との１敗対決制す",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53WDhTZXhIWnJsU2IzdTZkZVhHSEpJcGlGYWdTbHRtNzZNcTlDZ0t0VThSWnlQVGo4aC1wSEt5V1lxQ2g0RllQNllBNHdfOHlmRTA4Qg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "新ポスターを発表する公明党の岡本代表",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91dklQcWk1dlJLcmwxRE1fTmVaMmt6WVZGQ0hoQ3JkNGVsaFVyQ2xRRUdxZ2xpUkZENzB1eUE3bmdyNUpkUDctQ0EtQjh4a1FLVDlFVw?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "県民、市民栄誉賞を授与された錦織さん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FUnpWc2tRT2tVWTc1YU85SFNESF95Z3RYU1JvTUFGVFc5Xy0ybkFzSndlT0wyZXVkV1JTOU9xV2FCbFlUc0F4dTdJX3JlcE0yeGdoeg?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "演説する笹川環境相",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02dFBNWjBseU5xdWtNdWphVHlTV0RST2JCV0ZCelZ5Rm1fS3U1TzloRTI4SWdGWGVST0NYaEV3OXRRbzRSRTRlR0FIVHJVR29BN3lwNA?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "イスラエル議長にカハナ氏",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ZDlNWHN3MC15djJ5akdpS01hZ2pRaXZkZGZVdjF3OFdKUzBjNDYxN0VGRlVCTlpNM3ZLaGhjOHc0djU0cmZnMHBSc2RmRkhNcXlFRA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "衆院政治改革特別委員会",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OUUNWNHZNMXBKZzd4cXdSOGprNWRlRXpQOGItZldjNU12ZnZZNVBySlNEQy1GMjBoS1FZNi1YZzhFWGRFcUEyTVcwTnByTTBhUFdfWA?oc=5",
+      "date": "2026-11-17",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-19"
+    },
     {
       "title": "ひき逃げ相次ぐ 名護市大西と宮里 小中学生けが 沖縄（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdUp6TjJjWEcybHlpMHlSZDA1bDNlXy1EampWWWhmSTg4M1diS3phTHZMdnZONkxDVGFva05xUWhZdjRlQlVuNHhjWU56ck1aRlBIY0RLNDFkS0hEbWhqc1FkZmFsVjkzUzBkZUhaLTRZdzdSeG8zZ1UySmxDbms?oc=5",

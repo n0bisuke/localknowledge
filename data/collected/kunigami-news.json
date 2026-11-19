@@ -9,8 +9,22 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-18T03:08:56.740Z",
+  "lastFetchedAt": "2026-11-19T02:50:16.186Z",
   "items": [
+    {
+      "title": "ケナガネズミ輪禍最多 23年超え46件に 環境省 安全運転呼びかけ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tak9xcXBDWHk4NXBsVUlic0psRnVEbld2bGk2MDVrRjZaYkU3Q0o5YUJVdXZfLUxBZ1JrUzlmdnF6VUN4Ukg2RFByUjJpU0FTWXBwMEhGRGF2YUx1Y0E?oc=5",
+      "date": "2026-11-19",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "title": "沖縄県国頭村、国頭村商工会、慶應義塾大学大学院メディアデザイン研究科が、世界自然遺産やんばるエリアにて産業6次化支援に向けた相互連携協定を締結－令和3年度に新たに開設する東部周遊拠点施設（道の駅）を拠点に地場産業の持続可能な振興と創出に向けた取り",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tenhyUmE2ZHFhNkRKSDlWbVU4SDBQSUxRekE5Tnp3ZlRPQ1JQRGN4Yl80dHJYOTVWMGtNRElfYmJaSkxRVnViY24yelVyZVlnWlhnekU4cExFTThyWUo0Tg?oc=5",
+      "date": "2021-08-27",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-11-19"
+    },
     {
       "title": "辺土名小児童 ポップ制作 国頭 セブン－イレブン、食育授業",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcm5xMFNwcGRkVlowTHBMYmM4Sl96S1hxN2Z2QjFWMjdNQXJBMjNINEhSZzZQSEh4OWR0YS10U3ZIZ0pLR2laOE8zeTNua19qRTkyZ2dIWWZSMUVsWGc?oc=5",
