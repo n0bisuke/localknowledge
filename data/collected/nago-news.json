@@ -9,8 +9,239 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-19T02:50:16.186Z",
+  "lastFetchedAt": "2026-11-20T02:38:51.267Z",
   "items": [
+    {
+      "title": "名護でグルメイベント「スパイスサーカス」 県産スパイスを食・体験で発信（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSWZJOTc1TFV1UTNyZXJRTWxScWlhUDdiaFBtb2hLTV9CaWpVZ3ZwbC1yWmhHc190LUNEeWJCSEl4TExGdHNzd214cUZWX2ROWGdjdjJVS1Z1cVpJOGVFUHBiS1puR2FqbVRicjVhZmZlejRGbnpvT1hJYnZEa1E?oc=5",
+      "date": "2026-11-19",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "２１６ 嘉陽地区会館（名護市） つなぐ風景、営み、祈り",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ybzlWUDViU2JUUGI4S2J6ak9McFhLQjNxZktGN3F0a2lyMERwblc4d1JsM2RUMTNWUTJCQkdkT3JJbXpBWVcyNjdYTlZqbk5UVHpSTUN1Y3NlMXJqTGc?oc=5",
+      "date": "2026-11-20",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "【名護市内小学校×FMやんばる企画】大北小児童が地域の「敬老会」に参加、手製のコースター進呈も",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZdFZTbEZoVjlpdm03NmdTYXZoWUl1d0RFbEpJeEZHVjZHT0dabnBxRzFnTUREanJkeGZTUzl1MnlBZ1RoR0Q4TjNwT0lsQQ?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "９０代も「かけっこ」競う 名護 老人ク羽地支部がレク大会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMzhrLS1FX3Nsb3U4RXpoSExqQVFZTUpZQVZFakU2WmZXSmlNdXZTa1dNRUtjTDV2VmExWlBKNF92TGtWamFWTEtZNmFHb0F5dWgtOHUtRVdtR0wyLVE?oc=5",
+      "date": "2026-11-20",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "昨年のスパイスサーカスの様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6VjVtdUtWcFNmelB4WThOQ1hVYUxaMlhKQ1BGblkzZXhxb0dPZEFNU1IxenA4cFlxNGw5SHFwQTlUSEN4WkthamotQWFJMS1uSk1LbXln?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "名護でグルメイベント「スパイスサーカス」 県産スパイスを食・体験で発信",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93blFmdUQ4TzZkRm5jYnRCUGZpR1htNUF1SEpGRFdrMkU0RUREVnB4YlJYOTRNbVkzU2dDaHRleFVVeUVobG1JTWhsVGNPaEhBNnc?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "ワークショップを行うスパイス農家の芳野幸雄さん",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92aU9VLXl4VUtDTmRBZzVGWGVVM0JwY08xUkVYbmlCRV9CUlgxd2wzWTN1U2ZneHkzWkU2TC1UNjM5am13V2VseVJ1VkR4aHRIRTJVNXl3?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "伊差川Ａが団体の部Ｖ 北部地区老連Ｇゴルフ大会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUjdaOWdtME1CNTlheWotYVpMTGV4U0FQN1NFdFh1ZzBxbDFEUk9kYnFlaWsyUk02V1hoMU05MDU4NkNXdm8wWmtZVEF1NzJiM25EcmYwek5JeXFKR1E?oc=5",
+      "date": "2026-11-20",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "米アンソロピックが上場",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcUVyWEloVUM5eVFPUmQ5RDdfM2FtTUYteXVyQXF5djJxVElSTGpxZnV0MUJLZGJLSXpKZEJsZEhDYUFOek53VjBEaktyajNmTGtWMA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "色づくイチョウ並木",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ra3M4d2Z4dFlmZzRjQ1l2V1pYcmg5R1BnZXZsOHI0Wjdhd3NmOXdBTVlRcVV4ZTd2QnVLNzZUU3hJRmFwVVZla1U1LWZhSHNQbmtIWA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "ＡＰＥＣ閉幕",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RRlczUEJZMnM2OVdtczE1cEk0LWdIQXNnTnRrd3BkMEFUVUZiSDRET21vZnotZjNZUHVzVnVSMzJTRndtZmZ3VzM4WDlEbFhvejd2VQ?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "年収下限は５６万円程度",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oZ3NORmlKaXhueElORHpfZXZJa1VkMVQyQ29aN2tTOWhNWVlnbjloQVBjTGxWRUJPM0V0ZWJWYzNhSHQzUV9TN1k4dkotb0xSSkt4Rg?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "リニア開業見通し「年内公表難しい」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hMGVid1NuXzlvbklmSVRESV9wU21qOWVqaGJZYVBTQmZlXzFyY0owcE5WYU03V2gzWk84OUFORGdCcVdjeUxfZkdrYldBRV9fMjVnOQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "後藤希友「結果にこだわって」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGVGN6SGFuWjdEXy16RDdXUkVPSVN3UDJseXpzR19UdVZrQnZCeVYtdTVobVFZRHdjbHdvclFickhuOXAwRGdhcFpWVTZzZXN5d3Z2SA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "米、ベネズエラと軍事協力再構築",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81Y3JYUmthaWZjWDRiV2Y5ME14QjZIVkpKdDJISktNWUpKbUpXamJ4bTZaaDR4b1RkaXZiYl9SQ3IxRUl6UHc5QnNSdFJ4MnAzLWlQOA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "国民投票、外国介入に懸念",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HdWpYTVVfRmtCZ2g2UXZaaEk1NjZ0dmd6NEdVQzh5dlJyUWpMWUJiQzR0dEVLV1QyYUdZUlJsVXQ3RVVNaHBUb1Znem5RU3BOY2NseQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "法定協議会で発言する吉村知事",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fa0VBcHB0YVZLaGhpNHlhd1FhSUpLVHNSOTBxNm9DZUc4dG5xXzFrdy13RlhEdzZHRWtPY0tpM0dxeG51TFZOWTJRNmw2R0h6bTZ0YQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "中司担当相が体験試乗",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JdzZMOU1SNURGMjBVR1BHS2hUbFVYN1E3V0xKam8zX2VzMjBSRldoUDhNLTByaW1EVFRNb2x5U0VvN0VhSzBaempsdGFZU3BoY3lXeA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "ギリヤーク尼ケ崎さん死去",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNTV0a2I3c09vYW5VRzlyYWdRb2NDTzJsajZ3VmdLYUV3U3NhMkNjNFhOTjE4RUp2WWZ5ZUFHdG5sQTh4ZWFGWWIzcmREd1k1YXFJcA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "衆院憲法審が９条集中討議",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QVHlvS2R6RWVDcGh4SVB4TU5lV0JtQmVrRVFrSWFyaE55S2hVX1hwTDNWMS1OT0MzZUlfRW1UT0JxeDE1R0lnejMyTDAwcEpCSnZuSw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "ボージョレ・ヌーボー解禁",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PY1ItdlFtMkp6NF9xUklCb2ZmUFMwX3NSeWhScFhtT0JaZ0RtTms1ejVrRThtdjBwYjZ3dTZaS19TcUxOeHlQYXoxNldZUUIzaEllVw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "国枝さんが殿堂入り",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBacnNLZmxhc0pBb2wyODl5SjJUU1lxak84R1ZVRjd1SEhyc1ZMUG0xZTFmNzdXSmVFZzhDQXMtQmRRczE5UGZXYXlkQ1FKVnFpRU1PSw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "高市首相、習国家主席と握手",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xVjM2Z0o5YjZlMjdLeU9lZzdJQjJScnExd2VqMDVFdDJGM3lRMkktS3ViYmxtTUc2U1JYdVJwT3J3ZFlGVlh2ajNlb2NHZWRKZjhGbQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "森保監督「８年間、幸せな時間」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oNXU2VG9waWtPb0FWWGRSTWpYLXQyV2ZLUV9Vc2d5dUlSLW5yUUgyUTFITktBSXBYUUF4Qk52Z3JWRnBFQjVPMHYwdzVfdnBwS3lELQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "亀梨和也さんがクリスマスツリー点灯",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EUkJrR21CZlRULXNJY0RUUzdlNUFETUFCSmJWallsTG9oelJsNkd5THJISUpxQ2oyV3pUVE5Tb3hKSUhkVnQ1dnpRUXI5cWZLaFpKSg?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "Ｓｕｉｃａ新キャラ、紫のウサギに",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UWkRMdjRnb0x1a0xsUmNaMWp2NWppNFVkZHdyWmJIcVY0WVVIek9MamJtX0xHYmhGeWI1eVRmSzNNVTVXVVZrT0xqM291Qlk3NktLMA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "太田裕美さん死去、７１歳",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTFVyR3llczhYYkdDalJBeHZtT0JnZUY0SlBzOUlVOENBNV9JYnhoRXVjdkNaV1BSZmk1SVVyYU5UYXdaUFJhc0RrbnMyQXY2R1JLVQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "米比同盟「かつてなく強固」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsZlFiV2NXTHNjNk5PdG4zeUZJSWo4d2pub211UG05UVg5Q0FBakRLRHo4SjBGa1VjcFU0ckwyMDBJWTdvd0dibHNyRUtRbHJBR2NZbw?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "猪木さん孫「祖父超えたい」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hUVVCRWdFSGdzZTQ1WkRtZ3lBenlZQjJwS0FpbmNFdzM3X0I0OEJRUE5ERnZjUm5UTnNZRkFob0cwaTFZdXljU0I3NlRQc1RZV1djcQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "田嶋幸三氏、正式立候補へ サッカー",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01TVhjUmlVYTRRYTFFTnBkTENPRm4yVDlKaGRVaUhOd2Nmbk1lb1haOVRBX3hrSjNCcFFYWVgwQndXV1lzQVJnY3NPMkM5OENyNGZIOA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "ノーベル賞そあいさん、関文科相表敬",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaeDNvczNUV2Qyc2RfNUJBNGxMdk50TV9CcHU2ejgyNmVOZDVXTnFwRWZpY2FhS1Y5WUdOSEhiLWtleXU4M0hjRFJWQlFWZ0tNWERaeQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "日米首脳、電話協議を調整",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94TUxDbTd1OGJtblRycWdHdTFnWUozazdlcFNHTVFwcDJIUDRieDJHU0xjS2hILVMyMk9yZms1ZVJtczB5TTJNeWU5MzRXTUN6VlF1Qw?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "比例３１減、各党が意見表明",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFTWVSQjh0NGN1aGFGczB0MGZZbDFER2ZfMHotS2VubTZPaWhkaExYQTBsdnZSbFNlT0hLTWxEVkRqTHpCMU9SbHloSDlJb0FaOUxpNA?oc=5",
+      "date": "2026-11-18",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-20"
+    },
     {
       "title": "子どもら野菜植え付け 名護市親川区、２０人が参加",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpeHFRby02R05vLWFwUzZVY0V5S3hqdHpRYl9ULXBDREVFdU9jNTVQU3dqV3UtYUU1SjEtSDRJQktKQTgzTHo4SThOYXB5bUprUlBmdF85QWpNV1RTcGc?oc=5",

@@ -9,8 +9,20 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-19T02:50:16.186Z",
+  "lastFetchedAt": "2026-11-20T02:38:51.267Z",
   "items": [
+    {
+      "title": "～迷い猫～（26111901）",
+      "url": "https://www.vill.kunigami.okinawa.jp/sekaisizenisan/%ef%bd%9e%e8%bf%b7%e3%81%84%e7%8c%ab%ef%bd%9e%ef%bc%8826111901%ef%bc%89/",
+      "date": "2026-11-20",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "第11回辺土名大通りまつりについて",
+      "url": "https://www.vill.kunigami.okinawa.jp/event_joho/%e7%ac%ac11%e5%9b%9e%e8%be%ba%e5%9c%9f%e5%90%8d%e5%a4%a7%e9%80%9a%e3%82%8a%e3%81%be%e3%81%a4%e3%82%8a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+      "date": "2026-11-19",
+      "firstSeen": "2026-11-20"
+    },
     {
       "title": "「第２６回 全国ふれあいパークゴルフ大会」の参加募集について",
       "url": "https://www.vill.kunigami.okinawa.jp/event_joho/%e3%80%8c%e7%ac%ac%ef%bc%92%ef%bc%96%e5%9b%9e-%e5%85%a8%e5%9b%bd%e3%81%b5%e3%82%8c%e3%81%82%e3%81%84%e3%83%91%e3%83%bc%e3%82%af%e3%82%b4%e3%83%ab%e3%83%95%e5%a4%a7%e4%bc%9a%e3%80%8d%e3%81%ae%e5%8f%82/",

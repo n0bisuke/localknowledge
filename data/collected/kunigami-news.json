@@ -9,8 +9,106 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-19T02:50:16.186Z",
+  "lastFetchedAt": "2026-11-20T02:38:51.267Z",
   "items": [
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村（FNNプライムオンライン（フジテレビ系））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQzRqOExiTDhhYzZxYmd2MlVtc1N0S0l3b3ltSHZzWmdma1BLQ0xkenBHWm9BcGlfOGdDU29XVFN5RVNkR0dPeElPNWF1LTV0S0g3dVBMbXJLcUs3SzVEbUNwblFxajU1aGpHNGQxaGlpU0NuN0NDRWJ2cFhFeUU?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄も冷えた 県内12地点で今季最低気温 国頭村奥で15.8度",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQjZHeURYS1NDM3c5dU9tNmpJY2dSQXQ3aTd1TFNxbzlTX3A2YUlYSmVsdVZ4V3l4SjBqSU5wdjZYTDE4ZG02TzZ5ZHlwZXZkXzBiN2ZHUEpjbXY5a3c?oc=5",
+      "date": "2026-11-20",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄・国頭村で公共ライドシェア実証実験、AIアプリで配車…みつばモビリティ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lOFU3UXZHNVR0d1NPOXhmSnd4V3JiY3g2ZHJIZ3lBYUcxWW5iZV9pbTY1cU1USzJWcjRCVklYRVdielRFVEMzVHNRTS1qUUh4Ym5FQnpyNkFEZGY5N0U0?oc=5",
+      "date": "2026-11-20",
+      "publisher": "レスポンス（Response.jp）",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Ym14RmF6MVpnOWV0MnBWVkZZTVNwdWJSTVhuakNXbnNGUnZCcThwRS04d1JxdUJ2SlE0UnRFd3pZV2JnLWl5NUx4X3ZSSTdkR094bFF0cmFxM0UyTTA3UW9Md3RtbUJvLS1mVWNhU0cwS0QzRGh2WlJmTkZVZUU?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄も冷えた 県内12地点で今季最低気温 国頭村奥で15.8度",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfRGQtZ2wyMi1fV09xOWtTZXNDUUtReDdFWnBNNVk3S1I5N2VrWkJFWjZKQTRUTVFLeGtPa2Q1Z0x2bVNmZjc5My00cw?oc=5",
+      "date": "2026-11-20",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄も冷えた 県内12地点で今季最低気温 国頭村奥で15.8度",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNQkRXZlZHNzE1Q2hvM0ZtUS1rLXJfODV3cF9GQVhSall6WTRfZ01xazA3WTQzeTZ6dEZ2TWVUY1drVTNRQUFEQ1NxWjFYNDliQkE2MFFKaS11djZVLTl3ZTJBZzdrWTV4MnBUSkFsVUY1bGU2WFRaVA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "《茨城県境町》沖縄県国頭村・鳥取県岩美町と2町1村間で「危機事象発生時相互応援協定締結式」を執り行いました",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sam5zcHBxOEc5SFpyN1R5dENNc191dE9VbWtOYm1HS05ZZ1RPbmZUdEdPZmJHb09aam0yS3ZEeUlJNW52NEFBcjY3Tnh0QXdrQXo0aXlEMmx6cFhBRlVWc1pMU3BFdWZpOTYzV0dLMFU?oc=5",
+      "date": "2026-11-15",
+      "publisher": "山陽新聞",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkZXRoSjNKZE9lZkZYS2FRN0Q3bUQxcW0tU1VnaC1qdFlIYUt5aDZUQVEtaHZTYVJpcmczVFcySGQ1b0VKTk1OQ2FR?oc=5",
+      "date": "2026-11-16",
+      "publisher": "MOTA",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始(画像ギャラリー No.5)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40cXlLRnZyUE0wZTBnc2NrYXNIRzdjU1Rja3IwdG1XOUtWcFc4SzdKOWxxTjlTSlJuQXZWRGl4U19FLW5TTGc2c25xZHdOa1NJYXhBaXhGaWZza3p2X3c?oc=5",
+      "date": "2026-11-17",
+      "publisher": "MOTA",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄も冷えた 県内12地点で今季最低気温 国頭村奥で15.8度",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnF2WXNXOW9vTVBNVVlhSWp2LVhMTVQxTnVTX1FfX3ZuUGFUNzFjVG5zUzFzeDhPQ2ZpTUE1OUsxdHhsc1JaMUdWa19kcm1qNE11R1hqamRmbEdaTm5XVzQ0MVFyeXJKSGhRUHBmb0lBOGVVTlRxdHh6dkd1ODdGXw?oc=5",
+      "date": "2026-11-20",
+      "publisher": "UQライフ",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "沖縄 国頭村全域に避難指示",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoLVN5c3NQZV83SkpyN2ZBVWtScHpKUDBpU0RTdDdzTExWY2huV0xZXzJ0MHZlcENjb0xRQWFHTmlqbk1pMUlBczZUck9FQnQyWURGUjc2VnhYSXo2WWxR?oc=5",
+      "date": "2026-09-05",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "比地大滝キャンプ場、2030年度再開へリニューアル計画 北部豪雨で閉鎖中 国頭村 (琉球新報)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1pNS1BiYzBzVXQ3ajMwTXY5VmlFQno1Mm9uMHZXZmZBMUJvSkxHTUtKUU9MdGQ0V21BZWVweVBMS1JrTGV0YzFVNzc4LU1OeEtiRWZ2RXBuMVgtSEpxYVZwejFuU0R1M0VLZDVkSlNHUFNaUWxTWmg3ek9CWEU1T0lyM25ZbDNVeFhEbmRn?oc=5",
+      "date": "2026-11-08",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "自然由来にこだわり開発 国頭産ツバキのコスメが最優秀 県知事賞！",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YRm9YbGZpbVdQQnZsSjd5b2xoYURkLWhmSDVyU3JLUHpFai1pbW83WDFyeFVGd2gxZzVBc284V1dGQXRYRTNMbkJUcElQQ1ZKTWlHZVNWYkZNQQ?oc=5",
+      "date": "2026-10-28",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "title": "リュウキュウヤマガメなど「やんばる」の生き物たちの密猟防止へ 環境省などがパトロール強化 国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KbVVLYXZUQVRpWUM4dEEwQWlmZm5nbTZ0VnRQSGpSd2ItQTdZbTFJcUloZGhaMEF6X0Y3N1Q5a1RoUlZ5eTg4cHM4YmpHb3lLT3hjdjBTRWlvV2tiWXNMYzNuMVZtUGs?oc=5",
+      "date": "2026-08-23",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-20"
+    },
     {
       "title": "ケナガネズミ輪禍最多 23年超え46件に 環境省 安全運転呼びかけ",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Tak9xcXBDWHk4NXBsVUlic0psRnVEbld2bGk2MDVrRjZaYkU3Q0o5YUJVdXZfLUxBZ1JrUzlmdnF6VUN4Ukg2RFByUjJpU0FTWXBwMEhGRGF2YUx1Y0E?oc=5",
