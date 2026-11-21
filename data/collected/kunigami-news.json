@@ -9,8 +9,57 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-20T02:38:51.267Z",
+  "lastFetchedAt": "2026-11-21T02:51:19.994Z",
   "items": [
+    {
+      "title": "県内２０地点で今季最低気温 冬の足音国頭、南城で１５．７度",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MmRiNjBOUm1GZjl5Wm42VjFxZWxQSVNLN180aUtMOThlRjYxbDZCZmdVYW05MlVub0E0UF94TTdfczdtSHEyN09tT1ZSSGtveWNqMHpSeWY1UElyRzBGeg?oc=5",
+      "date": "2026-11-21",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "[2021年度]沖縄県国頭村との連携事業",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gd2RpZzBvUzJmWGpoZUEyQTh6dmVIMUtqS1VFT3daVzJQUlVzaWpJbVMwWmVKOXhGb2Y2cWlwNWJ5M01tR3FrR243azF2Sm9KZGNIdUU4Wm5aTkxDSmFUYmY1MF9nekFCY0o0c0xjUTMtT3REMDFJa3NQWGQ?oc=5",
+      "date": "2026-11-06",
+      "publisher": "慶應義塾",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "奥区公民館 完成喜ぶ 国頭 区民「活性化」に期待",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oWWgwbi1yNEhIaXdtb2RTQmtrN09zRmNPbFZBWnhTLUJjNE9KZndOaDgzcTNRVHVaRWcyWUdBM2hKbmI2aEJQY0VJVXZrUHZsZDRuZG5tUF9scDVKZEE?oc=5",
+      "date": "2026-11-21",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "国頭や南城で15.7度 沖縄20地点で「今季最低」気温 冬の足音",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yRjI2OUJNMTJ1UmQ3Qzk0eUpjOC16QkdLbTdkMmYwLS1ueDRvNzdjcnRuVV9yZkJYMHBEQkNtY0dEQm9ZRWFRU0VJcw?oc=5",
+      "date": "2026-11-21",
+      "publisher": "47NEWS",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "国頭や南城で15.7度 沖縄20地点で「今季最低」気温 冬の足音（琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYzNKTXpielRhVHk0QWlNblNYOGtMM1RGVHVCWGw0ZE9EMi04YXVlTXA4eUJWMHlJcFJxSEV2OEl0TXRFWmtGZDJlNE9ueVRxbFdFZkRZeEpQN1g3Z3dvR2pKLVhYQkd3VTZjUEFLbWVRLUNxaWxDMElPTmxnRlk?oc=5",
+      "date": "2026-11-21",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村 (2026年11月20日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14ektPdE5aUHlldTV4WkVUcHZ4OFJoYnVtUmdaNWcySTVPekRwMDN0VzF4LXBMekNITk0zZWxYdElvWjMzVW9mNEc0NXVGcGNmS0tDSlY0R29mQTlHQVE?oc=5",
+      "date": "2026-11-20",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpWUtwcURyOXhvcllScmtvT0xIMTg4ZnFKTEtqd0xJakstamRYOVM2T3RiUEFrejNGS2FuSElscHk0TzhXTnhBckM4VHdwXzF6RDVKX2VqN3lmcXJ2NzAtZ1hLakpVeEZ1N3NDVFFtZVhzc00?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Excite エキサイト",
+      "firstSeen": "2026-11-21"
+    },
     {
       "title": "沖縄県で最大震度1の地震 沖縄県・国頭村（FNNプライムオンライン（フジテレビ系））",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQzRqOExiTDhhYzZxYmd2MlVtc1N0S0l3b3ltSHZzWmdma1BLQ0xkenBHWm9BcGlfOGdDU29XVFN5RVNkR0dPeElPNWF1LTV0S0g3dVBMbXJLcUs3SzVEbUNwblFxajU1aGpHNGQxaGlpU0NuN0NDRWJ2cFhFeUU?oc=5",

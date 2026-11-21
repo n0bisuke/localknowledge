@@ -9,8 +9,239 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-20T02:38:51.267Z",
+  "lastFetchedAt": "2026-11-21T02:51:19.994Z",
   "items": [
+    {
+      "title": "沖縄・名護市で沖縄県総合防災訓練 実施の前日に海自補給艦が那覇に寄港 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hM1g0UXBsNmlNOUdLTDBxb3VBQlowYm9HNFBxUDRDVTdTNzdzcG5sTFQxSmVNTnhXMHdnX3F5MV9IM1NrR3BmaUhLcjY4Yzd0SkVZRWl0VHNGalprRXZvVTJhU08yc3RDYVpXY080cnFDRVZPZzJrY3RhSHA1TXM?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "文化財保全へ 名護市に寄付 沖縄ファミマ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jaV9ZSnJKamVUTFNsTnBCaWxnUDRLanJWcEtjcTkxeHF6bkZHanVUYjZPZC13TFRhcFVhZXFuZ1hhcVhFZHNUWUFZNVREcldjaTNKSWNuTTZjU2o4S1E?oc=5",
+      "date": "2026-11-21",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "プレスリリース：［参加者募集開始］沖縄・名護のまち全体でAIものづくりを楽しむ「NAGO AI MAKERS JAM 2027」、2027年1月27日より開催（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yUmljVUxUSzR0Q0dFWlFwVFd3Tm9yb2tFR09zZDhDRXhYSk12UnFyNmZwbUdLOGlJQ29fVHBOdWRJY1RuLXRHSEJ6MFF0bGRrdUx6eG9pZG1URWNGQnlFMW5IM2VBNExm?oc=5",
+      "date": "2026-11-20",
+      "publisher": "毎日新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "名護出身の海外移民紹介 パネル展 子弟研修生が発表会",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ZW5mR2llQmtYX1BSb0d3b2pfeG8yU3hlN19leHVxU2dQZDM3dURNd216aXFMbEc3OEYtVzVuM0laaXdRemNMeXRodUZSVE41SmZkNlFjM0d0aE5abFE?oc=5",
+      "date": "2026-11-21",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "最大震度6強の大地震を想定 県総合防災訓練に約100機関が参加 名護漁港で救助手順を確認",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtUkQzeTEzTGpkTzRVVFh3a08tMmQ5OGhKVG52S2VNcDZ5RUZISDRnWnN0OEl1ZmhlMld5V04xNFBPTWhTLWMyUGNZWklYSEJlUXNnTk5rYl9uVjZfU0E?oc=5",
+      "date": "2026-11-20",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "名護の日本料理店「ひとます」が5周年 晴れの日利用メインに",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VNno0TDhhYUEzSGRRY3UySHZZNkl4YXBrQUNHU2pQOUJCbE5SNUE3UmE0MGttc2x3c05RVDZKM3RUWUtmeXNpZFhUb0VydnFMY1E?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "沖縄・名護市で沖縄県総合防災訓練 実施の前日に海自補給艦が那覇に寄港",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrTDJOVFc3a2dRRHJnM184VTFmVGFUME1heXI0dFN4SHRXU2hFTUtNX0JMZXBaWVloQ21vNDFpdzBfd1RXZEFFWHhHYWVfOHVIY1M0MnNaNklSZw?oc=5",
+      "date": "2026-11-20",
+      "publisher": "QAB 琉球朝日放送",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "名護と「ひとます」が提供する仕出し弁当「恵」",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DWkQwU1VBMzBWNThaRnkwdENjQWZNWktkVDJXVXFVVXpEdVJIQXVXQTk4eVFCNFlKMUhEUEpGVEsyLVlSZUctamZQNjNFMVp1LTVpMjNR?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "名護の日本料理店「ひとます」が5周年 晴れの日利用メインに（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQ1dwa1ExNmJHZUNCaFUyU3c0dEhDVHM5UHNwX0hMOEdrcXY5cW5fdHlJWkU0Zm5UVlZBZGltbmY3V2RxZVZKQ1BMTnFuMHZDeW1WSERLTlk2YWhZWnRIejE1LWxBbVpwR1NUOThtRGljMzAyRjBFUDY3cks3TzA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "留学生と英語で交流 名護の大宮中生 「食」を熱く語る",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxVFpVUXFDTGpXTHJpVUxCeFN1d2xMc2ZnVHhFSnZ5aFFlNG0tTUFvdXlqR1R1Mmo4czFKYWVITkVpOTVSNnZMWXVkRmo3WFVJUG9JZkx2dHpnWFNaT2c?oc=5",
+      "date": "2026-11-21",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "吉田が４打差３位浮上 米女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ySjBtOGVmQXZVbk1EWVRkQ3BudV9pcVhnYk9zWUhrR1dncUVQVF85d3U3dXY0QmN6X2huSDd3QjNjdDBuU3NaQkF5VDZZZUpIa0NEag?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "南シナ海共同開発の進展確認",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aVHRqai1YbWtXakJVejNFcklSSHlVRDk2bnFRUmUxLUpDZE5HOHlaRFJmX19pbk5QZlpKZjhfZXBIZnQwN2JPanFmbEFwSWEtc3I0Sg?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "市場の信認「今ほど重要な時ない」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlbGhWRlpIYjIwMXhlTVY5ejBxV09nSzJrN2JFMENleENES1A2Z0VJVnhPZVpOQ29zM1hfaVNDaDRfMW5CYndJMzRVbC1Oc3hfc2tiZA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "ユーリ阿久井政悟「食らい付く」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qRElnbW43OExHVDJzYm1BMDU2NDhldDY5eGVPTWJsRHk5OFV5SHU5cHNzMXJmdnYzeFhVSmV6RHhvTXQ2ZWlLUGtmbUJsSENjdm93MA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "■ピースアイランドホテルグループが米寄贈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vZ25IYjJ1TEJRZjZfVV85X2VPT2dCZ19JdFdSbjJWLTNMbzRyUmFVNVZmbWcyamVqb2FNU2lkSV9QT1luZzVGLUpyQ18wNXBySmIwTUtuYjFXZ1d6ZkE?oc=5",
+      "date": "2026-11-21",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "昨年のスパイスサーカスの様子",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xa0pPNDJFYzYwZXZqak9VbEFIZ0pNRU5xcU1oY2lNeUpId1VfYlM1U2lzXzBUR1NwM2xuWHFpdTBMQzlORjJyRnA5ckpubWZoWFE5OGJ3?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "エナジック神谷氏「学院長」に昇進か 来年度人事 学園側に問われる「自浄」 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByVDRVdTRyWmRvVGJVbEJudzE4ZDBDcEFBT0c2SFBXT0E0aTlEd3NXZmdtWlZubnZjTHljNHBhMmd2dmxlMDVLU2t0Ymg4R3FvamE4V3ZqU2hEV1lpV0E?oc=5",
+      "date": "2026-11-20",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "友梨さん事件で情報提供呼び掛け",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tVTA4SXdPUll4aEtacDloZGp3YjJYSHJXa2pBRXFveDdzNU1hX19ITENING1ZcTNFTFRPRnN4eS1jaWlESmgtR2w5TmRoQzlFNGxBOA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "古江彩佳が１打差４位発進",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRk9XMU00SU04VFVTY1BLQS1xa1BJSTNGNE9mWVFrYUNhZ2lCS2tHbWtaWlNDSkhlNUQxWVlXa25XUTRfUUhwXzBtQmhzbUVmZjJsUg?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "消費減税の財源焦点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZUhCVXYwdlJqd29BdjhwWDVfQU1qTnlQUFRmS2JKTHdxTk9tOU1ZNzBjLUpFWHFtTHNEWVpqVGZKVzRkTDdOc25PSUthUlJuMGREVQ?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "核軍縮合意「非常に難しい」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qS0k3cnprOW5xaEV5ZkliOUFTdFgwdGE5T2dCMW1uU1RiZnRVc3VQb1NmWkRtTDB5QmtuZkMycEs3MjBKSGM5QTRSdDkxRjl1UDVkaA?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "メニコン新ＣＭ発表会に中島健人さん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBscU1DeWZKUHJfaDM4cVU4eVlFTnUwaFVnS3Uzai1rNHY5d3NkanJUZlhIaDlnRzNkbzk0UU5ueWFnNDVzeDFVQjROMTV4c0FQaHRjdw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "銀座のイルミ点灯式に見上愛さん",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWFNJT29VazJtNEdGeUh0ZXFTYm85NUwwVzdHMmtnaWtrS1d0NjF0ekVrY0hRMnN5ckUwOHJJWXAxNzRPaERzY19FVVNGOUVaVEluVw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "ＷＴＯ・多国間重視が焦点",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKeGU4eG9MMUpsN2FEaXRNYjRvU3FxcFJJdjlIZElxQnJVbnlKVUtjbXdEOWlfaUFtM1ZrZjhOakhvdENZSmI5Q1hFSWlqZUZaQUJQSw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "自動車部品を一部共通化 自工会",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPQTdsYXZKcFlWMlh6bURzbEtHUkd5T042bTBuMmg0RnBVOGRKTXBxQTJoYU1GUkR5R1d2SG5TR19ETFRNOFlfeEQ3bW9XbGdnbFZJbg?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "警察庁がサイバー幹部臨時全国会議",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zdndYcmZLTXpBMHVTZHhLaWVUWGFxYTZaa19GZFJHRkFuaUJfMDJWV3FuaEtVNEljd2hreXFnbXhwOEZHMzNmdUt1ai1maGNrVm1XWQ?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "東浜巨「先発でやり抜く」 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PNWVZRndmNnZmOFAzSUp3Zjhoc3g5SVdQaVJpb2hISUxkSWJTYUtwWlF5MmdFOXk2eFA5YVh1aVJwX2Y0NFZmVmZqSzNSUEw0ZzktYg?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "救援の船迫大雅、八木彬を表彰",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrV2ktSGtGdVNkRDAzeElvYlFzeTA4MDU4anlXQk5JN1Q0T3o0V2pET2VnMUVfSE1nN0p0bll6Q3JSd0NacjRSakJmZ1lFd1V6Nm9wbA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "顔認証決済を開始 東武百貨店",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0U1NSaVhxWEJMT1hKMXhKT2ppTHplLWw0WWYzYWl6NWNjeU9SSzR6aFV5cHgyeXRNMmt4TVBmWFRXWUpLOUlOejgwX29rTzE1TXVYeA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "取材に応じるマンフレッド氏 大リーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWnpEdDNHcjc0ek9ZQVo5bFJQalIwX3RSeXJrU3VyVktPbFQwUFhHRWxLcldCT09EUzFzelVrQ2tEQ3VKTlBMNXc1S2tGdkFhQ1FZbA?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "小祝さくら、荒木優奈ら３人が首位",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ydXZNWG5aTmxUbDFXOTFIMmZBeGxjaERBUUEzVHlQMmQxM2YxdVg4VC1qbTZNVEllRThiT2FxRFJ5NFljNXNnN1FCMF9JazdpVGd6NQ?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "【参加者募集開始】沖縄・名護のまち全体でAIものづくりを楽しむ「NAGO AI MAKERS JAM 2027」、2027年1月27日より開催",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11QlNMUUZpbEJMNjl6a2FCektBcXFDYm9HRTRhWENYaEo2NXFMQy1QOFlPNFAxOUJabm1pSWZFLUh6MmhsWTFqQkJSR0d1T0FuZE80VkthU0VjSUpTTHAxUDhPbEVRLUdsLXc?oc=5",
+      "date": "2026-11-20",
+      "publisher": "PR TIMES",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "title": "米中ロ首脳が初会談",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMFNnWTZOVkhYVDJ2Z2I0WDI1dUc2RUR6OFlYWGRBaW1DQ1Y0cEhXaUk0VTJ1SGJDSWd1cE41SkNmZmNuUGdvWTU1RkUzclI5LTlhdw?oc=5",
+      "date": "2026-11-19",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-21"
+    },
     {
       "title": "名護でグルメイベント「スパイスサーカス」 県産スパイスを食・体験で発信（みんなの経済新聞ネットワーク）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSWZJOTc1TFV1UTNyZXJRTWxScWlhUDdiaFBtb2hLTV9CaWpVZ3ZwbC1yWmhHc190LUNEeWJCSEl4TExGdHNzd214cUZWX2ROWGdjdjJVS1Z1cVpJOGVFUHBiS1puR2FqbVRicjVhZmZlejRGbnpvT1hJYnZEa1E?oc=5",
