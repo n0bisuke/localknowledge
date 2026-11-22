@@ -9,8 +9,57 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-21T02:51:19.994Z",
+  "lastFetchedAt": "2026-11-22T01:38:18.535Z",
   "items": [
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MlE1ZndHckMyckd0QlBQYlZaOVY4VGp2WGtyc0p3YW9zaWJIeVdBMkpZd3NlY1lfakZtRWhwaFFEMW9rN25PZlZFWVUwRTh1X1J4QlMyRQ?oc=5",
+      "date": "2026-11-20",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmc3UyREt5Vmk4THB5dFJESUl1MUpQbVRhSXVMb1BiSEFwMzJ6QjlER0dPVG00azZOTXd0b3dnUnpDYWFnV0xIbGVDSFdPOFg4dW9IMXV2ZDFPVF95dWwtN08xdWZuT0pldVA0?oc=5",
+      "date": "2026-11-18",
+      "publisher": "時事ドットコム",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始(画像ギャラリー No.6)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yOWNFa0x6MUdFXzBOanl2dmJJMUMwOHh1eUptNDBYbnZ6YjM2eHV2Q1FQU0JycjdUaUotU2FlZ0dZRVFWMk5kbVN1Mm9heDhadXFfNkI4Z1BmOVgzZ2c?oc=5",
+      "date": "2026-11-17",
+      "publisher": "MOTA",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "沖縄もそろそろ厚着の出番？ 国頭村奥で15.8度、県内12地点で今季最低気温 (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWklwS1ZaUzk3aTBqaWlHQ1BVQmhRdGJKbTl4RUNlb2c2NW4yeTFJbmtiMXoxeFFUa3FybXBPSnU2cm5iYjFqSVhsN3dZck43LTgyU1luUDREdDJ0alZEblYzdjhNaE9lZ3FpeFR2UElQUHhRc25ER0Q4cklGVE5pbkxVNkx5dmJ1eGtjekFn?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村 (TBS NEWS DIG Powered by JNN)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXB5a1FZWkRrVm1oZU9yZXo1R3dRcW9YZTFSSW9RaVplZzFocm9MS3ppVXR3SGNjanp4Z3JDUHRfSXREVUdQZ0d6LWY4MDFFenN3U2QzVGtSbUljaHpWZEx3amNkRVNVOVV4ZXRoeWJtU1lvaDIzUkZnYkRxSHRJTlYxem9yWHpHUkFBYWZB?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村 (FNNプライムオンライン（フジテレビ系）)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVF3TVU2VWxnQWs5d25YcnNnelZFNlFMd2VBbG5Bd09sbUR4dlczaGRaWkFtNDE3TzhrcFc4TEFiaDFHYjNOTktRSHh1eGd5OEh4VlN2dFpseTNCNHFtTFd1dXJMUHkzYy1XcUtlbUdwcDNNbU9neTd1UXp1ZExfQUZlejhpT1NVMGtqWFRR?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-22"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwUUdGQ0JwZ2RnX3I3UmhLQWFtRmNvTGF0ampXVHVIUjc1QVpGTWNlOGVBbzRfb1FSRkYwY2p4V2ExOTZVOXVRbHV4cUx1MWhvUEVwdDNpbjhzdG50RnR1bm1JRGdkdm9CRklCMDFlM29GUkpp0gF0QVVfeXFMUHBRR0ZDQnBnZGdfcjdSaEtBYW1GY29MYXRqaldUdUhSNzVBWkZNY2U4ZUFvNF9vUVJGRjBjanhXYTE5NlU5dVFsdXhxTHUxaG9QRXB0M2luOHN0bnRGdHVubUlEZ2R2b0JGSUIwMWUzb0ZSSmk?oc=5",
+      "date": "2026-11-20",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-22"
+    },
     {
       "title": "県内２０地点で今季最低気温 冬の足音国頭、南城で１５．７度",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0MmRiNjBOUm1GZjl5Wm42VjFxZWxQSVNLN180aUtMOThlRjYxbDZCZmdVYW05MlVub0E0UF94TTdfczdtSHEyN09tT1ZSSGtveWNqMHpSeWY1UElyRzBGeg?oc=5",
