@@ -9,8 +9,197 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-22T01:38:18.535Z",
+  "lastFetchedAt": "2026-11-23T01:59:21.801Z",
   "items": [
+    {
+      "title": "名護で沖縄海邦銀行製作の映画上映会 全編ワンカットで撮影（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVWRrY2w1SzRZYnRTZTd3b3h5Y3l3OEE5UU5ITExSTzFvbVhub1Ytak1kWncwbHVUaVlqbmdjZTRlVHJBTGdxQzBTOWNnVnBpZ1ZydnlzR2dnTks2c1o5WnVsNVVsTy1SRmh1eGp5S1JSbVowMW1PY1huNjMwXzQ?oc=5",
+      "date": "2026-11-22",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "ペットの心肺蘇生法学ぶ 心臓マッサージ方法実践 名護で講座 ぬいぐるみ使い練習",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpZHdYSFNHTWotRVJ1Y3FGdnFJQTloYTExMFF5VFowa281Q0FKUExKS2xLV2p6aFhJLTZQaHN0VW52Q0xEXzg3VEItOHRQZS1sRDlFUW1lbWhUWldZMmc?oc=5",
+      "date": "2026-11-23",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "名護さくらの女王募集 まつり実行委、３０日まで",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VcHA0UC1fRHZiNGNIRU4xazhpbWNQdVRKdElBZlM1eVdFZW5mbmpjRVpHdzl1cFYxdUpDZ0ctRjI2X1NCSk5FeGtqeDFXcndFQ2FSX2szelQtVFd4SEE?oc=5",
+      "date": "2026-11-23",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "米軍普天間飛行場の移設受け入れを決断した元名護市長、比嘉鉄也さんを悼む 日曜に書く 論説委員・川瀬弘至",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1IxcUltalZaeGFJeEhSLS1kcldXVmJ2ZWZLc19OSUFoaGEteW00TEJ3VGx2U19uTEhXYzNJdDQybE9aOUFBNHRobkgwbUdrY0VQWlZPVFdtMmlCblU3eDRVUlJLNnd6OGwzZ1J6TEw3dWVPRnZKOHBHWGVDcFBKSFRmc013N0VCeW5oeg?oc=5",
+      "date": "2026-11-22",
+      "publisher": "産経ニュース",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "県産スパイス楽しんで 名護で２９日、飲食料品や講座",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yeUYyRE9lcU0yWHAtYV9SRnBKc191NkxNQzF2Ym51MnNwcTg5cGR5WE1wT3kzRHdzVWp2MnpZWEZjMDE3bGh6b3NWZmhYTWhubTlONV9yWmpoOEZRMUE?oc=5",
+      "date": "2026-11-23",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "さくらの女王 30日まで募集 名護の実行委",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rN05oRVR0Z3V5eC1FdWwzRFNIcGQ2MTJZTTlhQnppd1dmMFRTeUl6cDJkNGhuUGxIeEhjcWpQQmE4UloxcFhRYUdrTWZNOVZKUDZOY2xqU2RMbHM0WXc?oc=5",
+      "date": "2026-11-23",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "名護で沖縄海邦銀行製作の映画上映会 全編ワンカットで撮影",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LSm9FYXI5Q1RhaEtLcWN1OEJHQTRmWC1EVjFNN0JiMHJLdlhZal82SXJtTkJTS3hYLVhnWjdBRDRNTXkzbzg1X1o0NFVyakZoU3c?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "岩井明愛が２位 米女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KRlN4YmRfWF81d0J4NjVfRmItSVpKR2lEZ1l2c1pJMGhJc3BfWWpiRU5tMEoyUU05cEt2ZkVHRnQ1Sk1SMDFLQTExSHlJN3AzY2RHSA?oc=5",
+      "date": "2026-11-23",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "植栽で赤土流出防止 名護パイン農地で トヨタソーシャルフェス",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xV3VzQXUtdWQ0bVVPR3pvQ2N2d0syY2ZvLWVvRXM0Zm8wMmI5OEgta0p3QkJhbUxvVVB1WEFwR0VjankwNGRDWEhybjJOaF94aEhiSUtndmk0Vk5IYXZlMg?oc=5",
+      "date": "2026-11-23",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "名護の「ひとます」外観",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XM0Z3N2Q4bHE4TWY2UkpVZHQ4TGNibUgzSkplMHdiWG9DRUhlei1ieGJVMkZvUFgzVDhwR1FiMklSMG1DQkRVUjdIdy1JYmJ6ZmtFSnhn?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "大の里が２場所連続優勝",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MklIOWlBX1hKSGdsZzZUcFl2MDE5ODNvMlRRZWZCMkprcDg3OVAxZm0xTU42TmZlcVZXbDJxSXFlcUlTYTRLbVpIY2ZjTUNnOE1Scg?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "「赤い川はなぜ」 よみがえった首里城の色、きっかけは中学生の疑問 [沖縄県]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hZjVRSTRZb3Q2NXljb1lXWnNtQzF6a295ZkZwZHRGeEJaOEluYWxIc2FQUEhHNk4tVExYclEyWm5VNE9SdHJWMENPcUc4QzY5bldFeDhxQ0pGUnZnaHJMakN5NW1CNnc?oc=5",
+      "date": "2026-11-21",
+      "publisher": "朝日新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "古謝知事、普天間会議の開催要求",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubmVDaElSVlBOUWlOZGducWdicjZvZXl6dW15SG1KNVo5UTd5YkNUOHNhRXJKZTB0a1hQRkNEVFZwbXJkOW42WlVpY3hoRF9sTE9zVw?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "横綱大の里が７度目Ｖ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zX1c3QzM5TUZMbEw0T0FieVFIT014aVU4UFBwRzRtS0wwVVJRSng2RV9VZmgzUVFheDJqT3kxenVPRmp3UTFDZkVZbV90cFJycnJydQ?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "玉木氏、文科相は「問責に値」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaZkxuYjd5RmFKRzJtZ0hWdk9yX3pWT1diczNVY3BVWnFSVDNOV1A4cDNSZUUxaElCSXdxTjN6Q2ROUXRlS0dSMlNVSWgzSUtseVcyVg?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "吉田、２位で最終日へ 米女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YMjlzbmhzU3dRdDZqVmtTNjNja0ZjZUN6YVVSaUVKNk5XcElDSXhmcXdLd1Rzdk94VVhYUThDcmlVbmZ6clBWa0JVUjUzb1hZRGhBaw?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "ブラジル前大統領、腸閉塞で入院",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmTGFJcENhSmdEa2EyREx1cTJLa3YzUHpBSXF0NV9fcTBfWE53RFZYei1tdUxTanZ1VVBzS2R3X0tYVEc1LVZOQTFVb0Jfb2t2YUVZbA?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "島田麻央２連勝 フィギュアＧＰ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRWnVleEx2Ul8tVEF1c21FZzJVUDg4c3djVlIxWGVxYnhVSlAwUUtmQkZRQzJWS3hObnE3Nl8tMFZtRkdSM09FckVTTVNIeExTeVcwRQ?oc=5",
+      "date": "2026-11-22",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "日本、スコットランド戦へ調整",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HN0dUT1dpQ0RUcmRSbFMzYXpnT2dvREdxdmtQVy1NUnh1Z0Etb093dDJzWHZ4ZmJ6MGx3ZkQ0NThlSlMxM1FQNk1hOGliMzlWaVdKSw?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "水戸は連敗止める Ｊリーグ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vaXRRRlJ4Y2tyVGYzTExBcnptQy1sNHk5WHdXZE5DQkx4NmdaMjM4VHRuQUxHZDVhRWpwSTRQUHJ5LTlSR1FpMDhxNTAzV3NsbjlNZQ?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "全九州高校駅伝 男子・エナジック19位、女子・那覇西も19位 糸満、名護、宮古の結果は",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmMXp6aDJoUDB2Qkw5cHVDV0lPcUFjRlBpa1BpY296VURCdzRVaEVWUGhiQ2VoRC1hc0xMMXpod01aczdSY1A2dmx4aUxPM2ZqWmM1cFN2NzhHTFI3dXc?oc=5",
+      "date": "2026-11-22",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "全国高校ラグビー 代表51校出そろう 名護は23度目【組み合わせ表あり】",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hTVZwQjN4UG9yZzNkRVNfWVZZLTFSUnJ4RGhBZXV2bGtzYWhnUjVCTkhkOExtWDJGaFNVV1RvajNxYktKYXl4YW05RUVpODRJc0dFMDd6QzVwSUlzdnc?oc=5",
+      "date": "2026-11-22",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "ＤｅＮＡ、宗佑磨を獲得 プロ野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Oem8tWFB4WUw1cHl3R0E0cVpOa2tlUTZLZ3VIV3dFYUZpQ3hWVV9GaXhXT1F5cmppYzh1dXJzN3pfNXhOYlJCOWMyWVlka3hWOWtVRg?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "愛子さま、マーライオン見学",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OakhSUm80d1RFTTdOX2ItYl82amJqUU9JRzRBVEI1QzBHZWhJYWtxNFN6QXpUMXlSOWY4bTJ6WG10X01CLXdpQy1FSVJZX3lrOTdlRQ?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "横浜が４強入り 明治神宮野球",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90VDZaUFJsMXlWQkptSHJGM3otVFZ3XzRvNkRSV2xsMGFmM0pOZ2VNQ1lSYVdGbHJaekJUODU1T0xQOVRWMnY1WXhqODVDQjBudlpSTw?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "自民幹事長、関氏交代を示唆",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wa2dZREg1UkhJRkdZdXFZWjZGYXFETTlmNlVwVmxieUdUS1NaTUxEem5KMnhxaTJ6UmlLNkplazlFV0ZWWGxZZjFRU1ZWR3d4NlR3SQ?oc=5",
+      "date": "2026-11-21",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "Ｈ３打ち上げ、段階的に民間移管",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XM1JCOUcweWZyQ3J4ZXVlX2hSaERFSGk2TUZWblVUSDhocDJuN1dicmxvSm5NUmpveDMzNWdRMkQzZkVSTXJFZDVXSDdqUW4ySEI5Ug?oc=5",
+      "date": "2026-11-20",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-23"
+    },
     {
       "title": "津波3～7メートル想定 沖縄県が総合防災訓練 100団体から2000人参加",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80dTRsa0FaZE9OY1ZidXhNQkxsZTltSDRDYkpLRTVxXzh0VjlEU0RMd0xRMGE5QWV0eUxLZ0NReWZGcThPSXI5bjVaVlpRZTdLZUJjbUF2MkFVdVZlV3NnaQ?oc=5",

@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-22T01:38:18.535Z",
+  "lastFetchedAt": "2026-11-23T01:59:21.801Z",
   "items": [
+    {
+      "title": "沖縄県国頭村安波のことば 送りのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84X25ibFowOGNCeHhIUnlrS09KbFZiQTE5UV80ZnBtWTcxVEE3SFRJTUVpN1pYRmpWTUVNMWZtYU9DSUZOSE0tNFRISmdVUG45WWtvc3FPV18zSFNHQS11SGlkYnhKMlZXTFlvTA?oc=5",
+      "date": "2026-11-22",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "沖縄県国頭村安波のことば 道でのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSlJrd21peEV3eWtmNDdTWVJWWFhmd3BZRV9EYVhZOW9WTFEyaTB3dHNJZS03TjFGUnVaTjNaeTgxTDZxR1Q3WHpGc0lSZ2xGOGpuRWhpenFQeWJoY0Izb0hydG1zWlpibGZpUg?oc=5",
+      "date": "2026-11-22",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-23"
+    },
+    {
+      "title": "アスムイハイクス楽しんだ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMEJ5b3M5N0RIOEpYdGxXeENpV0FTOHN2Q0xvQzNoY0Q2dTh2N0VBSjdoNjlUaDUzU0NpS2I5dDdIVnd2NWZrMW82bk5rNU9hM2VEYUgwV0VIaTN4ZFE?oc=5",
+      "date": "2026-11-23",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-23"
+    },
     {
       "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05MlE1ZndHckMyckd0QlBQYlZaOVY4VGp2WGtyc0p3YW9zaWJIeVdBMkpZd3NlY1lfakZtRWhwaFFEMW9rN25PZlZFWVUwRTh1X1J4QlMyRQ?oc=5",
