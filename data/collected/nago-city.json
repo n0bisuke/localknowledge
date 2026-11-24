@@ -8,8 +8,14 @@
     "url": "https://www.city.nago.okinawa.jp/"
   },
   "method": "links",
-  "lastFetchedAt": "2026-11-23T01:59:21.801Z",
+  "lastFetchedAt": "2026-11-24T05:34:35.192Z",
   "items": [
+    {
+      "title": "【複製】【解除】林野火災注意報解除（終了しました）",
+      "url": "https://www.city.nago.okinawa.jp/articles/2026112400017/",
+      "date": "2026-11-24",
+      "firstSeen": "2026-11-24"
+    },
     {
       "title": "【発令中】林野火災注意報",
       "url": "https://www.city.nago.okinawa.jp/articles/2026112200013/",

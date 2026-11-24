@@ -9,8 +9,36 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-23T01:59:21.801Z",
+  "lastFetchedAt": "2026-11-24T05:34:35.192Z",
   "items": [
+    {
+      "title": "トップ 放送文化資産 文化 沖縄県国頭村安波のことば 迎えのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNDY0bFd3LUVndlg1MFdldGJyN1U0MGk5aVhJeWxfaldrQ3h6N3NCOS05dEgzWDhBaDY3eERaOW5yRG9kN0MyNUQ5UWhyTElyX2o5cHdTWjVwaTFHTUdnS3FlT25EODJDdWN1OQ?oc=5",
+      "date": "2026-11-24",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "title": "沖縄県国頭村安波のことば 朝のあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16UzVwRk16MVhVQVlFQk8wM2Vfem9sVkZOU3NlUVNKRGpwMnEweloxZUlhTHo0Rks2bEVBSm95YXUxWGsyejJhQTZQek1xeG5aY2psMkRMS0FsalBfU1U0SmFmY21CQWd0SXdKcA?oc=5",
+      "date": "2026-11-24",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "title": "沖縄もそろそろ厚着の出番？ 国頭村奥で15.8度、県内12地点で今季最低気温（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13YjFfb2dhWVN4ekNIQ0JsekgtT1RSdlpwSGx4d0lkcTNQcHVmUEVHNm5wd2VhVFBSUnJ5S3J2V0RON0hJbEtjeW8tb2ZXekZ3M3d1SE1WWlh2RG5VamM5d0pzSFN4SEdicF9tRFcwVG9tUm5najdBdkg0UkdDeEU?oc=5",
+      "date": "2026-11-20",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "title": "【動画あり】国頭村にザトウクジラの死骸 体長5メートル 沖縄",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BMExjX2M5ck1WMFQxVVJZQWszSWNkUFY1UWlhNkdKMjJzNk9OV25DRFp1Y0Q2NEN5ajdaclJFZ3ZDTHRRTW1FMmptR0ZmeHY0LWdjd0hrMzIwSjhjdGc?oc=5",
+      "date": "2024-02-07",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-24"
+    },
     {
       "title": "沖縄県国頭村安波のことば 送りのあいさつ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84X25ibFowOGNCeHhIUnlrS09KbFZiQTE5UV80ZnBtWTcxVEE3SFRJTUVpN1pYRmpWTUVNMWZtYU9DSUZOSE0tNFRISmdVUG45WWtvc3FPV18zSFNHQS11SGlkYnhKMlZXTFlvTA?oc=5",
