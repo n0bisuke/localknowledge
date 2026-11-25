@@ -9,8 +9,20 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-24T05:34:35.192Z",
+  "lastFetchedAt": "2026-11-25T04:36:45.097Z",
   "items": [
+    {
+      "title": "１１月指名手配被疑者捜査強化月間",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_soumu/11%e6%9c%88%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d%e8%a2%ab%e7%96%91%e8%80%85%e6%8d%9c%e6%9f%bb%e5%bc%b7%e5%8c%96%e6%9c%88%e9%96%93/",
+      "date": "2026-11-25",
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "title": "令和８年１２月２日より沖縄県最低賃金が改正されます",
+      "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%ef%bc%91%ef%bc%92%e6%9c%88%ef%bc%92%e6%97%a5%e3%82%88%e3%82%8a%e6%b2%96%e7%b8%84%e7%9c%8c%e6%9c%80%e4%bd%8e%e8%b3%83%e9%87%91%e3%81%8c%e6%94%b9%e6%ad%a3%e3%81%95/",
+      "date": "2026-11-24",
+      "firstSeen": "2026-11-25"
+    },
     {
       "title": "～迷い猫～（26111901）",
       "url": "https://www.vill.kunigami.okinawa.jp/sekaisizenisan/%ef%bd%9e%e8%bf%b7%e3%81%84%e7%8c%ab%ef%bd%9e%ef%bc%8826111901%ef%bc%89/",

@@ -9,8 +9,29 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-24T05:34:35.192Z",
+  "lastFetchedAt": "2026-11-25T04:36:45.097Z",
   "items": [
+    {
+      "title": "沖縄県国頭村宇嘉のことば 買物でのあいさつ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNF9HVUNCd3hvcHNTZGNYQktrWlNUWWkza05nWjR2VlJiQ2Zwb1VFZUNjZXFvbnlDTVZVUnhPOUlFZ1NhaDRRclFzVHM0ZlBLbU9RaVQ1a0hya05sZTBKUnZ6eFdMMUVKYTFsNQ?oc=5",
+      "date": "2026-10-02",
+      "publisher": "NHK",
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "title": "沖縄県国頭村でくにがみこども園へのラグビークリニックを開催しました！！",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrejFEMWJHekY5T0UxaGZsODVhOWtWOVdTZDRndUZSQk83Ykw3SGZPLWhNeF96QXBSMkNYWjV6dzRkWUVPSlU2RU9QMkoyQTNDSzE1ejZ4UVhMbHNM?oc=5",
+      "date": "2023-10-16",
+      "publisher": "レッドハリケーンズ大阪",
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "title": "本山学長が沖縄県国頭村を訪問しました",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50cGl5cG5qcWRPLTFLVE9wZHpEdUw4eVpWNFc5TVBqSTg4UkpXVWlBUm51cGc0bkxsVXBkVHBPMzZLa2dNOEE3QzJfQmEzaXhQYVBkenhCeGdERTlJ?oc=5",
+      "date": "2024-09-03",
+      "publisher": "和歌山大学",
+      "firstSeen": "2026-11-25"
+    },
     {
       "title": "トップ 放送文化資産 文化 沖縄県国頭村安波のことば 迎えのあいさつ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNDY0bFd3LUVndlg1MFdldGJyN1U0MGk5aVhJeWxfaldrQ3h6N3NCOS05dEgzWDhBaDY3eERaOW5yRG9kN0MyNUQ5UWhyTElyX2o5cHdTWjVwaTFHTUdnS3FlT25EODJDdWN1OQ?oc=5",
