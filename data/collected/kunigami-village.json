@@ -9,8 +9,20 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-25T04:36:45.097Z",
+  "lastFetchedAt": "2026-11-26T03:47:46.801Z",
   "items": [
+    {
+      "title": "「第６９回がんじゅうパークゴルフ大会」の結果について",
+      "url": "https://www.vill.kunigami.okinawa.jp/i_kyouiku/%e3%80%8c%e7%ac%ac%ef%bc%96%ef%bc%99%e5%9b%9e%e3%81%8c%e3%82%93%e3%81%98%e3%82%85%e3%81%86%e3%83%91%e3%83%bc%e3%82%af%e3%82%b4%e3%83%ab%e3%83%95%e5%a4%a7%e4%bc%9a%e3%80%8d%e3%81%ae%e7%b5%90%e6%9e%9c/",
+      "date": "2026-11-25",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "第１１回国頭村長杯中学生硬式野球大会の中間結果について",
+      "url": "https://www.vill.kunigami.okinawa.jp/i_kyouiku/%e7%ac%ac%ef%bc%91%ef%bc%91%e5%9b%9e%e5%9b%bd%e9%a0%ad%e6%9d%91%e9%95%b7%e6%9d%af%e4%b8%ad%e5%ad%a6%e7%94%9f%e7%a1%ac%e5%bc%8f%e9%87%8e%e7%90%83%e5%a4%a7%e4%bc%9a%e3%81%ae%e7%b5%90%e6%9e%9c%e3%81%ab/",
+      "date": "2026-11-25",
+      "firstSeen": "2026-11-26"
+    },
     {
       "title": "１１月指名手配被疑者捜査強化月間",
       "url": "https://www.vill.kunigami.okinawa.jp/k_soumu/11%e6%9c%88%e6%8c%87%e5%90%8d%e6%89%8b%e9%85%8d%e8%a2%ab%e7%96%91%e8%80%85%e6%8d%9c%e6%9f%bb%e5%bc%b7%e5%8c%96%e6%9c%88%e9%96%93/",

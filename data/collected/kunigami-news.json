@@ -9,8 +9,43 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-25T04:36:45.097Z",
+  "lastFetchedAt": "2026-11-26T03:47:46.801Z",
   "items": [
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkY0hydkpFam9GU083bkJqVW05Wlh6RU9tcnpubmhzY2p3U2FnYkZRaVozRU9PRzU0RDJmSWxfOW5scWVNMTU3VzdVWGI5dw?oc=5",
+      "date": "2026-11-20",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始(画像ギャラリー No.11)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0NmZqOUQ3c1BxWFlkdUh3UnFsM20yVzRzcGlFbVFuWGZ5d1RVbjJnSkMyS3oxV3JaTXZBcDQxZGNPQTFTLXBRb1Z6VlFjcU42ank3SS01VFRvQms5QkE?oc=5",
+      "date": "2026-11-17",
+      "publisher": "MOTA",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "沖縄県で最大震度1の地震 沖縄県・国頭村",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaR3pxWmhDSU9DaVJfMTl6RGpVb1Z6b0V2M0JtNFV3YXF0S1YxYUt0NHBZZUdnVU5MU0t4RXl1QXl3M28xTV94Y2NUeThoQm82OFBWY0NSc05CcEZBbGJV?oc=5",
+      "date": "2026-11-20",
+      "publisher": "千葉テレビ放送株式会社",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始(画像ギャラリー No.1)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nbVdyTXZkbVV4UkhIWUxQbmlvQVByVVpJakY2VlBXRU4zVzZqZDNfTzAwcm5sSkpJN2lubjZ1NEN4NnlwaVJSVDQ5bkFDTlk1QWc?oc=5",
+      "date": "2026-11-17",
+      "publisher": "MOTA",
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "title": "みつばモビリティ、沖縄県国頭村で公共ライドシェアの実証実験を開始",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZ3hzdlMxT1BkMGtiMFpVT0RRdUIyeEFmcHYydEhjNTRrUVd5RkFwcHVCcFU4QTBmdVBHbFRIc2JTQ0xwV1J4QzJPSzFZMThPMnhNQ212bFlKTzNidnZTbE1HQWRSMm81NXpPSENKbDNfUQ?oc=5",
+      "date": "2026-11-18",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-26"
+    },
     {
       "title": "沖縄県国頭村宇嘉のことば 買物でのあいさつ",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvNF9HVUNCd3hvcHNTZGNYQktrWlNUWWkza05nWjR2VlJiQ2Zwb1VFZUNjZXFvbnlDTVZVUnhPOUlFZ1NhaDRRclFzVHM0ZlBLbU9RaVQ1a0hya05sZTBKUnZ6eFdMMUVKYTFsNQ?oc=5",
