@@ -9,8 +9,365 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%90%8D%E8%AD%B7%E5%B8%82&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-26T03:47:46.801Z",
+  "lastFetchedAt": "2026-11-27T03:48:44.582Z",
   "items": [
+    {
+      "title": "【レベル4大雨危険警報】沖縄県・名護市に発表 02:54時点（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbm1hdTZUNWZVVF91RG5KV2JWVmtxdXI4NjJQZDFCQUdUVkx1QVBPLXFnb1ExWFRTR2J2YU9ZckFDYUh2Z3ZDdDVPVC00X011MmVXWWlYZWRyZW5ZY242ZlNQLTROdUhQcVJUb3ZzbE1nTTBvQmFvRG13S3FiUWM?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄本島地方名護市にレベル4大雨危険警報が出されました",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVXRuZnNtWENBZmN3SGcxVHZmTlV5R2tOM2RsV2VxbWlCZkZiQURFYTRuWXh4T2hFWDFBVXZiQ3Q5Z0JGMVFsU283Xzl5MktkZG1laEIzOF9CTkdmTC1na1pZWkR2TXM?oc=5",
+      "date": "2026-11-27",
+      "publisher": "やさしい朝日新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県名護市に発表（03時42分時点）（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wd2VKYUg2dklkUlJ5b1RaYU1IaXNjaWdmZ3d2VWVBN0k5dU5SWGtuUGNrX0NSc3pKckl1NHVMMU1CeEdWOFBDNVo4QXRYV3UybXpzLWVhcm9sWVgyaEM5YXlhUXNlTS1YZ1VvWlhJYw?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "県外企業がアグー豚の産地視察 名護市（RBC琉球放送）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MeVlUbFhJeGNTTmoxM0tWMVJKdVpuN1Z4STA5SDVYc3Z4WFJDRWpWd0tyZm1hbnRKaWtHRVBvQkZvR19rSWxZaW9qYVR2S2ozbUdtZVVTb2tVblF2LTNCbF9sbEd0eWI1ZXR0dVZ5WWVVTWhfWUdPWjJqSFpFYUE?oc=5",
+      "date": "2026-11-26",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "写真：名護市で愛された老舗「かっぽう山吹」 半世紀超で幕 会談の場にも「すごく気を使いました」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QdnpsbXN1dzhMRzdiaXFOR2xoVUh1Rlc3MkdqcU85M1R5ajhGaTVqaVZCTnhCbUxGS0RocllILVdxLVRXZnd2dk0zY1hPZFZCZGxwQUJzWUNMY2lsNkFrVHAwN19xQQ?oc=5",
+      "date": "2026-11-26",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護の日本料理店「かっぽう山吹」が閉店へ 58年の歴史に幕",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTEVPLVA5R09GUnNsLXVVZVFxRUtGUHRLTW5YeUhETEtFWVdnS0FYRVhOY280c1pITC1wQ0QwM2tFd1EwbEp3X0VFcEtwcm93amc?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護・大宜味・東村・金武町 レベル4解除（10:19）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QNk1FZEdQM29kWExRaXYwaG5IVzU0VHJpT0EtbWNBY1VPbFdoWTJmbm1hRXcxb2Y5VTZkMEd1Y05YTUhQTFd6QXZaLVFIemNsdlpKeVRzSURheDU3YmxN?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄で線状降水帯が発生 名護市などでレベル4大雨危険警報（毎日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00RTVyVlhrSHhBQklzWWFyQXpYalVNVUhFcFNDYWNhU1NHTFluU0sxSDhFZkhaNlVPTWhlYU00MlRoMzdhVEJrb0dZY0syQk5Qekg2U1V4NW1uWloycmRfM2FwR1RMekRFVW5BNXppd1dLajdRNWxCSldzRkF5VDA?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "県外企業がアグー豚の産地視察 名護市",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uaUlPRUdoT2FYTXYxMXJ3dE1jUEFmRWpQMnJqLXFtbTZ2cGU4QXBMcDJBb3h5eGdIVVUwNnRjdlg5X3BNYi03Qzg0Q0xFWFdJRHRRYU1wVQ?oc=5",
+      "date": "2026-11-26",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護の「かっぽう山吹」が提供する料理",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLZ1RhUU83SzNjcnVvS0VwMlpORW1kMkpsdjlrQ3ZpZEdjM2thR0ozbzE5Z2t4dm1sUUFla0VMT25KTmp5M2Y2RDJlcFhkcmF5MmkwTEtR?oc=5",
+      "date": "2026-11-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4大雨危険警報】沖縄県名護市に発表（02時54分時点）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xMHFfdWxkTWgzbzcxRXNESDQ2VnRBUFczc1g3blZnb2RCZmtoWGwxSU9sWlRweHBSRkVRM2d4M1JJd3ZlLWtwOGdqLS1idw?oc=5",
+      "date": "2026-11-27",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・名護市に発表 02:00時点",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRHBmeGtnOVpvNzhfNkVJUV9FYU9TN242em1jUFNZNFlHeFhGa3huV1VsSjMxVmMyZ0c5S2x2WWN5Z1RrX2VuVzlyOEs1Ri1LWlVMVFlhM2FKTUVM?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護市に大雨危険警報 本島北部 (2026年11月27日掲載)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OUGV6N0o2TlAzeTlHNXFkbXVQTFZjSVYzbGZpM3VCVUxNcXFOZy1pd3p0OWFBOVZoYndzMzVxRnZrOThTVXdKOGFBS1otaVpFclJmdElxWEljcW9lX3c?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "給食完食 「ペロリ100回」 名護 緑風学園の生徒",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYkpONGJKd0dzWWpWS1NRQ0g0LVhiMEJLMjZneTUxV0EtNWp6QjBmWFd4RWNPbTlya1Zvb1UwTzZXZVdLZTdla195RHVmbDVFdjFhcWVWNThaRkZBU1E?oc=5",
+      "date": "2026-11-27",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護・為又でエイサーイベント初開催へ 沖縄の5青年会が集結（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rN2NRaXdiNWpSaUhFN3FkdTdUck9GUGJBX1o3LVVSV2JLakoxSXZNM3pTNUduVGw2d09ha3FVdVhUY3BqQnBiTzlwTDNtQ2toT1NMTDFSc2I2VlZPVGp6anU1eExwOG1BemY2Mzk0QWlWNU5KZnZCck9yXzhNNVU?oc=5",
+      "date": "2026-11-25",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護の日本料理店「かっぽう山吹」が閉店へ 58年の歴史に幕（みんなの経済新聞ネットワーク）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sNjZtRlltaVc3S3Q1NDlyMGc2VmZSVmNCcmVKemlTbWtFU3pBOHZheFM0OGVpTVVpbk95cDZrQUVkYkhVem1OYWNvaEZoaGpSTDVxZGRaWk85cU82dkd0UE9wT2xMenE1cGpSczlMYkhDVlU1TEgyTmgzWDlOYnM?oc=5",
+      "date": "2026-11-26",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・名護市に発表 03:42時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ndDlWdElYSmJSbWstNVFza3VjRVhWWHYyMUZ6MWNPNndhVS1DdUx4X3NPVGo5elBTeXlSbXdmWklqWHRESGJqTnBKZGxIaHhQMnVVWWFZWQ?oc=5",
+      "date": "2026-11-27",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護の「かっぽう山吹」外観",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtaXVrT1R5aVRyd0pVS0hJMEViTmdXOGw5U1BmZE1xRkxYVXhzN3J1NHhXNGZHWmtZUnpKb2pVdHJfa2g4NlpiVURWS2E3Rml1dFlXbUxn?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県名護市に発表（03時42分時点）（FNNプライムオンライン（フジテレビ系））",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YWpSNXlRdGxVQm9VTGhDcV84MktvbnJIZWJJMDJ4ZGFiMXl1MkFzRmxnaXoyakdjelhHYW9WaVcyNzdWSEx2SzZDaU5uMjVvU3NPaExseTEtR3J3TF91LXFsckV1a3AzQ0h3ejd1aFA3TFZOeWlVZzRMXzJoRm8?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県名護市に発表（03時42分時点）",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yQ1QweWsydkxLelQ0c29KcXNrVnBEVzJGdjlQUG0xTFNZMVN0aUQxZVJFNFZyQTJqYUJKUkduVnlXS1hlLTFhVFdZdHpRQQ?oc=5",
+      "date": "2026-11-27",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4大雨危険警報】沖縄県名護市に発表（02時54分時点）（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WMHdrYjVkYWNTOElEX2dNRVJMeG1JQkRuSDBQUkVrQ3RaLXh6empGV2diMzZOczExOS1yU0c5ekJPcXpPeVp2Z0hUZnNJZUpFZHFuR0w4Zzk4NG9hUnVRS2VqLWF6ZnQzR3d6UVRMQQ?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・名護市に発表 03:42時点",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaWXF6QlhwVXA2R2pmMmVRZlJxZlg3eGRxc2JsdWpYMFpVRzc3XzRRNzBpTXl5OC1QM0xOSDV4enoxc3N4RE9nSWY3UGM3SkNfeW11blNibWhPdW9D?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル４大雨危険警報】沖縄県・名護市に発表 02:54時点",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xSVUyYVAxOWlFdXJXNU9GV19oVVFHRS03bWtSN3N0eWpzeWJJRkQ5MDJudXdZejJWdThnbTlBSWNiS1hVVzBad3QtdFh1RjRFRkp1RnA1TmEtZWVF?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Infoseek",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・名護市に発表 03:42時点",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53NVNWeGlQRGwzUWtvaFV2ZUZiTlBaRDJZUTJJM1JQNUF3cGxXa3ZZX09DbVFYbWRSWFB1NnVEUDBETG95YktFNnRPYjduV21FYXNScm82ak5EVkN6YWdj?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル４大雨危険警報】沖縄県・名護市に発表 02:54時点",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMbWt5b3VMZnlQOHF2VUEtUzRDbUlKNWRvbWcwVEZ4czIxU2pUU1N4NWhHanMzZ0dycElXdUg0LXRvR05JcGMzTzlnd0xOUmc1Sm1GZUsxbVhqNUpSVHhv?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・名護市に発表 02:00時点",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LLVYtMEw2NFlRaE1XanRKQVk5d05vdG04X2Fia25XYXVMSUI3NUlpUDVnY2p1Ti1sbXpFYUx6TG1xVkFaRGo2SVdIMjZIZXpnNGoxWEJOcnJJMlE1eFJv?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ライブドアニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄 名護市にレベル4大雨危険警報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MU1p3bjk1REUyZW5KcmJXSFh2Z1l0NElIWXNaVC1GbHVmTDN2b0xWTW9sZmZPeVlUNmt6clFfTTNNTVg5Mk8zZXV6a0c1ZHlKSE9yUkFRbGd3OExkcUVj?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル３大雨警報】沖縄県・名護市に発表 02:00時点",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZ3FWNm1odTgyYzZYUHFSVkVvR0ptcmpUbVUyTkl2Yl9POHFrOGdId3ZGVFo2Ql9HQmI0UDlUcm5xaV95bFJMSHlyUmtwckpZanNlaUt2dw?oc=5",
+      "date": "2026-11-27",
+      "publisher": "TBS NEWS DIG",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄本島地方名護市にレベル4大雨危険警報が出ています（更新）",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTTZlTlNaLVlWNEhOeGczRTJFTGViVDR1aEY4R1hFZ2NsTU1Id3NDQWdkYlRlR2lhbnIzbXB2d2NvVWtMT0FYcV9WbVlMVnh6TnNOX0N3b2tTMVdqb1VWc3VVcGRYbWs?oc=5",
+      "date": "2026-11-27",
+      "publisher": "やさしい朝日新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護の「かっぽう山吹」が提供する料理",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MNnU0TUNzV19DcE5INThsMVlISUdOTHlicjRKTG5oVl9MUlVtbzRfV3RqTjNYMzZpalp3M25JVGdIR01XSlRkcU1QLVQ2RF9sSjg4YUpR?oc=5",
+      "date": "2026-11-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄 名護市にレベル4土砂災害危険警報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlc3WFFQcUZ5aXdxR3MzLUNLQU1nVGt4Q3RQd25Jb0ZFOFJUQVh2c0pRREpwWHdyUHF0ZWFPU2gyZ3NrWWtEeFJLLWZPRkdUYkRHWE1PUHRmdkhrem5Z?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "北部に線状降水帯が発生 非常に激しい雨 レベル4大雨危険、土砂災害の各警報も＜随時更新＞ （琉球新報）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50LW53NmVRamRzWUJIbG5PekdFUnRJWDhtcVA1Q1NiU3JEN0lSN0RNOGJXWTBqQVR4VVlMZGNXaTJyU2k1MWxRaVlsNW9LYnRPX1VyVWdrY1dSYk0zZWNtWGlTdHAzdW1RU0wxTm10ZHhUb18yanJLNGcwWlVXMWc?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "沖縄 名護市の一部地域に避難指示",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1haHlBdFNCN1RBaGN6NHJZTnJzdVhObkk3T1pyaGtPZzlleVl2Z1BOTmNGSE1la0FnblgycVVBeTRwX29RdlNKZHFLTXNzSWJuTzZVS1VYc3BBTDRvWWZR?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県・名護市に発表 03:42時点（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdVNLY0VtVUZfS0ZCMU80NFZJX2ZDQ2trNVF3aFhSY3FtX2VoU1lSWUk2VzB0R1dxU0MwNUlQNXhTSDZzSjBVcFNxRVNJMjRIdlUxOTNMd0ZBak9JMW01emljbEYtM19QaTVVZGEyZ0l0b0RkSHgxVnJ6Z0hnRlU?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【レベル4大雨危険警報】沖縄県名護市に発表（02時54分時点） (FNNプライムオンライン（フジテレビ系）)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXU1djlfdjZKMWpMTl9qTC11d3lhQksxUnQ2VC15X0tKNUVsbVdOeFJlY3JMY1J1Q1BEbTFpUXUzLURrdV96M01OOGFZUXhxVkZ0bDBrbk5fVVFVMEhxclBuRV9IUXU5TDlqUHBER3V3WFMtdjduN3JFN3pxY0ZCYW5Mbnd0MEZCZXJRUDBR?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "県外企業がアグー豚の産地視察 名護市 (RBC琉球放送)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDRVTnJQNDZ2M2xtOFdoNC1aTnJibjJGaXNRSkYwS0ZpaUllS3FiTGhIN3RVdmEtdGw0bDVXb0d2ci1PMW1NbGVkSG10SEFMVm5RTlVSTTFRVTNkWG9oTGtoVTl0dDhEVmZqUHVlcEJONDZIUURTcVNuellTekp0YUJ1QXVpMW15NHAtQjJR?oc=5",
+      "date": "2026-11-26",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "吉川さんに人権賞 名護出身 環境視点で基地問う",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tMmZDWk5fTHlJRzM4ZWF0YTVhU3dMLVFPU2xwV2hyVjlYTmQzTExHN0NHWkctbndEbjRtd1NiREw5emhQT3F4MGRtZ2N3Vmt5cHFwbXRCUVBtbzZzU3c?oc=5",
+      "date": "2026-11-27",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "ラン６１点が出展 秋のらん展示会 名護、きょうから",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HeXhxcGpsdC0zeVE4bFZvamZCZ0EtZmJqX1lWUHpQVllpMDB3RXNjNmFHcDlCS0J6RFhRLWU3OVBxOW9SZU90QXVQY04zWjY5M1hBOEd1TWxsdXV1cElJNw?oc=5",
+      "date": "2026-11-27",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "石井武志、王座守る ボクシング",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQ1BOZW15SVFsemp2Wk5rOU1WZi1SN0FBUU9JUHU1ZjZ0RHBqUkF6bVhnMnJBQ0pVOWwxTUdxcDFaN1RmcTVtQUx5V1JSTjFfLVVMdg?oc=5",
+      "date": "2026-11-27",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "【独自】エナジック前野球部監督が辞任へ 追加の謹慎処分受け 高校野球",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91NmZPUk82S2hubjFVM3NPVy1RWTZyelRLTWNmdnItSTFQejVQRWZZOU5LRGxfYUpZRkxLaXpndHJGVC1Db3V2Yk1JMHYwdTNMeld0aGwtQy1HR2VBaUFoNklB?oc=5",
+      "date": "2026-11-27",
+      "publisher": "琉球新報デジタル",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護、日ハムキャンプに向けテッポウユリ植え付け エナジックスタジアム近く 沖縄 (琉球新報)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmx4cldmdDFkdGpnc1RYUmRkTWpQQ3VGSmNEYjRlT3gzSEZhaE9kTmI4UnBzMFNxU3ExR1l2RmxSZTNpUWRaOXZTVGw2aW5rTnd6YnpCRWtGOTN6N0xmRXpZRzBORF9iUWJVaWJ3LS05dVJqYk9USnFCWlJjSjdjbFVXZWM4Nm5FQnZJdHdB?oc=5",
+      "date": "2026-11-26",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "名護さくらの女王 11月30日締め切り 名護さくら祭り実行委員会が募集（沖縄タイムス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lNU1zRkwzd1BGMDczQWQxb0xQbVBrajBUV3VIUjI0VTY0X0RVcXpoWWMtSk5XRHo5LWJMa2pLdUNnZm5Pd0tqOWdRRnAxSDV3a1hKNUdneWJVQVFsNGpZWTRubkZSTVFnNmUxQ0N5dWk5Y0pnTC1RVFhIS1BnX1k?oc=5",
+      "date": "2026-11-23",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "日本語学校で防犯ボランティア発足",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RSUNueXhkZnRGVC03bjAwbVd1UHdMV2tibFgyc3dMdkxvbkM5MV9pUkh5U01RVzRIZThqUzYtOTlZVS1KSVlETlVKR0F1UnY1NVRFcw?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "芥川賞作家・目取真俊被告に罰金３０万円判決、沖縄米軍基地近くのフェンス折り曲げ…「座り込みなど活動は続ける」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZRUUzbmVBXzVBcy1vTHpFOElEeWllbXY5MFBsZXhhSnFXSE1TbGJ4cFhLZ1YzbFRhQzZTMXc4SzVmM183dzEtZEdscjJGXzhGNTBmdkxHQzV6YzJBa0tpeU45ZGNYQQ?oc=5",
+      "date": "2026-11-25",
+      "publisher": "読売新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "日マーシャル、連携を深化",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zLXdVT2Z3aDZ4TXVOWlh6bFNWa28xdlVoYUJlTzhma19Id3QzdUs5djZ3Q1JRVTFRRlU5WXRSeG91ZEhjOG5qWUk3M2hLUGM4b3phOQ?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "フィンランドからサンタ来日",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NNnJ6VnpVX3RwcWZDQmlUbXkzbnJCdjRXVWlPbU56eGFnbWJPbEE2LVRZRkFIUE5nSzZiekxtM0FSTF9WZW5XV2MyRVBtTUo5RmZ1cQ?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "高市首相、地元の柿「甘い」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYTjBKR2dhWDVINWVPN2Q4dWxSblE1bDhCTlhCNHM4c0xXTWRuM1BYZ0NfRGR1dG1rNW1NQXR4OE5UWUgySnFFN1g2YVluUHdUSjVKQw?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "桑木志帆ら首位発進 女子ゴルフ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxWWJFOGhCVU5Dc3R3VDBGSEdNRTFTRWkxWUk1cDUtSXRVNEFETVREbW4zb242d0hMb216dTMzazRBQmRVM2xkTVhuazVTcHBnbDJ3OA?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "水の精霊に感謝",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrMlNHUzVvMngxR0hrWV9heTdIeHZ4bzN3YjVFMzRSVTlsbk9hcnVZZ2k4ZXJfazNxYW5VblJWVnlqRjNXZTlYblRFbF9ZVUlRdWR0Zw?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "自民「改憲で憲法完成」",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BajVKc2htWjFBRzloQkZuXzhkb2RVdjQxRkIyMW9HeWV2ck9uSHJXT2NqNXc4ck8zSThHOXNTcnQ4Uk5oQUt6TWJqMHZFVjNtdzVSbg?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "title": "都構想の協定書案を正式決定",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41OGJBWEVNNlNaY01ybzV2ZVo5MmlDel9ZNXFCSWxCVzQ0bEdyb2JzOUVfTnFJRlhRc1BfX0RlQXkzbDc4WE1LbF9idmVwMjd2UFA2Xw?oc=5",
+      "date": "2026-11-26",
+      "publisher": "やんばる経済新聞",
+      "firstSeen": "2026-11-27"
+    },
     {
       "title": "名護、日ハムキャンプに向けテッポウユリ植え付け エナジックスタジアム近く 沖縄（琉球新報）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xakJlT2ZRWldMcTBrZ194RnVRUlgzaU96VWViWk1lQnZUb0ZodmRNbHRHY2NvTVRwVVhfVzlGVzQ3UEphRDAwbmt0TkxuOHhxTVdPbDZRQ18tSEFnNzc0TXJJQ0lMMC1kaDBLUElLRmdGZ3p3VU5kWm1KMkJjaXc?oc=5",
