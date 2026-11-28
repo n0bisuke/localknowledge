@@ -9,8 +9,14 @@
   },
   "method": "feed",
   "feedUrl": "https://www.vill.kunigami.okinawa.jp/feed/",
-  "lastFetchedAt": "2026-11-27T03:48:44.582Z",
+  "lastFetchedAt": "2026-11-28T03:33:27.399Z",
   "items": [
+    {
+      "title": "令和８年第６回 国頭村議会（１１月）臨時会の会議結果について",
+      "url": "https://www.vill.kunigami.okinawa.jp/songikai/%e4%bb%a4%e5%92%8c%ef%bc%98%e5%b9%b4%e7%ac%ac%ef%bc%96%e5%9b%9e%e3%80%80%e5%9b%bd%e9%a0%ad%e6%9d%91%e8%ad%b0%e4%bc%9a%ef%bc%88%ef%bc%91%ef%bc%91%e6%9c%88%ef%bc%89%e8%87%a8%e6%99%82%e4%bc%9a%e3%81%ae/",
+      "date": "2026-11-27",
+      "firstSeen": "2026-11-28"
+    },
     {
       "title": "「第６９回がんじゅうパークゴルフ大会」の結果について",
       "url": "https://www.vill.kunigami.okinawa.jp/i_kyouiku/%e3%80%8c%e7%ac%ac%ef%bc%96%ef%bc%99%e5%9b%9e%e3%81%8c%e3%82%93%e3%81%98%e3%82%85%e3%81%86%e3%83%91%e3%83%bc%e3%82%af%e3%82%b4%e3%83%ab%e3%83%95%e5%a4%a7%e4%bc%9a%e3%80%8d%e3%81%ae%e7%b5%90%e6%9e%9c/",

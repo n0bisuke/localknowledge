@@ -9,8 +9,78 @@
   },
   "method": "feed",
   "feedUrl": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%A0%AD%E6%9D%91&hl=ja&gl=JP&ceid=JP:ja",
-  "lastFetchedAt": "2026-11-27T03:48:44.582Z",
+  "lastFetchedAt": "2026-11-28T03:33:27.399Z",
   "items": [
+    {
+      "title": "沖縄で異例の線状降水帯発生 1時間に79.5ミリの非常に激しい雨 一部地域にレベル4土砂災害危険警報 国頭村では地すべり",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nMFdpNDVGYWdNM3Y0R1pxdzRpMTd6VEdyZk9hVUFzTGt2RndNeTNzeFdTLVF2NGVjb2tUM2EyLXBxYWxVdURkbGlpazFHdw?oc=5",
+      "date": "2026-11-27",
+      "publisher": "FNNプライムオンライン",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "国頭村の県道70号で土砂崩れ 安波―安田間で片側通行に (沖縄タイムス)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnZNc2pkZlRLUHM3NVBBbnY1aXRYZXUyMklhQlRQUE14MDN0T1dCWFZBRUlGaWVsVmxaZENHWV92YTcxYTFoMFB4aXVqdW9fTzJWaUdSLXp0TzV0Z0lpOFVaRGUyRkkyRGYwZE5fMjdCclNwSm5reExOWWNncnJsamtEQVV5bXdBSkR5NkFn?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "沖縄 国頭村の避難指示解除",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nSjZpTWVQcGxTNnRIU0UtMkQwQmhjX016OGhJYkZOaVZadFp3WFV4c0NuNlVYRWRhVHp4cjlRdFBxYXdSa2ZJQndMeWtDTWRpdjBNQ25YYUFzdnFkbVRz?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "国頭の絆 西原で再確認 「北斗会」最後の大運動会 400人参加 来年100周年 会は存続",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40ZjlfZUdVUXlFeWZrRkFld3NtMV9ZYjVQZzY3UFlUMWM3RGFuUFN3OVVoeHVyM3IyeGlQaWs3WWZmNXJ0NGZjZGN0SThQN2lwMjkwVHJTdXlOVUdDdVE?oc=5",
+      "date": "2026-11-28",
+      "publisher": "沖縄タイムス社",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "沖縄 国頭村の一部地域に避難指示",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uYllHZmF5TzR1VUdxQmVHV1RTT0VmUEhubDdFYnJPdWRTTmZkNW93bVQtMm1CNVZWbkFPMjZCY2gwRm96aXFTTGFRekNkaDM3Q29qY3dNYWxIRzFxTjdZ?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "沖縄 国頭村にレベル4土砂災害危険警報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQlJLOTBPbmZvcHBBSWUzUkNOdmFhdFVON2RpMnJ2WTZNWUhFYlQ5MkJMQ3dmczhaY1I4X3FjYVRTWTBuZEJFdHpkSnpiN3VkaFBKempDN3B2OGhmV2h3?oc=5",
+      "date": "2026-11-27",
+      "publisher": "NHKニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県国頭村に発表（03時53分時点） (FNNプライムオンライン（フジテレビ系）)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYi1PTlpCUXEzSUNCMURMajY2TDBwcm5ScWVBeEdOZWJiWGw5emNqclZUV250ZEx0R1ZfVFh3OW9aNkEtTHROUVZyRXR5dXJkbHhJT0s3THl2dlNhaUdLR0JfclJiQ2dPV1E4S1BrUHRYZXdWYnoydjZnWUI3cTdWbVBaa3JNei1EZUdTSHFR?oc=5",
+      "date": "2026-11-27",
+      "publisher": "Yahoo!ニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "【レベル４土砂災害危険警報】沖縄県・国頭村に発表 03:53時点",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwTnhQSFdfbzZxTXJNWFUyS1phQklHN1hya3Nld0FfeHpuTEp0aHQ4R29MLXRWeG9zYkloS2J4VE9CZkF5R1VwUHFPQkdPTFB5NDAwcDZ4Q0JNbEJTZjhtYXR4OVU1T09aQzdlaVBLOWd2cjdR0gF0QVVfeXFMUHBOeFBIV19vNnFNck1YVTJLWmFCSUc3WHJrc2V3QV94em5MSnRodDhHb0wtdFZ4b3NiSWhLYnhUT0JmQXlHVXBQcU9CR09MUHk0MDBwNnhDQk1sQlNmOG1hdHg5VTVPT1pDN2VpUEs5Z3ZyN1E?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "国頭村の県道70号で土砂崩れ 安波―安田間で片側通行に",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOandjZHZtWEdPVjlZRjBteGtlVWJ5NThpNzJabDJJSmZDOGZ3MC1XX1BYZTM4bG5zMkM5ZEk3OHlCUFI2RDB3QjBPa2Y2ZHFHTXlTcnNmVnFuR3ZFb1RXS1hqUktQR1dOeE8xZ1FvZTl3cGpvMmZYeFZKM2JoNEJUQ3AtcWdVUENH0gGIAUFVX3lxTE5qd2Nkdm1YR09WOVlGMG14a2VVYnk1OGk3MlpsMklKZkM4ZncwLVdfUFhlMzhsbnMyQzlkSTc4eUJQUjZEMHdCME9rZjZkcUdNeVNyc2ZWcW5HdkVvVFdLWGpSS1BHV054TzFnUW9lOXdwam8yZlh4VkozYmg0QlRDcC1xZ1VQQ0c?oc=5",
+      "date": "2026-11-27",
+      "publisher": "ｄメニューニュース",
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】沖縄県国頭村に発表（03時53分時点）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2eUpPb0hNbnYxdlRwSzNRMFFSSUhOX3pJalhuYmY4aUxBQS1xcE8xbW9XLXhiTHo4SVNtd1N5di1kSFBNajhPTGtnZGVFUDhDekxVSUdQeklOaHZCck52MWJjXzk?oc=5",
+      "date": "2026-11-27",
+      "publisher": "千葉テレビ放送",
+      "firstSeen": "2026-11-28"
+    },
     {
       "title": "国頭村の県道70号で土砂崩れ 安波―安田間で片側通行に（沖縄タイムス）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNjBjT05NT0hmQlRHREtpNVBJQUxVWWM1Y0k0cW5jQVVyMXFzZGNsNGFPeXhlelJhUjU0VUVrN0ZRWkR6bV8wc1p0SHpXYkdQdUlZcndXZG9CQ29BXzFJU2xMY2lOWFhLcWZIUDF0Sk01NTZMZy12b3FfbXRNTDA?oc=5",
